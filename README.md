@@ -57,8 +57,6 @@
 
 ### 红烧菜系
 
-在制作红烧菜系前，强烈建议提前学习一些技巧。[烧菜须知](./tips/红烧技巧.md)
-
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
 
@@ -72,11 +70,16 @@
 
 * [酸梅汁](./dishes/drink/酸梅汁.md)
 
-### 酱料
+### 酱料和其它材料
 
 * [油泼辣子](./dishes/condiment/油泼辣子.md)
 * [蒜香酱油](./dishes/condiment/蒜香酱油.md)
 * [糖醋汁](./dishes/condiment/糖醋汁.md)
+* [油酥](./dishes/condiment/油酥.md)
+
+## 进阶
+
+* [辅料使用技巧](./tips/advanced/辅料技巧.md)
 
 ## 如何贡献
 
