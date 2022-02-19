@@ -44,6 +44,7 @@
 
 * [米饭](./dishes/staple/米饭.md)
 * [蛋炒饭](./dishes/staple/蛋炒饭.md)
+* [日式咖喱饭](./dishes/staple/日式咖喱饭/日式咖喱饭.md)
 * [烙饼](./dishes/staple/烙饼/烙饼.md)
 * [炒方便面](./dishes/staple/炒方便面.md)
 * [老干妈拌面](./dishes/staple/老干妈拌面.md)
@@ -52,8 +53,6 @@
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
 * 饺子（等待大佬编写中……）
-* [炸酱面](./炸酱面.md)
-* [日式咖喱饭](./日式咖喱饭.md)
 
 ### 红烧菜系
 
