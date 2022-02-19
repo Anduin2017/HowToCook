@@ -70,11 +70,12 @@
 
 * [酸梅汁](./dishes/drink/酸梅汁.md)
 
-### 酱料
+### 酱料和其它材料
 
 * [油泼辣子](./dishes/condiment/油泼辣子.md)
 * [蒜香酱油](./dishes/condiment/蒜香酱油.md)
 * [糖醋汁](./dishes/condiment/糖醋汁.md)
+* [油酥](./dishes/condiment/油酥.md)
 
 ## 如何贡献
 
