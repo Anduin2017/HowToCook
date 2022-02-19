@@ -70,6 +70,7 @@
 * [凉皮](./dishes/staple/凉皮.md)
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
+* [速冻汤圆](./dishes/staple/速冻汤圆/速冻汤圆.md)
 * 饺子（等待大佬编写中……）
 
 ### 红烧菜系
