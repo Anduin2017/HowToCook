@@ -23,13 +23,6 @@
 
 ## 菜谱
 
-### 早餐
-
-* [太阳蛋](./dishes/breakfast/太阳蛋.md)
-* [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
-* [果酱土司](./dishes/breakfast/吐司果酱.md)
-* [溏心蛋](./dishes/breakfast/溏心蛋.md)
-
 ### 家常菜
 
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
@@ -48,6 +41,14 @@
 * [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
+* [速冻水饺](./dishes/home-cooking/速冻水饺.md)
+
+### 早餐
+
+* [太阳蛋](./dishes/breakfast/太阳蛋.md)
+* [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
+* [果酱土司](./dishes/breakfast/吐司果酱.md)
+* [溏心蛋](./dishes/breakfast/溏心蛋.md)
 
 ### 主食
 
