@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "textlint": "^12.1.0",
+    "textlint-rule-ja-space-between-half-and-full-width": "^2.2.0"
+  }
+}
