@@ -12,7 +12,7 @@
 
 ## 如何贡献
 
-直接修改\添加做菜指南并提交 Pull request 即可。
+直接修改/添加做菜指南并提交 Pull request 即可。
 
 在写新菜谱时，请复制并修改已有的模板: [示例菜](./dishes/template/示例菜/示例菜.md)。
 
@@ -49,7 +49,7 @@
 * [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
-* [速冻水饺](./dishes/home-cooking/速冻水饺.md)
+* [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
 
 ### 早餐
 
@@ -57,6 +57,7 @@
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [果酱土司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
+* [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 
 ### 主食
 
@@ -67,10 +68,15 @@
 * [炒方便面](./dishes/staple/炒方便面.md)
 * [老干妈拌面](./dishes/staple/老干妈拌面.md)
 * [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
-* [凉皮](./dishes/staple/凉皮.md)
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
-* 饺子（等待大佬编写中……）
+* 手工饺子（等待大佬编写中……
+
+### 半成品加工
+
+* [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
+* [速冻水饺](./dishes/semi-finished/速冻水饺.md)
+* [凉皮](./dishes/semi-finished/凉皮.md)
 
 ### 红烧菜系
 
@@ -81,7 +87,8 @@
 
 * [米粥](./dishes/porridge/米粥.md)
 * [皮蛋瘦肉粥](./dishes/porridge/皮蛋瘦肉粥.md)
-* [西红柿鸡蛋汤](./dishes/porridge/西红柿鸡蛋汤.md)
+* [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
+* [金针菇汤](./dishes/soup/金针菇汤.md)
 
 ### 饮料
 
