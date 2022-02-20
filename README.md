@@ -56,6 +56,7 @@
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [果酱土司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
+* [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 
 ### 主食
 
