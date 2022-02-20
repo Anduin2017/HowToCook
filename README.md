@@ -49,7 +49,6 @@
 * [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
-* [速冻水饺](./dishes/home-cooking/速冻水饺.md)
 * [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
 
 ### 早餐
@@ -71,7 +70,9 @@
 * [凉皮](./dishes/staple/凉皮.md)
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
-* 饺子（等待大佬编写中……）
+* [速冻汤圆](./dishes/staple/速冻汤圆/速冻汤圆.md)
+* [速冻水饺](./dishes/home-cooking/速冻水饺.md)
+* 手工饺子（等待大佬编写中……）
 
 ### 红烧菜系
 
