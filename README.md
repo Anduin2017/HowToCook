@@ -69,6 +69,7 @@
 * [凉皮](./dishes/staple/凉皮.md)
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
+* [速冻汤圆](./dishes/staple/速冻汤圆/速冻汤圆.md)
 * [速冻水饺](./dishes/home-cooking/速冻水饺.md)
 * 手工饺子（等待大佬编写中……）
 
