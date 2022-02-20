@@ -1,0 +1,27 @@
+name: Textlint
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  lint-fix:
+    runs-on: ubuntu-latest
+    if: github.repository_owner == 'Anduin2017'
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+        cache: 'npm'
+    - run: npm install
+    - run: ./node_modules/.bin/textlint . --fix
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: '[ci skip] Automatic textlint fixes'
+        branch: 'master'
+        file_pattern: ':/*.md'
+        commit_user_name: github-actions[bot]
+        commit_user_email: github-actions[bot]@users.noreply.github.com
+        commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
