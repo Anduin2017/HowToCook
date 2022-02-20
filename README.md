@@ -86,7 +86,8 @@
 
 * [米粥](./dishes/porridge/米粥.md)
 * [皮蛋瘦肉粥](./dishes/porridge/皮蛋瘦肉粥.md)
-* [西红柿鸡蛋汤](./dishes/porridge/西红柿鸡蛋汤.md)
+* [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
+* [金针菇汤](./dishes/soup/金针菇汤.md)
 
 ### 饮料
 
