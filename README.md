@@ -49,6 +49,7 @@
 * [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
+* [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
 
 ### 早餐
 
