@@ -56,6 +56,7 @@
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
+* [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 
 ### 早餐
 
