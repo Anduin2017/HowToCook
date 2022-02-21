@@ -38,7 +38,7 @@
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
 * 水煮肉片 (等待大佬编写中……)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
-* 糖醋里脊 (等待大佬编写中……)
+* [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
