@@ -26,6 +26,7 @@
 * [学习蒸](./tips/learn/蒸.md)
 * [学习使用压力锅](./tips/learn/高压力锅.md)
 * [学习焯水](./tips/learn/焯水.md)
+* [学习腌（肉）](./tips/learn/学习腌.md)
 * [了解食品安全常识](./tips/learn/食品安全.md)
 * [如何选择吃什么？](./tips/如何选择现在吃什么.md)
 
@@ -50,6 +51,7 @@
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
 * [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
+* [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
 
 ### 早餐
 
@@ -57,6 +59,7 @@
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [果酱土司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
+* [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 
 ### 主食
