@@ -46,6 +46,7 @@
 * [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
 * [凉拌黄瓜](./dishes/home-cooking/凉拌黄瓜.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
+* [香干芹菜炒肉](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
 * [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
