@@ -52,6 +52,7 @@
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
 * [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
 * [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
+* [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 
 ### 早餐
 
