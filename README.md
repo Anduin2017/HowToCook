@@ -21,7 +21,7 @@
 ## 做菜之前
 
 * [采购原料，准备厨房](./tips/厨房准备.md)
-* [了解不同烹饪方式的对比图](./tips/cook-method.jpg)
+* [了解中餐中不同的烹饪方式](./tips/learn/中餐不同的烹饪方式.md)
 * [学习炒与煎炸](./tips/learn/炒与煎.md)
 * [学习煮](./tips/learn/煮.md)
 * [学习蒸](./tips/learn/蒸.md)
