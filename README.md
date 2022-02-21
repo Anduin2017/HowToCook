@@ -14,7 +14,7 @@
 
 直接修改/添加做菜指南并提交 Pull request 即可。
 
-在写新菜谱时，请复制并修改已有的模板: [示例菜](./dishes/template/示例菜/示例菜.md)。
+在写新菜谱时，请复制并修改已有的模板: [示例菜](./dishes/template/示例菜/示例菜.md?plain=1)。
 
 记得在提交 Pull Request 前同样更新一下 Readme.md 里的引用。
 
@@ -38,7 +38,7 @@
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
 * 水煮肉片 (等待大佬编写中……)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
-* 糖醋里脊 (等待大佬编写中……)
+* [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
@@ -52,6 +52,8 @@
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
 * [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
 * [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
+* [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
+* [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 
 ### 早餐
@@ -89,8 +91,8 @@
 
 ### 汤与粥
 
-* [米粥](./dishes/porridge/米粥.md)
-* [皮蛋瘦肉粥](./dishes/porridge/皮蛋瘦肉粥.md)
+* [米粥](./dishes/soup/米粥.md)
+* [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
 * [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 * [金针菇汤](./dishes/soup/金针菇汤.md)
 
