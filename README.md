@@ -75,6 +75,10 @@
 * [炸酱面](./dishes/staple/炸酱面.md)
 * 手工饺子（等待大佬编写中……
 
+### 西餐
+
+* [披萨饼皮](./dishes/pizza/披萨饼皮.md)
+
 ### 半成品加工
 
 * [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
