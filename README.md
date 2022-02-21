@@ -57,6 +57,7 @@
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 * [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
+* [白灼虾](./dishes/home-cooking/白灼虾.md)
 
 ### 早餐
 
