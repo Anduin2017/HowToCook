@@ -14,7 +14,7 @@
 
 直接修改/添加做菜指南并提交 Pull request 即可。
 
-在写新菜谱时，请复制并修改已有的模板: [示例菜](./dishes/template/示例菜/示例菜.md)。
+在写新菜谱时，请复制并修改已有的模板: [示例菜](./dishes/template/示例菜/示例菜.md?plain=1)。
 
 记得在提交 Pull Request 前同样更新一下 Readme.md 里的引用。
 
@@ -26,6 +26,7 @@
 * [学习蒸](./tips/learn/蒸.md)
 * [学习使用压力锅](./tips/learn/高压力锅.md)
 * [学习焯水](./tips/learn/焯水.md)
+* [学习腌（肉）](./tips/learn/学习腌.md)
 * [了解食品安全常识](./tips/learn/食品安全.md)
 * [如何选择吃什么？](./tips/如何选择现在吃什么.md)
 
@@ -37,7 +38,7 @@
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
 * 水煮肉片 (等待大佬编写中……)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
-* 糖醋里脊 (等待大佬编写中……)
+* [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
@@ -50,6 +51,12 @@
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
 * [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
+* [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
+* [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
+* [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
+* [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
+* [咕噜肉](./dishes/home-cooking/咕噜肉.md)
+* [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 
 ### 早餐
 
@@ -57,6 +64,7 @@
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [果酱土司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
+* [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 
 ### 主食
@@ -80,13 +88,14 @@
 
 ### 红烧菜系
 
+* [红烧肉](./dishes/braised/红烧肉/红烧肉.md)
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
 
 ### 汤与粥
 
-* [米粥](./dishes/porridge/米粥.md)
-* [皮蛋瘦肉粥](./dishes/porridge/皮蛋瘦肉粥.md)
+* [米粥](./dishes/soup/米粥.md)
+* [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
 * [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 * [金针菇汤](./dishes/soup/金针菇汤.md)
 
