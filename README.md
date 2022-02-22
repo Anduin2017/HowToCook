@@ -96,6 +96,10 @@
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
 
+### 甜品烘焙
+
+* [海绵蛋糕](./dishes/dessert/海绵蛋糕/海绵蛋糕.md)
+
 ### 汤与粥
 
 * [米粥](./dishes/soup/米粥.md)
