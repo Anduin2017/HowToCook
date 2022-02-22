@@ -22,7 +22,7 @@
 
 ## 警告
 
-**HowToCook 仓库采用了 [The Unlicense](https://github.com/Anduin2017/HowToCook/blob/master/LICENSE) 协议！**
+**HowToCook 仓库采用了 [The Unlicense](https://unlicense.org/) 协议！**
 
 **菜谱在签入前，必须确保其可以直接声明进入 "公共领域"（public domain)。这意味着一旦合并后，任何人都可以自由复制，修改，发布，使用，编译，出售或以菜谱的形式或菜的形式分发，无论是出于商业目的还是非商目的，以及任何手段。**
 
