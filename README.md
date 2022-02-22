@@ -135,7 +135,7 @@
 ### 甜品
 
 * [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
-* [烤蛋挞](./dishes/dessert/烤蛋挞.md)
+* [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 
 ## 进阶知识学习
 
