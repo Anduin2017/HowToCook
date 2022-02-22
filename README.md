@@ -67,6 +67,7 @@
 * [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
+* [宫保鸡丁](./dishes/home-cooking/宫保鸡丁/宫保鸡丁.md)
 
 ### 早餐
 
