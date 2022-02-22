@@ -1,0 +1,2225 @@
+[33mcommit 05fb051d7f3b700bda0bbaafd57e7abb38bc98d0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wangxihao <1602506271@qq.com>
+Date:   Tue Feb 22 18:26:17 2022 +0800
+
+    feat: 调整规范计量单位、删除操作说明中第N步的文案
+
+[33mcommit cd7c2956a218e52aaa2585a9541c8e933c397c85[m
+Author: wangxihao <1602506271@qq.com>
+Date:   Tue Feb 22 17:59:42 2022 +0800
+
+    feat: 调整鱼香茄子目录、规范markdown
+
+[33mcommit 8eeee6251dae9bd2dc9a02c94ab822aec197f48f[m
+Author: wangxihao <1602506271@qq.com>
+Date:   Tue Feb 22 09:54:12 2022 +0800
+
+    feat: 鱼香肉丝调整
+
+[33mcommit 1df6579ee7d44e0a054a5ed9d3b7b3348e7dc59d[m
+Author: wangxihao <1602506271@qq.com>
+Date:   Mon Feb 21 22:14:33 2022 +0800
+
+    鱼香茄子1
+
+[33mcommit adf0c4ef1abf0f1f67a8d86fe251cab156e5b0d7[m
+Author: wangxihao <1602506271@qq.com>
+Date:   Mon Feb 21 21:23:46 2022 +0800
+
+    鱼香茄子
+
+[33mcommit 2e327a56a2fcff908b4ed87dfaa4c1eeb4d6223e[m
+Merge: 042c7c7 e96432c
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Feb 21 10:20:25 2022 +0800
+
+    Merge pull request #142 from chirsz-ever/patch-1
+    
+    fix: 将「焯水.md」中「餚」字改为「肴」字
+
+[33mcommit 042c7c7fc2a0b9e0d8c5d1ee39668eda91e954ba[m
+Merge: 6ecf345 0eeea3b
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Feb 21 10:20:04 2022 +0800
+
+    Merge pull request #143 from RoManInv/master
+    
+    增加腌（肉）的教程
+
+[33mcommit 6ecf345fc6f4321860872306d2e17dfec7b51674[m
+Merge: daeebdc 61e961b
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Feb 21 10:17:31 2022 +0800
+
+    Merge pull request #147 from clearcodecn/master
+    
+    更新蛋炒饭更美味的做法
+
+[33mcommit daeebdc7a7cd8f6c0727a536a51e93c9080ce280[m
+Merge: 26861db 96f062f
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Feb 21 10:09:40 2022 +0800
+
+    Merge pull request #125 from WyattJia/master
+    
+    Create 水煮玉米.md
+
+[33mcommit 96f062f3e6e4e9cccb10634897aff580e80af89d[m
+Merge: a064bc0 26861db
+Author: bitstring <wellschuan@gmail.com>
+Date:   Mon Feb 21 09:55:23 2022 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit a064bc0222f1d4ec2927f4a5dd7b96679eb0a3a4[m
+Author: bitstring <wellschuan@gmail.com>
+Date:   Mon Feb 21 09:54:43 2022 +0800
+
+    Update 水煮玉米，resolve template issue.
+
+[33mcommit 61e961b1970fdf08e0e4e48e97dab98300222c1d[m
+Author: clearcode <34591322+clearcodecn@users.noreply.github.com>
+Date:   Mon Feb 21 09:35:07 2022 +0800
+
+    Update 蛋炒饭.md
+
+[33mcommit 11829d855eafeda1142466d4ccb9f28f86ce80f9[m
+Author: clearcode <34591322+clearcodecn@users.noreply.github.com>
+Date:   Mon Feb 21 09:34:37 2022 +0800
+
+    更新蛋炒饭做法
+
+[33mcommit 0eeea3b2e94192fe6e33bdc475320f7bc6d401e7[m
+Author: Dakai "Steven" Men <RoManInv@users.noreply.github.com>
+Date:   Sun Feb 20 17:54:48 2022 +0100
+
+    Update README.md
+
+[33mcommit e6324a4e07aa4c79b6b2d53df28cb2a5783250f8[m
+Author: Dakai "Steven" Men <RoManInv@users.noreply.github.com>
+Date:   Sun Feb 20 17:54:32 2022 +0100
+
+    Rename 学习腌（肉）.md to 学习腌.md
+
+[33mcommit ed6c4fe27bb074e2a7f4b90e2abaee7437ba93fe[m
+Author: Dakai "Steven" Men <RoManInv@users.noreply.github.com>
+Date:   Sun Feb 20 17:53:59 2022 +0100
+
+    update README.md, add preserving meat
+
+[33mcommit 5d6b4a98aff41895beaf0cb076fcd66c2e7c6f67[m
+Author: Dakai "Steven" Men <RoManInv@users.noreply.github.com>
+Date:   Sun Feb 20 17:52:16 2022 +0100
+
+    Update 学习腌（肉）.md
+
+[33mcommit e96432ccdba8d0a78abf518e03518050aeb43b0b[m
+Author: chirsz <chirsz@foxmail.com>
+Date:   Sun Feb 20 23:51:29 2022 +0800
+
+    fix: 将「焯水.md」中「餚」字改为「肴」字
+
+[33mcommit d68c54c9b8ef0d8f979cc00d8e3d3968d9909d15[m
+Merge: cac22b8 26861db
+Author: Dakai "Steven" Men <RoManInv@users.noreply.github.com>
+Date:   Sun Feb 20 16:47:02 2022 +0100
+
+    Merge branch 'Anduin2017:master' into master
+
+[33mcommit 26861dba62ae9df04f4ac689941f489690d45f45[m
+Merge: 2fe720d 3688a9f
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 22:42:36 2022 +0800
+
+    Merge pull request #138 from elvisw/patch-1
+    
+    Update 烙饼.md
+
+[33mcommit 3688a9f0d08d0e95b9f59746ac3bce7022925def[m
+Author: Elvis Wang <me@elvisw.com>
+Date:   Sun Feb 20 21:18:38 2022 +0800
+
+    Update 烙饼.md
+    
+    修改错别字：`档`->`铛`
+
+[33mcommit 2fe720df88bb5e9dccc76d6a3ae76229a1ad24ff[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sun Feb 20 12:04:23 2022 +0000
+
+    [ci skip] Automatic textlint fixes
+
+[33mcommit 5ba16c3cb0fe910c5adf0fbe3d27809075c78fe7[m
+Merge: 12f4835 665b966
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 20:02:08 2022 +0800
+
+    Merge pull request #133 from palmchou/master
+    
+    炒、蒸 tips 更新
+
+[33mcommit 665b966079459b78df47668c48bed6379ae5fedd[m
+Merge: 79018f9 12f4835
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 20:02:03 2022 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit 12f48357279566e11fec5798d17d84791f33802c[m
+Merge: afb3cb5 8c94ebe
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 19:59:57 2022 +0800
+
+    Merge pull request #134 from WakiJi/master
+    
+    更新了部分制作时的注意事项
+
+[33mcommit 8c94ebef6654eb2cf142f463eba5f6e9157941b8[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 19:43:15 2022 +0800
+
+    Update 高压力锅.md
+    
+    添加手动放气可能存在的问题
+
+[33mcommit 4949b254c16b55d40396392ba2558af1e0bb4fde[m
+Merge: a07a59f afb3cb5
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 19:21:08 2022 +0800
+
+    Merge branch 'Anduin2017:master' into master
+
+[33mcommit a07a59f97239abf8de93449a20ed0f130d3e48be[m
+Merge: de80055 9fd6f30
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 19:20:47 2022 +0800
+
+    Merge pull request #1 from WakiJi/patch-1
+    
+    Patch 1
+
+[33mcommit 79018f964a671ac5252b32b964fe702fe328090a[m
+Merge: 0a353d5 afb3cb5
+Author: Palm <shuaizhou.palm@gmail.com>
+Date:   Sun Feb 20 03:20:13 2022 -0800
+
+    Merge branch 'Anduin2017:master' into master
+
+[33mcommit 0a353d5ea62b181507c750fcf96ba3be10f41e85[m
+Author: Palm <shuaizhou.palm@gmail.com>
+Date:   Sun Feb 20 03:19:26 2022 -0800
+
+    炒、蒸 tips 更新
+    
+    * 增加硅胶铲作为配合不粘锅的选型
+    * 提醒 蒸菜时 注意不要将水煮干
+
+[33mcommit afb3cb55a88592dbac5eb9d69dbc41cf53a00a34[m
+Merge: 4912024 8085403
+Author: Recolic <root@recolic.net>
+Date:   Sun Feb 20 19:17:38 2022 +0800
+
+    Merge pull request #115 from Cha-Shao/master
+    
+    微波炉蛋糕的做法
+
+[33mcommit 9fd6f30b264b6077093eaf6e08f2ec112f0d2e3f[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 19:17:14 2022 +0800
+
+    Update 蒸.md
+    
+    增加干锅注意事项
+
+[33mcommit 80854036682279c1a0e12c0a79e69ac30c6d50ad[m
+Author: Recolic Keghart <root@recolic.net>
+Date:   Sun Feb 20 19:16:17 2022 +0800
+
+    revert a comment
+
+[33mcommit 8a43dd5b2e98b627b9b82fe224e5cb87eb321d16[m
+Author: Cha_Shao <yrchashao@outlook.com>
+Date:   Sun Feb 20 19:04:29 2022 +0800
+
+    勺子大小标准化
+
+[33mcommit 49120249f40941dc334010dc5331acc180f5baaf[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 17:29:02 2022 +0800
+
+    Update 高压力锅.md
+
+[33mcommit d94c476ce35e1b22c24441e498056374ae77feb2[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sun Feb 20 09:25:58 2022 +0000
+
+    [ci skip] Automatic textlint fixes
+
+[33mcommit 270bddfce9fd420acc285723729229c87e5ced89[m
+Merge: 2acc19a de80055
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 17:24:02 2022 +0800
+
+    Merge pull request #130 from WakiJi/master
+    
+    菜谱增加
+
+[33mcommit de80055f3c481647f7bb0bc79bcf293cf3bc5b65[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 17:22:19 2022 +0800
+
+    Update 金针菇汤.md
+    
+    去了趟市场以更新金针菇具体的量
+
+[33mcommit 2acc19ab931da2d6ca083bb9dcfdef087d48f734[m
+Merge: d0bb2f3 c8b7b2c
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 17:20:34 2022 +0800
+
+    Merge pull request #104 from recolic/master
+    
+    [Contributing Rule Change] 贡献指南规范化
+
+[33mcommit c8b7b2ceac41ff1690a8e0df0d7327c5c9c9ab37[m
+Author: Recolic Keghart <root@recolic.net>
+Date:   Sun Feb 20 17:07:54 2022 +0800
+
+    fix
+
+[33mcommit 31238e8aa1e71e6371572658e03b163d9eefa515[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 17:07:17 2022 +0800
+
+    Update README.md
+    
+    添加了金针菇汤
+
+[33mcommit 11055ba51fcf3f6d84299653264c74b1a05fca53[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 17:05:54 2022 +0800
+
+    Update 金针菇汤.md
+
+[33mcommit 394333194e0547ea5786b67935fc1417ecf1507e[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 17:05:42 2022 +0800
+
+    Delete 金针菇汤.md
+
+[33mcommit c35b18f1353434430bfe79a9a2793894ea244490[m
+Author: Recolic Keghart <root@recolic.net>
+Date:   Sun Feb 20 16:59:52 2022 +0800
+
+    fix
+
+[33mcommit 1d11c1360a27dd6f3e0ebd561968284590b39ac8[m
+Author: Recolic Keghart <root@recolic.net>
+Date:   Sun Feb 20 16:57:13 2022 +0800
+
+    unnecessary material/tools allowed
+
+[33mcommit 12ce89d737c04a77400c08af93726b22c4f9fd44[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 16:57:01 2022 +0800
+
+    Update 金针菇汤.md
+
+[33mcommit a9750a67876854439a506d6cd91cc65255be3906[m
+Merge: df462ab d0bb2f3
+Author: Recolic Keghart <root@recolic.net>
+Date:   Sun Feb 20 16:56:42 2022 +0800
+
+    merge
+
+[33mcommit 521372a5d9323e7e2720166c0faeaa08a7038726[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 16:55:16 2022 +0800
+
+    Rename dishes/porridge/西红柿鸡蛋汤.md to dishes/soup/西红柿鸡蛋汤.md
+
+[33mcommit 0d6e6988bc9b77279ff67e2e28bf996127c24c2c[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 16:54:21 2022 +0800
+
+    Create 金针菇汤.md
+
+[33mcommit df462abbdccec0464aebc5fb6fe232cdd218c59b[m
+Author: Recolic <root@recolic.net>
+Date:   Sun Feb 20 16:39:09 2022 +0800
+
+    Update CONTRIBUTING.md
+
+[33mcommit 4866a1cf2b48fb3c144abb07db5c5be6ee2284f2[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 16:07:30 2022 +0800
+
+    Update and rename 金针菇汤 to 金针菇汤.md
+
+[33mcommit 16661b1f0318c61959075bb5ba3c33daee3e3a0f[m
+Author: Cha_Shao <yrchashao@outlook.com>
+Date:   Sun Feb 20 16:03:03 2022 +0800
+
+    忘记更新README了
+
+[33mcommit 1c0c7d44bfc774ecc15f69a4e6f232cdab145d94[m
+Author: Waki <2206602594@qq.com>
+Date:   Sun Feb 20 15:57:17 2022 +0800
+
+    Create 金针菇汤
+
+[33mcommit d0bb2f31d8ff7ad39fe6d9b122ad9d180d837869[m
+Author: Anduin Xue <xuef@microsoft.com>
+Date:   Sun Feb 20 15:28:16 2022 +0800
+
+    新增门类：半成品加工。
+
+[33mcommit 541a57c409016bbf9c73bac2f212fd6ccbcc1aae[m
+Author: Anduin Xue <xuef@microsoft.com>
+Date:   Sun Feb 20 15:25:46 2022 +0800
+
+    修正一个语法错误。
+
+[33mcommit 0f14e630f055f77d2f7540ad2501453531a5e017[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 15:23:53 2022 +0800
+
+    Update 洋葱炒猪肉.md
+
+[33mcommit 938a7d5ab329626993e255b85eccea7f0a798f06[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sun Feb 20 07:18:43 2022 +0000
+
+    [ci skip] Automatic textlint fixes
+
+[33mcommit 727fb496d1d22bd8b0d1b0709805af4f59c430f6[m
+Merge: e9e0bad 7974cf0
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 15:17:19 2022 +0800
+
+    Merge pull request #118 from mis101247/master
+    
+    Create 洋葱炒猪肉.md
+
+[33mcommit 4989dbea5efc437be5cca2eed9bcdf8fad54d137[m
+Merge: 1e5b9f4 e9e0bad
+Author: Cha_Shao <yrchashao@outlook.com>
+Date:   Sun Feb 20 15:17:18 2022 +0800
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 7974cf026e6b9a95acee2cc618d32340abe733ec[m
+Merge: d518a20 e9e0bad
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 15:17:14 2022 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit e9e0bad3bff6c83d41cc0026a28ff7ffb6752ee7[m
+Merge: 29232b8 462357c
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 15:13:50 2022 +0800
+
+    Merge pull request #117 from wuyudi/master
+    
+    Create 速冻汤圆.md
+
+[33mcommit 462357c3ce31531c6b112da21920809221dd78bb[m
+Merge: b10fbbb 29232b8
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 15:13:42 2022 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit 29232b894bd7d8f87da29d4483e9c9ad58612f9f[m
+Merge: 69f01ce cec959b
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 15:08:53 2022 +0800
+
+    Merge pull request #123 from LJea/master
+    
+    [U] 优化了对油温,辣度控制
+
+[33mcommit 69f01ce33f51de24cc6897f1dfe7b1d157567127[m
+Merge: 7152f70 5c119d5
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 15:08:43 2022 +0800
+
+    Merge pull request #122 from yihuaxiang/master
+    
+    chore: 优化"速冻水饺"操作步骤
+
+[33mcommit e0b49d1371728850ea83c409041356545253f237[m
+Author: bitstring <wellschuan@gmail.com>
+Date:   Sun Feb 20 14:57:05 2022 +0800
+
+    Create 水煮玉米.md
+
+[33mcommit cec959bbb00a5b06a5989794146ea8fa353951dd[m
+Merge: 520ff03 0815790
+Author: LJea <cnljea@outlook.com>
+Date:   Sun Feb 20 12:53:34 2022 +0800
+
+    Merge pull request #1 from LJea/patch-1
+    
+    [U] 优化了对油温,辣度控制
+
+[33mcommit 5c119d52b41aa89598acbb7019f0903fdece8c89[m
+Author: 敖武 <dongdong.fdd@alibaba-inc.com>
+Date:   Sun Feb 20 12:32:51 2022 +0800
+
+    chore: 优化"速冻水饺"操作步骤
+
+[33mcommit 7152f7041a490a058332c89f888ea852cc1d4710[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 12:29:17 2022 +0800
+
+    Update README.md
+
+[33mcommit 3b4b4b4b39172e7f38568790ce8639d540e370cd[m
+Merge: 520ff03 945295f
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 12:19:21 2022 +0800
+
+    Merge pull request #121 from 368573607/fix_specification
+    
+    修复一些菜谱没有加“的做法”的bug
+
+[33mcommit 08157901c9c62846ab9902e4ac32db2ecd01f7a8[m
+Author: LJea <cnljea@outlook.com>
+Date:   Sun Feb 20 11:11:54 2022 +0800
+
+    [U] 优化了对油温,辣度控制
+
+[33mcommit 945295f46ffacf0365e36fe8f87a8d40c2d0f0cb[m
+Author: sun <xuhuading@foxmail.com>
+Date:   Sun Feb 20 11:07:43 2022 +0800
+
+    修复一些菜谱没有加“的做法”的bug
+
+[33mcommit cac22b831add6fd5174f934ce0a400ea0fa8b4c3[m
+Author: Dakai "Steven" Men <RoManInv@users.noreply.github.com>
+Date:   Sat Feb 19 22:07:43 2022 +0100
+
+    Create 学习腌（肉）.md
+
+[33mcommit d518a20b9c97c45943913240e9e88b0e2898471a[m
+Author: Keyo <814007@gmail.com>
+Date:   Sat Feb 19 20:14:12 2022 +0100
+
+    add 洋葱炒猪肉 in readme
+
+[33mcommit 461727c8a6188415745a119ef5a32b5dd0dae5f2[m
+Author: Keyo <814007@gmail.com>
+Date:   Sat Feb 19 19:53:12 2022 +0100
+
+    Create 洋葱炒猪肉.md
+
+[33mcommit b10fbbb56caf7e7e3b4d17a4a3f59a453a18aef1[m
+Author: AsukaMinato <wuyudi1109@gmail.com>
+Date:   Sun Feb 20 02:41:20 2022 +0800
+
+    add 速冻汤圆 in readme
+
+[33mcommit e16492b9374eb831c0fc7a728ad6955a36e52270[m
+Author: AsukaMinato <wuyudi1109@gmail.com>
+Date:   Sun Feb 20 02:39:02 2022 +0800
+
+    fix typo
+
+[33mcommit 228eea3f0d75dc0b319f9905d1ef4fab4bcb25f6[m
+Author: AsukaMinato <wuyudi1109@gmail.com>
+Date:   Sun Feb 20 02:37:03 2022 +0800
+
+    add img
+
+[33mcommit fd38f202ae65328c10ba2b6fb86020a0201e115c[m
+Author: AsukaMinato <wuyudi1109@gmail.com>
+Date:   Sun Feb 20 02:35:33 2022 +0800
+
+    Create 速冻汤圆.md
+
+[33mcommit 1e5b9f45eca890bac84f4f4c181700ed3d98fac9[m
+Author: Cha_Shao <yrchashao@outlook.com>
+Date:   Sun Feb 20 02:34:43 2022 +0800
+
+    注释没删干净
+
+[33mcommit 2e52ea4a4b3313b6dcb2ffe65c1ea16479d77d32[m
+Author: Cha_Shao <yrchashao@outlook.com>
+Date:   Sun Feb 20 02:29:43 2022 +0800
+
+    微波炉蛋糕的做法
+
+[33mcommit 520ff03af3ce4c4e59bd14ef8647764e44b51716[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Feb 19 18:03:08 2022 +0000
+
+    [ci skip] Automatic textlint fixes
+
+[33mcommit 151bcc0958b8642a7ef05a54db639adaed0c0e24[m
+Merge: c6a6f66 68900e3
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 01:44:57 2022 +0800
+
+    Merge pull request #80 from 368573607/master
+    
+    优化一些形式化描述
+
+[33mcommit c6a6f66d6f962dfb9737c16822cc182014cb02de[m
+Merge: b133c6b e7fe5cc
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 01:43:49 2022 +0800
+
+    Merge pull request #114 from Bersder/oshino/special-drink
+    
+    feature(drink): 百香果橙子特调
+
+[33mcommit e7fe5ccd73a26589dc48e10ea5ded7e876da4d6d[m
+Author: oshino <B1747322151@outlook.com>
+Date:   Sun Feb 20 01:11:43 2022 +0800
+
+    feature(drink): 百香果橙子特调
+
+[33mcommit 68900e3d499fcf984a359700bfdb5a261597cf47[m
+Merge: 89bcc00 b133c6b
+Author: sun <xuhuading@foxmail.com>
+Date:   Sun Feb 20 01:16:40 2022 +0800
+
+    Merge branch 'master' of https://github.com/Anduin2017/HowToCook
+
+[33mcommit b133c6bc94806e5761b96daf97c0a1d18d34eff8[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Feb 19 16:37:18 2022 +0000
+
+    [ci skip] Automatic textlint fixes
+
+[33mcommit 45b9890d63d0229e9615963909e21258790cb693[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 00:28:37 2022 +0800
+
+    Create CONTRIBUTING.md
+
+[33mcommit fbee56e8d3cbfe73e4415c130cd7ddf4fa843449[m
+Author: Anduin Xue <anduin.xue@microsoft.com>
+Date:   Sun Feb 20 00:24:03 2022 +0800
+
+    Create CNAME
+
+[33mcommit 4b6db9cb7bfeac1bf1f0ea2050abb11931eb53a1[m
+Merge: 9012be8 7635a91
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sun Feb 20 00:22:51 2022 +0800
+
+    Merge branch 'master' of github.com:Anduin2017/HowToCook
+
+[33mcommit 9012be85b2328b164cd35377fee3c143229b3cc4[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sun Feb 20 00:22:46 2022 +0800
+
+    说明模板文件需要点击 Raw
+
+[33mcommit 7635a910c683a06d39369aed704a5b51f3cd6c1f[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sun Feb 20 00:19:56 2022 +0800
+
+    Update 西红柿炒鸡蛋.md
+
+[33mcommit 4b8263787d7163baafbdc55140f07fe6703d4f06[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sun Feb 20 00:14:42 2022 +0800
+
+    让贡献者删除模板中的注释。
+
+[33mcommit e4ef15088702458bddc946a8d2e4416eb2a2f21f[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sun Feb 20 00:13:08 2022 +0800
+
+    修正了模板可能的不准确的问题。
+
+[33mcommit 89bcc005725b88b2eaa95a7bd771a82d0bfdd6a4[m
+Author: sun <60562136+368573607@users.noreply.github.com>
+Date:   Sun Feb 20 00:07:41 2022 +0800
+
+    优化太阳蛋的一些描述的严谨性
+    
+    * 不能为了程序而将描述程序化
+    * 伪代码并不要求完全符合某种语法，重点是看得懂
+    ** 微波炉分钟+=1 只是增加了总时间，但并没有命令微波炉再打1分钟，此句存在一定的歧义
+
+[33mcommit f0278b7da0784f1e97a52e501974527303c52b13[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sun Feb 20 00:06:15 2022 +0800
+
+    重构大米粥。
+
+[33mcommit 288a42a62e5fc58b6587e3cc87195ba9be438cb6[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sun Feb 20 00:01:23 2022 +0800
+
+    重构速冻水饺和西红柿炒鸡蛋。
+
+[33mcommit bae78ae659b3a2986ee3dfd2707b0b5a29a55590[m
+Merge: 12cd51f c2bfc3f
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 23:55:20 2022 +0800
+
+    Merge pull request #85 from iceBear67/master
+    
+    Add: 速冻水饺
+
+[33mcommit 12cd51ff9e015244c2902ac7fe3e8568e9a45612[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 23:53:28 2022 +0800
+
+    重构西红柿炒鸡蛋。
+
+[33mcommit 68a531acd79e3f444658e04e65f4131ff256e1c1[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 23:38:47 2022 +0800
+
+    添加对小炒肉的引用。
+
+[33mcommit bd87439bef03abd3846b3e632f2aaa5905edbc49[m
+Merge: 1f40caa 2c5e4dc
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 23:33:33 2022 +0800
+
+    Merge pull request #106 from renqiang06/小炒肉
+    
+    小炒肉
+
+[33mcommit 2c5e4dc483f50f970331202d35f54188c69ac8ab[m
+Merge: 43b0ae6 1f40caa
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 23:33:20 2022 +0800
+
+    Merge branch 'master' into 小炒肉
+
+[33mcommit 1f40caa81a5c9aab0ace61853267c6a481dc5161[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 23:31:55 2022 +0800
+
+    将半熟水煮蛋重命名为溏心蛋，并移动到早餐。
+
+[33mcommit 8a4f92088a328d0134ef5a71970b491af1b9500d[m
+Merge: 25c4fca c1da45a
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 23:18:28 2022 +0800
+
+    Merge pull request #112 from minhonglolz/half-cooked-egg
+    
+    添加半熟鸡蛋的做法
+
+[33mcommit 25c4fca46a3344fce9b683088e0a1e0092aa4583[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 23:18:09 2022 +0800
+
+    添加焯水教程。
+
+[33mcommit 44c0d820588a16b1e69ef7469baaca61e2b65db7[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 23:07:01 2022 +0800
+
+    引用模板。
+
+[33mcommit 912c9520a36e7d1ef549a6eb942d42d8d8380c3e[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 23:00:51 2022 +0800
+
+    添加示例菜模板。
+
+[33mcommit c1da45a319e41f020fd285f67604f4ce1b6eb5b7[m
+Author: 黃閔弘 <z574512z@gmail.com>
+Date:   Sat Feb 19 22:51:06 2022 +0800
+
+    添加半熟鸡蛋的做法
+
+[33mcommit 46086fb90be9a2f57dd1775a9bb66d117e3e1c1c[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 22:43:46 2022 +0800
+
+    修改一下日式咖喱饭的格式。
+
+[33mcommit f34c7d1a912a40701f345aa4bae9dc60b4e14051[m
+Merge: e9ed0d2 3ec1d17
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 22:41:30 2022 +0800
+
+    Merge pull request #107 from amomorning/master
+    
+    日式咖喱饭的做法
+
+[33mcommit e9ed0d21efd1caed91427f594efedfdcf272d497[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 22:40:23 2022 +0800
+
+    添加对 果酱土司 的引用。
+
+[33mcommit 2a8eeffcaa1abebce917be87204080fc0dcd1f3a[m
+Merge: 6e2a99b d378390
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 22:38:13 2022 +0800
+
+    Merge pull request #111 from wuweijian1997/master
+    
+    add:吐司+果酱
+
+[33mcommit 6e2a99ba6c314d49ac57d0da6e943d3bf64dc43d[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 22:37:44 2022 +0800
+
+    重构厨房操作注意事项
+
+[33mcommit 3ec1d173cb80941ac4b451d89894ed34e89eb2ae[m
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 22:35:44 2022 +0800
+
+    重构目录结构
+
+[33mcommit d378390930edcefce58314aa28721d85393160cc[m
+Author: luoji <wuweijian1997@gmail.com>
+Date:   Sat Feb 19 22:34:14 2022 +0800
+
+    add:吐司+果酱
+
+[33mcommit 5033a0a28f90e32a9fe06bebc10d32e386d5b87c[m
+Merge: 4f43dc7 bb186ea
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 22:32:27 2022 +0800
+
+    Merge branch 'Anduin2017:master' into master
+
+[33mcommit bb186ea8f8413071fda5225be4ddc151f4b7cd1b[m
+Merge: ebcaaa5 be4060d
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 22:30:29 2022 +0800
+
+    Merge pull request #72 from raysarl/master
+    
+    Add 厨房基本操作注意事项
+
+[33mcommit ebcaaa553915becc273dfca255082e06367bbdb2[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 22:29:49 2022 +0800
+
+    重构红烧技巧。
+
+[33mcommit ef19ad44cdda5c0845f3bc0d660185ab0121eb63[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 22:26:16 2022 +0800
+
+    将油酥设置为一个单独的菜。
+
+[33mcommit 4f43dc7b5da7508f22c499cd168ff92057f10b4e[m
+Merge: dfe6a2b 17896f4
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 22:15:57 2022 +0800
+
+    Merge branch 'Anduin2017:master' into master
+
+[33mcommit 17896f40e025de1de6f511cbf9e3fbda3693eb03[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 22:15:41 2022 +0800
+
+    将糖醋汁挪动为一道单独的菜。
+
+[33mcommit dfe6a2bdbc30af59cf932f097a734885dd3bc2f3[m
+Merge: 4790767 b15b22e
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 22:13:52 2022 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit b15b22e7be2cf8e486b6c73a1e3e022f3b654dd5[m
+Author: Anduin Xue <Anduin@aiursoft.com>
+Date:   Sat Feb 19 22:11:25 2022 +0800
+
+    重构目录结构。
+
+[33mcommit 478e487897ab73653be4437f4c3de1d9d25090b3[m
+Merge: 9742156 bf57b5e
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 21:51:28 2022 +0800
+
+    Merge pull request #108 from Kou-awa/master
+    
+    add 蒜香酱油
+
+[33mcommit bf57b5e466c5f4a97e6c0ba106287c592fcb5cc0[m
+Author: Kou-awa <98643870+Kou-awa@users.noreply.github.com>
+Date:   Sat Feb 19 21:21:57 2022 +0800
+
+    Update README.md
+
+[33mcommit 47907678be316f38c5e43a586627c5cf4e14b1c8[m
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 21:11:27 2022 +0800
+
+    Fix format
+
+[33mcommit 4841210c49f83f75d91f39d1b57f0eac36ca3969[m
+Merge: 4145613 06d95b9
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 20:51:50 2022 +0800
+
+    Merge branch 'master' of github.com:amomorning/HowToCook
+
+[33mcommit 4145613251b47bf023fd2729df21d81719900619[m
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 20:51:43 2022 +0800
+
+    Fix format
+
+[33mcommit 2149d342e832e18eb871e05f1b885c1cb02166a8[m
+Author: Kou-awa <98643870+Kou-awa@users.noreply.github.com>
+Date:   Sat Feb 19 20:47:37 2022 +0800
+
+    再次更新
+
+[33mcommit 43b0ae66bf11d7ccade6f546406ed005518c0d23[m
+Author: renqiang06 <renqiang06@126.com>
+Date:   Sat Feb 19 20:47:21 2022 +0800
+
+    update process
+
+[33mcommit 15f737e6fee58e4ac1b8657ed1f9a1c79e9f179e[m
+Author: Kou-awa <98643870+Kou-awa@users.noreply.github.com>
+Date:   Sat Feb 19 20:47:09 2022 +0800
+
+    更新单位
+    
+    把单位从勺改为了毫升
+
+[33mcommit 437743e790e397f2bd2fd14f6c63a06142135ceb[m
+Author: Kou-awa <98643870+Kou-awa@users.noreply.github.com>
+Date:   Sat Feb 19 20:34:47 2022 +0800
+
+    add 蒜香酱油
+
+[33mcommit 06d95b92c514768979d5639521008be19995c730[m
+Merge: f0f5aae 9742156
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 20:22:01 2022 +0800
+
+    Merge branch 'Anduin2017:master' into master
+
+[33mcommit f0f5aae56bd74d38b634ca4a5e5beb420014f310[m
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 20:21:31 2022 +0800
+
+    添加日式咖喱饭的做法
+
+[33mcommit 97421561b6a523ac6b47d7c7bfdc04b0546b4418[m
+Author: Cyandev <unixzii@gmail.com>
+Date:   Sat Feb 19 00:43:46 2022 +0800
+
+    fix lint issues
+    
+    (cherry picked from commit d33cf3cc72638e36b3da89cbd0dae98d97c052aa)
+
+[33mcommit b69d6a933f8bea436d826baa394b5d2154ab24e6[m
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 20:19:48 2022 +0800
+
+    添加流程、图解和照片
+
+[33mcommit 7359645d9e7e6391d568914c4e081adb9ea5fb8f[m
+Author: renqiang06 <renqiang06@126.com>
+Date:   Sat Feb 19 20:18:18 2022 +0800
+
+    update
+
+[33mcommit 654e790e94daa040f008e9cc486ae4ec7126316e[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Sat Feb 19 12:03:17 2022 +0000
+
+    [ci skip] Automatic textlint fixes
+
+[33mcommit 43abbfd80d2e3a8b2bc114b923dff286b674b645[m
+Author: Yichen Mo <amomorning@gmail.com>
+Date:   Sat Feb 19 19:22:43 2022 +0800
+
+    Create 日式咖喱饭.md
+
+[33mcommit 00000000e881f96a96d37f4fd51b4152bfc7045f[m
+Author: Recolic Keghart <root@recolic.net>
+Date:   Sat Feb 19 18:58:16 2022 +0800
+
+    Enhance contributing guide. "&
+
+[33mcommit b5ec65d4b6d61e4390e523f14b146d6a7c21af9b[m
+Author: 任强 <renqiang06@126.com>
+Date:   Sat Feb 19 18:51:58 2022 +0800
+
+    新增小炒肉
+
+[33mcommit a9793269f10c66ccf96f548a735764382f112b25[m
+Merge: ee36cd6 26d917d
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 18:44:11 2022 +0800
+
+    Merge pull request #100 from MrWnn/master
+    
+    添加皮蛋瘦肉粥操作
+
+[33mcommit 26d917d585649713856e2299ea25e9987d36a12c[m
+Author: Nick Wnn <wnn5191991@163.com>
+Date:   Sat Feb 19 17:38:39 2022 +0800
+
+    fix format issue
+
+[33mcommit ee36cd6c8dc94f372fc7dc6570a2d7f1e7d1c186[m
+Merge: 0e2aa9e 161f14c
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 16:56:00 2022 +0800
+
+    Merge pull request #96 from ZhengDaoWang/master
+    
+    尖椒炒牛肉
+
+[33mcommit 73e34bfd5c4c02af2334c76e8669addc7c617af4[m
+Author: Nick Wnn <wnn5191991@163.com>
+Date:   Sat Feb 19 15:08:37 2022 +0800
+
+    更新附加描述
+
+[33mcommit 0e2aa9e3f6e1aba5c19f72918b64e65333ffc850[m
+Merge: d132c1f cabfe0b
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Sat Feb 19 14:42:05 2022 +0800
+
+    Merge pull request #91 from Anduin2017/Anduin2017-patch-1
+    
+    Suppress MD024
+
+[33mcommit 4ca96358f7375080fd25c3c1bff104aca669751e[m
+Author: Nick Wnn <wnn5191991@163.com>
+Date:   Sat Feb 19 14:37:38 2022 +0800
+
+    添加皮蛋瘦肉粥操作
+    
+    * [皮蛋瘦肉粥](./皮蛋瘦肉粥.md)
+
+[33mcommit 161f14cdc940b7d0b7acb5c8a9c1d337658b952b[m
+Author: 王政道 <42192783+ZhengDaoWang@users.noreply.github.com>
+Date:   Sat Feb 19 14:36:32 2022 +0800
+
+    Update 尖椒炒牛肉.md
+    
+    去除多余空行
+
+[33mcommit cabfe0bda3ae06e6ff3aa7f276078d75bc105a09[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 14:32:15 2022 +0800
+
+    Update ci.yml
+
+[33mcommit d132c1f291a746074341b48ee7e34774ae3040c9[m
+Merge: 256755b f0ba452
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 14:31:52 2022 +0800
+
+    Merge pull request #99 from bobby285271/textlint
+    
+    CI: add textlint
+
+[33mcommit f0ba452c85a63cf403d92de50cbab51a44d4182b[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Sat Feb 19 14:20:24 2022 +0800
+
+    CI: add textlint
+    
+    Instead of requesting changes in every pull requests and block them from merging,
+    we are trying to automate the process of adding missing spaces between half and
+    full-width characters using GitHub Actions.
+    
+    The main idea is:
+    
+    - Only run the workflow in the main repository (instead of other forks).
+    - Try to fix all files using textlint.
+    - Only commit files with .md extension.
+    - Directly push the change to the master branch.
+    
+    Related projects:
+    
+    - https://github.com/textlint/textlint
+    - https://github.com/textlint-ja/textlint-rule-preset-ja-spacing
+    - https://github.com/sparanoid/chinese-copywriting-guidelines
+    
+    Related discussions:
+    
+    - https://github.com/Anduin2017/HowToCook/pull/88
+
+[33mcommit 256755b858446b9d1b4af7e44e423d9d9d2147ef[m
+Merge: 99c645b d5c056f
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Sat Feb 19 14:05:32 2022 +0800
+
+    Merge pull request #88: add textlintrc
+
+[33mcommit 727890fe2b9d182686d1d3c8d6fb14d7ef6c7608[m
+Author: wangzhengdao <wangzhengdao@cvte.com>
+Date:   Sat Feb 19 13:31:21 2022 +0800
+
+    readme更新链接
+
+[33mcommit 57207273641851cd0031665c2fb9a95bd4ec5282[m
+Author: wangzhengdao <wangzhengdao@cvte.com>
+Date:   Sat Feb 19 12:57:26 2022 +0800
+
+    修改错别字和加上附加内容
+
+[33mcommit d5c056f593e7e7d8cf34d0f466425c74f352eafd[m
+Author: Cyandev <unixzii@gmail.com>
+Date:   Sat Feb 19 12:54:41 2022 +0800
+
+    add textlintrc
+
+[33mcommit c03dd62eb0adf8284e092e8ae4b071b11ebbe73c[m
+Author: wangzhengdao <wangzhengdao@cvte.com>
+Date:   Sat Feb 19 12:51:12 2022 +0800
+
+    尖椒炒牛肉
+
+[33mcommit 464a3656e3be8a8c367bea7e877d482505480677[m
+Author: wangzhengdao <wangzhengdao@cvte.com>
+Date:   Sat Feb 19 12:37:56 2022 +0800
+
+    删除错别字
+
+[33mcommit 9c1c54d578e24906ada8da46c6d566273e57d59b[m
+Author: wangzhengdao <wangzhengdao@cvte.com>
+Date:   Sat Feb 19 12:34:15 2022 +0800
+
+    修改段落
+
+[33mcommit cd181222f655a4143e3bbec0f60d419d33fdce3e[m
+Author: wangzhengdao <wangzhengdao@cvte.com>
+Date:   Sat Feb 19 12:32:53 2022 +0800
+
+    修改空格
+
+[33mcommit f147ec164b75c8e0b1109b9e719be655a59ba0fb[m
+Author: wangzhengdao <wangzhengdao@cvte.com>
+Date:   Sat Feb 19 12:28:58 2022 +0800
+
+    尖椒炒牛肉
+
+[33mcommit 99c645b2644c1348ed1750b4d765c7dc0d72db2b[m
+Merge: f415d96 3d7be3d
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 12:23:42 2022 +0800
+
+    Merge pull request #95 from scturtle/zhajiandmian
+    
+    Add 炸酱面
+
+[33mcommit 3d7be3d197f4b3e1eb4f8cacf0243ddf315decc7[m
+Author: scturtle <scturtle@gmail.com>
+Date:   Sat Feb 19 12:22:02 2022 +0800
+
+    Fix CI
+
+[33mcommit 6419dee3b2f13534877fd98f690219e296303237[m
+Author: scturtle <scturtle@gmail.com>
+Date:   Sat Feb 19 11:31:41 2022 +0800
+
+    Add 炸酱面
+
+[33mcommit c2bfc3f118150321f1f49e653bcad1d6d3f56335[m
+Author: iceBear67 <icebear67@sfclub.cc>
+Date:   Sat Feb 19 09:40:13 2022 +0800
+
+    Removed step for adding water
+
+[33mcommit f415d962adb53b3378c671d4d2c8042a0085c61d[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 01:43:47 2022 +0800
+
+    Update 牛奶燕麦.md
+
+[33mcommit 3707224f9952334c4b1ccf3dd98d10552172d1c9[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 01:40:45 2022 +0800
+
+    Update README.md
+
+[33mcommit d491d82a611bc2be4a9429f8b0ed41c78e1d4e02[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:45:57 2022 +0800
+
+    采纳建议 #84
+
+[33mcommit 597ea87143a09b54e770261840be8a7fa8b5c1fd[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:43:53 2022 +0800
+
+    修正一些格式问题
+
+[33mcommit 7b60f53f7aebc5d19dad740c74acfc3a45a34dcd[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:39:33 2022 +0800
+
+    Update README.md
+
+[33mcommit 0b12fb8a1df724bb4776f3c747f58c45ee0a752d[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:39:02 2022 +0800
+
+    Update README.md
+
+[33mcommit 5f83892ac2138821a2d54953b576a6dc91779b96[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:37:46 2022 +0800
+
+    添加 香干肉丝
+
+[33mcommit 453780c8727d16e5df73d1147862ab007d1075b6[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:37:00 2022 +0800
+
+    添加炒河粉
+
+[33mcommit ee79f02388b2d0008448057fa947d889840598d9[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:36:40 2022 +0800
+
+    将炒河粉扩展名重命名为小写
+
+[33mcommit 43248792b308d9f1a7c09beaa469d1674aed7763[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:36:00 2022 +0800
+
+    修正lint错误。
+
+[33mcommit 99bb591b93095a757cd7ce810fb92b11fb7806e6[m
+Merge: 458b9a1 d48147b
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:35:34 2022 +0800
+
+    Merge pull request #90 from xixilifans/master
+    
+    Add 香干肉丝
+
+[33mcommit c417787dc0615836fc69af2506498a2102cc2f92[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:33:25 2022 +0800
+
+    Suppress MD024
+
+[33mcommit 458b9a1c515b7c0d4950996c1474efc00435ce33[m
+Merge: f8bd2db 6e14ab5
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:31:39 2022 +0800
+
+    Merge pull request #82 from JingqiDuan/patch-1
+    
+    Update 米饭.md
+
+[33mcommit f8bd2db0f8a6d9f51396b8994f713ad99e804bfc[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:28:36 2022 +0800
+
+    #78 修正了一个茄子炖土豆里，辣椒没有被正确引用的错误
+
+[33mcommit 930772768d6a129f874ea777d8eb28043b06ee20[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:25:23 2022 +0800
+
+    #89 删除鸡精。降低料酒的优先级。
+
+[33mcommit 0687ad492f5876f74ad4318cb34520986b1622f0[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 19 00:21:40 2022 +0800
+
+    添加菜刀。
+
+[33mcommit d48147b887e3b11c3c76713c45803a7aeba7ae00[m
+Author: xixilifans <dyufeng1162@gmail.com>
+Date:   Sat Feb 19 00:08:56 2022 +0800
+
+    Update 香干肉丝.md
+
+[33mcommit c4404fd8c65b4773954a41e0f982e13aba98ef32[m
+Author: xixilifans <dyufeng1162@gmail.com>
+Date:   Sat Feb 19 00:07:15 2022 +0800
+
+    香干肉丝
+
+[33mcommit cee3a5dee07fc727edad84520b7b6a8ecee05d6e[m
+Author: xixilifans <dyufeng1162@gmail.com>
+Date:   Sat Feb 19 00:05:12 2022 +0800
+
+    feng
+
+[33mcommit f715b393a0b65cc1e3c896512db4cdb67fbc92eb[m
+Merge: a20489a 49087ca
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Fri Feb 18 22:50:59 2022 +0800
+
+    Merge pull request #87 from ocfox/patch-1
+    
+    修复了 盐量中符号 * 不会显示的问题
+
+[33mcommit 49087cafdddee8729a664540b317ac3fd832cca0[m
+Author: ocfox <47410251+ocfox@users.noreply.github.com>
+Date:   Fri Feb 18 22:46:26 2022 +0800
+
+    修复了 盐量中符号 * 不会显示的问题
+    
+    `盐（人数*4g - 人数*6g）`会使 （*4g - 人数*） 变为斜体 而没有 符号 '*'
+    修复了这个问题
+
+[33mcommit 47a916e17d80c678f05e6e73cbd832a570fbf445[m
+Author: iceBear67 <icebear67@sfclub.cc>
+Date:   Fri Feb 18 22:04:35 2022 +0800
+
+    Add: 速冻水饺
+
+[33mcommit 6e14ab583e469eb1c2194b6e0e5dd2cd1386cfc7[m
+Author: Jingqi Duan <37085905+JingqiDuan@users.noreply.github.com>
+Date:   Fri Feb 18 20:39:00 2022 +0800
+
+    Update 米饭.md
+    
+    Enhanced the punctuation marks for the text.
+
+[33mcommit 6b80b4e930a5ee1b707331ff32fd7869c49a9155[m
+Author: sun <xuhuading@foxmail.com>
+Date:   Fri Feb 18 19:41:05 2022 +0800
+
+    优化如何选择现在吃什么的形式化描述
+
+[33mcommit a20489ab3d1586869b66c5d9aca7cdd6a319d3cb[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 18:02:56 2022 +0800
+
+    Update 蛋炒饭.md
+
+[33mcommit e681a562ad37b1e9912f0006c8c5bb17eea54327[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 18:01:52 2022 +0800
+
+    修正了蛋炒饭盐可能盐过多的问题。 #59
+
+[33mcommit 9a4b288b45c3d638b0f7300ece37914255bd704f[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 17:59:16 2022 +0800
+
+    Update README.md
+
+[33mcommit 46832f9e0e6e806745a59d6da9c0bc7deb78a603[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 17:56:43 2022 +0800
+
+    修正CI的报错。
+
+[33mcommit be4060df908c83c6e8e64b7a84bcbad06a7ae5d4[m
+Author: raysarl <97510802+raysarl@users.noreply.github.com>
+Date:   Fri Feb 18 17:55:55 2022 +0800
+
+    Update 厨房基本操作注意事项.md
+
+[33mcommit 69f07d3036b5db35846592507952685c823fab5a[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 17:54:10 2022 +0800
+
+    添加对牛奶燕麦的链接。
+
+[33mcommit 39979b17bb643533435e19d2a04bbc3230862669[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 17:50:20 2022 +0800
+
+    修正了一个大小写问题。
+
+[33mcommit a5f93d852aee1dba04965574e8089c8a1c6a7579[m
+Merge: b97005b b51a26f
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 17:49:53 2022 +0800
+
+    Merge pull request #69 from GT-ZhangAcer/master
+    
+    README中增加炒河粉
+
+[33mcommit b97005b41c8ed8e7dc40a7a34574b442d8c2d163[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 17:47:49 2022 +0800
+
+    修正了一个有人说炒肉份量太少的问题. Fix #73
+
+[33mcommit be7f58c75f5758544b7ef4b553cc831bd9ddc950[m
+Author: raysarl <97510802+raysarl@users.noreply.github.com>
+Date:   Fri Feb 18 17:28:58 2022 +0800
+
+    Add files via upload
+    
+    Update 厨房基本操作注意事项
+
+[33mcommit b51a26f67cb0185423f4ee14be70c60cbe48ef82[m
+Author: GT-Zhang <1029550448@qq.com>
+Date:   Fri Feb 18 17:02:34 2022 +0800
+
+    README中增加炒河粉
+    
+    在README中增加炒河粉。
+
+[33mcommit 370919ab5459d2ea0fbda86cc04a52d286e95a52[m
+Merge: 888b083 fc15e99
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 16:58:55 2022 +0800
+
+    Merge pull request #68 from GT-ZhangAcer/master
+    
+    增加炒河粉做法
+
+[33mcommit 888b083acf98a2c2ae5be5e5f124964ca4770308[m
+Merge: 38c2901 c3e1e56
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 16:55:05 2022 +0800
+
+    Merge pull request #67 from dickyPro/master
+    
+    Feat:增加清蒸生蚝的做法
+
+[33mcommit 38c29010ff14eca2f036dd76507b22b957bb1fea[m
+Merge: 098089e edf7fe2
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 16:54:34 2022 +0800
+
+    Merge pull request #66 from 3lang3/feat-breakfast-quick
+    
+    Add 快速早餐 牛奶燕麦.md
+
+[33mcommit fc15e99e2444e1c60ca9906dd9035c8a7d6cf8b5[m
+Author: GT-Zhang <1029550448@qq.com>
+Date:   Fri Feb 18 16:44:30 2022 +0800
+
+    Update 炒河粉.MD
+    
+    增加一点配料比例。
+
+[33mcommit ebbd8fd269cbd0a08dc93788942d2795d978567d[m
+Author: GT-Zhang <1029550448@qq.com>
+Date:   Fri Feb 18 16:37:51 2022 +0800
+
+    Update 炒河粉.MD
+
+[33mcommit 166c3640bb29c9338e2b385a8f4ce9ef033bbf03[m
+Author: GT-Zhang <1029550448@qq.com>
+Date:   Fri Feb 18 16:37:22 2022 +0800
+
+    Create 炒河粉.MD
+
+[33mcommit edf7fe277f74e6d845d6e1fa34767ef546233eb7[m
+Author: 3lang <675483520@qq.com>
+Date:   Fri Feb 18 16:15:43 2022 +0800
+
+    Add 快速早餐 牛奶燕麦.md
+
+[33mcommit c3e1e565e647a6ac4ba438c45f2f1579c24fdfe6[m
+Author: hetao3 <hetao3@xiaomi.com>
+Date:   Fri Feb 18 15:55:20 2022 +0800
+
+    feat:add shenghao cook
+
+[33mcommit 098089e81409132efa576ab546ada74107b044ef[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 15:52:41 2022 +0800
+
+    Update README.md
+
+[33mcommit a471b65391d2f9a2f2c6dd35699cf78411367df5[m
+Merge: d04f9d3 4df4461
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 15:51:43 2022 +0800
+
+    Merge pull request #62 from livepo/master
+    
+    Update 凉拌黄瓜.md
+
+[33mcommit 4df44612f1a53d103abff4f9455e6592098b25ab[m
+Author: livepo <qgmfky@gmail.com>
+Date:   Fri Feb 18 15:22:46 2022 +0800
+
+    Update 凉拌黄瓜.md
+
+[33mcommit d04f9d335a89eab3acbc87afb7bc13bb92fbd241[m
+Merge: 66b73cd 2c11344
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Feb 18 13:00:26 2022 +0800
+
+    Merge pull request #56 from Mivinci/master
+    
+    添加老干妈拌面和醪糟小汤圆
+
+[33mcommit 2c113446f2e03fb08ad5018eb5aa2a94ce40f9f2[m
+Author: XJJ <mivinci@qq.com>
+Date:   Fri Feb 18 12:48:58 2022 +0800
+
+    Update 醪糟小汤圆.md
+
+[33mcommit 8ff90b41dc022f78b8367a6a2cec6753947f5c78[m
+Author: XJJ <mivinci@qq.com>
+Date:   Fri Feb 18 12:48:21 2022 +0800
+
+    Update 老干妈拌面.md
+
+[33mcommit 5e32757efaa562c1c6f69e402acea0487b0492f2[m
+Author: XJJ <mivinci@qq.com>
+Date:   Fri Feb 18 12:45:39 2022 +0800
+
+    Update 醪糟小汤圆.md
+
+[33mcommit 37f954eb4c162e583ce67ce6639125bd278ad030[m
+Author: XJJ <mivinci@qq.com>
+Date:   Fri Feb 18 12:04:21 2022 +0800
+
+    Update 醪糟小汤圆.md
+
+[33mcommit 1001e5cb279c06ce64f63a3e54059e0819773854[m
+Author: XJJ <mivinci@qq.com>
+Date:   Fri Feb 18 12:01:46 2022 +0800
+
+    Update 醪糟小汤圆.md
+
+[33mcommit 051f915a8ff2dd298ff3e8817d1cdc1e70fb3a1a[m
+Author: XJJ <mivinci@qq.com>
+Date:   Fri Feb 18 11:58:00 2022 +0800
+
+    Update 老干妈拌面.md
+
+[33mcommit 06118c1ab49a23179904147d1a2b4c89971f6fc1[m
+Author: Mivinci <1366723936@qq.com>
+Date:   Fri Feb 18 11:45:39 2022 +0800
+
+    添加老干妈拌面和醪糟小汤圆
+
+[33mcommit 66b73cd8ffc9bbba0fd6c10ba691cab47e8af2d6[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 15:35:55 2022 +0800
+
+    Update README.md
+
+[33mcommit d02fc3d7c1a48d5d438549b65985967619334a5c[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 15:32:01 2022 +0800
+
+    Update 辣椒炒肉.md
+
+[33mcommit 3bd3acef20acb50810e0044286b5a5a406a1e791[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 15:16:36 2022 +0800
+
+    Update README.md
+
+[33mcommit 5a3f4edbfd52ee5e6485bad9b9537a509d345de2[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 15:15:02 2022 +0800
+
+    Update and rename T-油泼辣子.md to 油泼辣子.md
+
+[33mcommit f0a72c055c10b19f54b6f10f329ff2f68c9cc6e0[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 15:01:24 2022 +0800
+
+    新增辣椒炒肉
+
+[33mcommit 0e6a86b0445cd295e34a2de6593561d726909b5e[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:54:38 2022 +0800
+
+    Update 西红柿鸡蛋.md
+
+[33mcommit 30a6c5865effef33d1a85d8d26a352a13bca0104[m
+Merge: 12616af ef83f6f
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:50:09 2022 +0800
+
+    Merge pull request #43 from asmcpluss/patch-1
+    
+    Update T-油泼辣子.md
+
+[33mcommit 12616afe2200a634431a0123b4c538add7579775[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:49:41 2022 +0800
+
+    Add badges.
+
+[33mcommit daaad66e3309dce261e6f0d610eea64d35de991a[m
+Author: Anduin Xue <anduin.xue@microsoft.com>
+Date:   Thu Feb 17 14:40:24 2022 +0800
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit ef83f6f5df44528dd7522e978e4ae30cec43ca8a[m
+Author: Li Lingqi <1223484098@qq.com>
+Date:   Thu Feb 17 14:35:11 2022 +0800
+
+    Update T-油泼辣子.md
+
+[33mcommit 32c4d96458b9d50e7c457c0f8c392ceb6fc7bf2e[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:29:16 2022 +0800
+
+    Update 太阳蛋.md
+
+[33mcommit 9eeb305a2ff4cdbd9e8494eac4f76daebf8cbd6e[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:28:11 2022 +0800
+
+    Update 太阳蛋.md
+
+[33mcommit ee0f6fdd1fd8f160a63e0b5547e29cdd8393f5a2[m
+Merge: ad25936 62d4f92
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:26:30 2022 +0800
+
+    Merge pull request #24 from wuyudi/master
+    
+    增加太阳蛋做法
+
+[33mcommit ad25936d69da3ddbf25eb8d0f329a4412bfeabab[m
+Merge: d0a4716 c1abf7a
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:25:50 2022 +0800
+
+    Merge pull request #38 from yliugen/update_huiguorou
+    
+    肉的一段处理第3步不严谨，需加入水
+
+[33mcommit d0a4716f54ea97634c3a8dc2347f9e0c355f48f3[m
+Merge: 6d98079 8613b26
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:24:53 2022 +0800
+
+    Merge pull request #39 from bobby285271/lint
+    
+    Fix various lint errors
+
+[33mcommit 6d980797e9dfbb770a162e66bc949e0328c897e2[m
+Merge: 402e87c 8bb427c
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 14:24:32 2022 +0800
+
+    Merge pull request #40 from waterrr/patch-1
+    
+    Create 辣椒炒肉.md
+
+[33mcommit 62d4f9221953b4af1be92ef1d03ff9757f91a8bc[m
+Author: AsukaMinato <wuyudi1109@gmail.com>
+Date:   Thu Feb 17 14:20:49 2022 +0800
+
+    Rename 荷包蛋.md to 太阳蛋.md
+
+[33mcommit 86ce5a4d65ecc60a47dab95ce366bbd164a17ce6[m
+Author: AsukaMinato <wuyudi1109@gmail.com>
+Date:   Thu Feb 17 14:20:29 2022 +0800
+
+    rename to 太阳蛋
+
+[33mcommit 1c2367ec078fa178b85a4725c56a32d542d7d3c4[m
+Author: AsukaMinato <wuyudi1109@gmail.com>
+Date:   Thu Feb 17 14:19:03 2022 +0800
+
+    rename && accurate time
+
+[33mcommit 8bb427cc01c3d600a53c6fb25feab2fcdbf5cf86[m
+Author: W4ter <admin@gksec.com>
+Date:   Thu Feb 17 12:27:13 2022 +0800
+
+    Create 辣椒炒肉.md
+
+[33mcommit 8613b265d5768cdd7788f7f723b30e89aac873e7[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 12:09:19 2022 +0800
+
+    lint: skip MD029 and MD036
+    
+    Skipping:
+    
+    * MD029 Ordered list item prefix
+    * MD036 Emphasis used instead of a header
+    
+    These rules are not fully applied to this repository yet and
+    further discussion is probably needed on how to deal with them.
+    
+    Example markdownlint run:
+    
+    * https://github.com/Anduin2017/HowToCook/runs/5226805159
+
+[33mcommit d7d356c0dd8dce0ce578d8fd90f2ad99fce16827[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 12:08:51 2022 +0800
+
+    lint: fix MD024
+    
+    Multiple headers with the same content
+
+[33mcommit 63255f158169f5322073f1aa0db7d1691967df4b[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 12:05:20 2022 +0800
+
+    lint: fix MD004
+    
+    Unordered list style
+
+[33mcommit 798c19085da355abee1633b3d3ef8727dab65c5c[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 12:04:48 2022 +0800
+
+    lint: fix MD032
+    
+    Lists should be surrounded by blank lines
+
+[33mcommit 7cc1bd99e3d42487b49f52a413dffd1901ec7a28[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 12:03:11 2022 +0800
+
+    lint: fix MD001
+    
+    Header levels should only increment by one level at a time
+
+[33mcommit d67b984ec67abf0b728a39362bc730b7a85fc1b3[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 12:02:33 2022 +0800
+
+    lint: fix MD025
+    
+    Multiple top level headers in the same document
+
+[33mcommit c5b7609c93b707aff742a9b7e9fbc160fc2368c7[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 12:01:40 2022 +0800
+
+    lint: fix MD012
+    
+    Multiple consecutive blank lines
+
+[33mcommit c0cd9a3e7364a7dbe9103e7b991974acce181502[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 12:00:40 2022 +0800
+
+    lint: fix MD030
+    
+    Spaces after list markers
+
+[33mcommit da1beca480b9b3f48fd7ae764c0fbbde3fdb0fa0[m
+Author: Bobby Rong <rjl931189261@126.com>
+Date:   Thu Feb 17 11:59:53 2022 +0800
+
+    lint: fix MD009
+    
+    Trailing spaces
+
+[33mcommit 402e87c282778309705bf9a5c955d6ea6abf42a2[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 11:44:57 2022 +0800
+
+    Update 鱼香肉丝.md
+
+[33mcommit 1d75924797dc3f27748f3a04a6f5960608bd3350[m
+Author: Anduin Xue <xuef@microsoft.com>
+Date:   Thu Feb 17 11:41:58 2022 +0800
+
+    修正了一个把葱切成了沫沫的bug。
+
+[33mcommit d901c6fc125d3b8c2e289385522704e91b87bde4[m
+Author: Anduin Xue <xuef@microsoft.com>
+Date:   Thu Feb 17 11:38:11 2022 +0800
+
+    重构鱼香肉丝和材料。
+
+[33mcommit c1abf7a7f7dc40ca10d114c4d74cc0a7d4624f57[m
+Author: yangguang <yangguang@whitekylin.com>
+Date:   Thu Feb 17 10:55:21 2022 +0800
+
+    肉的一段处理第3步不严谨，需加入水
+
+[33mcommit 51dee4a6f9a77e04559232f73355ca1548d5f5fe[m
+Author: Anduin Xue <xuef@microsoft.com>
+Date:   Thu Feb 17 10:44:56 2022 +0800
+
+    为英文单词增加空格。
+
+[33mcommit e9cce95fc9594e75b01a33fae8ef14188b218f86[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 10:13:53 2022 +0800
+
+    Update 地三鲜.md
+
+[33mcommit e4499f74fa74ab9a39e371654f21a656f5544e78[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 10:13:02 2022 +0800
+
+    Update README.md
+
+[33mcommit f2f7aeb878dd5a2f1d28612e933f480485da4b73[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu Feb 17 10:12:31 2022 +0800
+
+    Update 米饭.md
+
+[33mcommit 9d6712a7a44cee83921d78b23fc7de39789e83ac[m
+Merge: d5dd218 f4a2851
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Wed Feb 16 09:27:16 2022 -0800
+
+    Merge pull request #31 from ev11ccaatt/patch-1
+    
+    添加一些制作细节
+
+[33mcommit d5dd2183ab0552aef765bedebc7c7e37d5c3cb43[m
+Merge: 27380c2 4f869dc
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Wed Feb 16 09:24:56 2022 -0800
+
+    Merge pull request #29 from jiangzhongshi/patch-1
+    
+    Update 如何选择现在吃什么.md
+
+[33mcommit 27380c2f602fe62ea5c48cfea3b87b970ed4a7cb[m
+Merge: dcd50fa d5a417b
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Wed Feb 16 09:24:12 2022 -0800
+
+    Merge pull request #34 from niwtr/patch-1
+    
+    优先级歧义导致西红柿数量溢出
+
+[33mcommit d5a417bd708cdaf8f04e6cffaae011d00cf2ee2a[m
+Author: M-x bunny <heranort@163.com>
+Date:   Wed Feb 16 17:33:02 2022 +0800
+
+    菜谱歧义导致西红柿数量溢出
+    
+    原菜谱中写道：“西红柿的数量 = 人数 * 0.9 向上取整。”
+    这条语句是有歧义的，我的编译器把它理解成了人数 *（0.9 向上取整）也就是人数 * 1 = 人数
+    所以，我那天给10个人做饭的时候，用了10个西红柿，导致大量西红柿从锅里面溢出。
+    后来经老婆指点，应该理解成(人数 * 0.9) 向上取整，也就是只要9个西红柿就行了。
+    
+    于是，我决定提交此commit，fix掉潜在的歧义bug。
+
+[33mcommit f4a2851bea2bb2b11d078eff6b1f2678e58e3d60[m
+Author: ev11ccaat <70800641+ev11ccaatt@users.noreply.github.com>
+Date:   Wed Feb 16 16:59:20 2022 +0800
+
+    添加一些制作细节
+
+[33mcommit 4f869dc0dc2c8c47e8c659f559201349bee727cc[m
+Author: Zhongshi <zj495@nyu.edu>
+Date:   Wed Feb 16 15:09:36 2022 +0800
+
+    Update 如何选择现在吃什么.md
+    
+    提供解析解
+
+[33mcommit daab749568084af61629503831240240744489e4[m
+Author: wuyudi <wuyudi1109@gmail.com>
+Date:   Tue Feb 15 17:17:12 2022 +0800
+
+    📝 update readme
+
+[33mcommit 55b1d77a49d1d82769583fe919071e24a8e81b8f[m
+Author: wuyudi <wuyudi1109@gmail.com>
+Date:   Tue Feb 15 17:14:03 2022 +0800
+
+    📝 增加荷包蛋做法
+
+[33mcommit dcd50fad91afec5ea1a53fb4ea83579ac454f790[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Tue Jan 4 15:31:57 2022 +0800
+
+    Update README.md
+
+[33mcommit 6184be8e07f2d629a721e4b849637919ef33ffd4[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Tue Jan 4 15:31:12 2022 +0800
+
+    Update README.md
+
+[33mcommit 849f988937f2d9b8ab1bfa25e3ea7e40693bab88[m
+Merge: 4cb7eab adade33
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Tue Jan 4 15:23:30 2022 +0800
+
+    Merge pull request #20 from bsdelf/Add-CI
+    
+    Create ci.yml
+
+[33mcommit adade3392f62940a729a99db4406fadfa435c703[m
+Author: bsdelf <shen.elf@gmail.com>
+Date:   Tue Jan 4 11:24:15 2022 +0800
+
+    Create ci.yml
+
+[33mcommit 4cb7eaba832151653a6a7d27dbc4802aaa463e10[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Sep 18 01:26:13 2021 +0800
+
+    Update 如何选择现在吃什么.md
+
+[33mcommit 528448ad8638ad3f191983fe05f86613c344f01d[m
+Merge: ad12888 5b6f6df
+Author: Anduin Xue <anduin.xue@microsoft.com>
+Date:   Thu Jun 3 16:01:18 2021 +0800
+
+    Merge pull request #18 from Perlistan/master
+    
+    TAGOST ADD #油泼辣子
+
+[33mcommit ad128887641866c23e13cd4d5b55816ff913c38c[m
+Author: Anduin Xue <anduin.xue@microsoft.com>
+Date:   Fri May 7 17:17:57 2021 +0800
+
+    Update 炒方便面.md
+
+[33mcommit 5b6f6dfb78267a9acbcaae16e828d686631ab701[m
+Author: Perlistan <601066052@qq.com>
+Date:   Wed May 5 14:01:06 2021 +0800
+
+    #修改配方
+
+[33mcommit e20ae3bf68918100da2d55a115cd84d83b19ab45[m
+Author: Perlistan <601066052@qq.com>
+Date:   Wed May 5 13:58:33 2021 +0800
+
+    #修改配方
+
+[33mcommit 96be446917406683b736d0d640b6a0cb041ac57c[m
+Author: Perlistan <601066052@qq.com>
+Date:   Fri Apr 30 15:33:50 2021 +0800
+
+    TAGOST ADD #油泼辣子
+
+[33mcommit 2db61f94e6a3168c5d156c6ef9ecb3330eb22276[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Tue Feb 16 19:31:28 2021 +0800
+
+    Update README.md
+
+[33mcommit d291430d8831b1225ba5c2b187b05c5ea0c28098[m
+Merge: 842f277 15bffe5
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Tue Feb 16 19:28:04 2021 +0800
+
+    Merge pull request #17 from Erosion2020/master
+    
+    新增烙饼
+
+[33mcommit 15bffe55136b94c354f387dd2b59c363866e6987[m
+Merge: e897046 da7fb3f
+Author: erosion <erosionzhu@outlook.com>
+Date:   Tue Feb 16 11:49:59 2021 +0800
+
+    Merge branch 'master' of github.com:Erosion2020/HowToCook
+
+[33mcommit e8970468a89082859d060f8ef2b7cbe692a18b28[m
+Author: erosion <erosionzhu@outlook.com>
+Date:   Tue Feb 16 11:49:39 2021 +0800
+
+    Update menu
+
+[33mcommit a59df3fb7cb776e85790f321c2cfdf349b260349[m
+Author: erosion <erosionzhu@outlook.com>
+Date:   Tue Feb 16 11:25:41 2021 +0800
+
+    Add 烙饼做法 rename and add 小技巧
+
+[33mcommit 842f2770051076e0f075d24168a3969d2ff4400c[m
+Merge: e4bf6bc da7fb3f
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Feb 15 13:48:01 2021 +0800
+
+    Merge pull request #16 from Erosion2020/master
+    
+    新增糖醋鲤鱼
+
+[33mcommit da7fb3f78114509ed321262a83e1d16cb7deaade[m
+Author: Erosion2020 <68978432+Erosion2020@users.noreply.github.com>
+Date:   Mon Feb 15 10:51:08 2021 +0800
+
+    Update 糖醋鲤鱼.md
+    
+    更改细节
+
+[33mcommit ae1947f7848966b548e6c650f4029c6984b43676[m
+Author: Erosion2020 <68978432+Erosion2020@users.noreply.github.com>
+Date:   Mon Feb 15 10:49:55 2021 +0800
+
+    Update README.md
+    
+    change menu
+
+[33mcommit 4e2055d1aea24b0f59e6a3430f76be54ca8ac6ee[m
+Author: erosion <erosionzhu@outlook.com>
+Date:   Mon Feb 15 10:45:07 2021 +0800
+
+    Add 糖醋鲤鱼
+
+[33mcommit e4bf6bcea15c77ad4f250790359a5454a463c766[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Dec 4 18:09:34 2020 +0800
+
+    Update README.md
+
+[33mcommit d5c929d1e13bd53100ca41d8a835e0301a2de675[m
+Merge: 7ccd00f 23220c2
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri Dec 4 18:08:51 2020 +0800
+
+    Merge pull request #15 from GhostNoc/master
+    
+    新增回锅肉的做法
+
+[33mcommit 23220c29146859cc5ada9a7753c396d428cd1761[m
+Author: 张件呈 <1060096267@qq.com>
+Date:   Fri Dec 4 17:30:11 2020 +0800
+
+    新增回锅肉的做法
+
+[33mcommit 7ccd00fa43c3af5bf2cd6e552b77e3fbc5180d80[m
+Merge: 9cfeb45 69dcd52
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Jul 6 11:51:57 2020 +0800
+
+    Merge pull request #14 from Erosionying/master
+    
+    Add 红烧茄子
+
+[33mcommit 69dcd524ea0fe83b529a373ba9edb5ef3302b311[m
+Author: Erosion <362687440@qq.com>
+Date:   Mon Jul 6 11:50:44 2020 +0800
+
+    Add 红烧茄子
+
+[33mcommit 9cfeb45a127b3d4e50a8f96ec38203f49032931b[m
+Merge: 33835fc 1c2d93e
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Tue May 12 18:13:27 2020 +0800
+
+    Merge pull request #13 from Rivalsa/master
+    
+    我又来给大家新增菜谱啦~
+
+[33mcommit 1c2d93e3fa2728f29e75a2136a06a0789f5ef4ce[m
+Author: Rivalsa(HPPC) <sa_git_hppc@rivalsa.cn>
+Date:   Tue May 12 18:09:13 2020 +0800
+
+    1.新增“西红柿鸡蛋汤”，2.将“西红柿鸡蛋”更名为“西红柿炒鸡蛋”，3.补充了“麻辣香锅”中提供材料为几人量。
+
+[33mcommit 33835fcf056977697fc1fc00a94addb4b929d5da[m
+Merge: ee62e12 f11fcc0
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat May 9 22:12:35 2020 +0800
+
+    Merge pull request #12 from Rivalsa/master
+    
+    增加一道新菜：麻辣香锅
+
+[33mcommit f11fcc0ee53ad2e0133b9f72f9a108a0ff9de13e[m
+Author: Rivalsa(HPPC) <sa_git_hppc@rivalsa.cn>
+Date:   Sat May 9 22:09:48 2020 +0800
+
+    增加一道新菜：麻辣香锅
+
+[33mcommit ee62e12bee116e37aec17d24f96cf2d79cd0083d[m
+Merge: 64b9a1e 170f52d
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Fri May 8 21:42:55 2020 +0800
+
+    Merge pull request #11 from Rivalsa/master
+    
+    新增饮料酸梅汁的做法并修改了茄子炖土豆的做法
+
+[33mcommit 170f52dd33fba65817ec38f17069d60750014894[m
+Author: Rivalsa(HPPC) <sa_git_hppc@rivalsa.cn>
+Date:   Fri May 8 21:19:50 2020 +0800
+
+    酸梅汁新增两个图片
+
+[33mcommit 375b4ddb7e9199e629cb1e2be3aa9adbee98d333[m
+Author: Rivalsa(HPPC) <sa_git_hppc@rivalsa.cn>
+Date:   Fri May 8 21:01:48 2020 +0800
+
+    修改了茄子炖土豆的方案，新增酸梅汁的做法
+
+[33mcommit 64b9a1e6c8a8d84c625543bc6667822f1739eaad[m
+Merge: b7e472d 1952897
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Thu May 7 19:30:46 2020 +0800
+
+    Merge pull request #10 from Rivalsa/master
+    
+    Add 茄子炖土豆 and Update Menu List.
+
+[33mcommit 1952897dbec06ec23f443b041fe7e57bb371449b[m
+Author: Rivalsa(HPPC) <sa_git_hppc@rivalsa.cn>
+Date:   Thu May 7 19:26:20 2020 +0800
+
+    Update 茄子炖土豆
+
+[33mcommit cd31cff12ae203b7f556b4733b04c6e11a18e434[m
+Author: Rivalsa(HPPC) <sa_git_hppc@rivalsa.cn>
+Date:   Thu May 7 19:22:07 2020 +0800
+
+    Add 茄子炖土豆 and Update Menu List
+
+[33mcommit b7e472de96ff5c9c74ab81a83d567da3e005346b[m
+Merge: e800fd7 95e09c6
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Wed Mar 25 02:51:21 2020 +0800
+
+    Merge pull request #8 from Erosionying/master
+    
+    Add 红烧鱼头 and Update Menu list
+
+[33mcommit 95e09c6c793a32345a3fe8275f0066586ef2d274[m
+Author: Erosion <362687440@qq.com>
+Date:   Wed Mar 25 01:36:08 2020 +0800
+
+    Add 红烧鱼头 and Update Menu list
+
+[33mcommit e800fd72bb4752b92e9db84751196087cca0b9da[m
+Merge: 368f118 48d36a8
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Tue Mar 24 21:07:20 2020 +0800
+
+    Merge pull request #7 from Erosionying/master
+    
+    增加凉皮做法
+
+[33mcommit 48d36a83d558f7bf44c121e88207a0a51d713dfd[m
+Author: Erosion <362687440@qq.com>
+Date:   Tue Mar 24 20:58:02 2020 +0800
+
+    增加凉皮
+
+[33mcommit 368f118174955d60aa45059c0c3c3b3c58e00f23[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Wed Mar 18 21:09:09 2020 +0800
+
+    Update README.md
+
+[33mcommit e275d707ff955ec4700aff72a200aee545bc01a9[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Wed Mar 18 21:08:53 2020 +0800
+
+    Add 鱼香肉丝。
+
+[33mcommit 977c72f4c5e462879802f6ad6a8cee7ddcf8dde0[m
+Merge: bed9eac 3c6641c
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Wed Mar 18 21:07:20 2020 +0800
+
+    Merge pull request #6 from ShenJimei/master
+    
+    鱼香肉丝 by Jimei
+
+[33mcommit 3c6641c47ecaa3023fc7eda94ed7d3ccdc583264[m
+Author: ShenJimei <shenjimei33@outlook.com>
+Date:   Wed Mar 18 21:02:42 2020 +0800
+
+    鱼香肉丝 by Jimei
+
+[33mcommit bed9eac9b946b4dec4301003e52770de3027feba[m
+Merge: 6bc3607 6485bc3
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Mar 16 00:25:36 2020 +0800
+
+    Merge pull request #5 from Anduin2017/add-license-1
+    
+    Create LICENSE
+
+[33mcommit 6485bc3c8fe3e10a1a20f26a4469e53d14767c50[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Mar 16 00:25:24 2020 +0800
+
+    Create LICENSE
+
+[33mcommit 6bc3607443293d143e6f5f8132901bd2fc838de8[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Mar 16 00:22:04 2020 +0800
+
+    Update README.md
+
+[33mcommit 530b8eb1a203ce7bb5a0f88f62fb26adeb0dcab8[m
+Merge: 50fb320 27fef22
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Mon Mar 16 00:19:59 2020 +0800
+
+    Merge pull request #4 from AlliotTech/master
+    
+    add 葱煎豆腐 by AlliotTech
+
+[33mcommit 27fef2224bdce3308f5aa192454fc89887b715e9[m
+Author: Alliot <alliot@iots.vip>
+Date:   Mon Mar 16 00:11:44 2020 +0800
+
+    add 葱煎豆腐 by AlliotTech
+
+[33mcommit 50fb320583850f6da1c8bd20648cc910e7aef051[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 29 22:57:22 2020 +0800
+
+    Update 蛋炒饭.md
+
+[33mcommit d042983f9be92bc3337649ae04e3f7095a1f28d2[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 29 22:56:04 2020 +0800
+
+    Update 米粥.md
+
+[33mcommit ebf4c1c55f2e9810d6dafd587ff2c472b9f0f5e8[m
+Author: Anduin Xue <anduin@aiursoft.com>
+Date:   Sat Feb 29 22:55:43 2020 +0800
+
+    Update README.md
+
+[33mcommit 24abeb211ee2fec6b7cf0e6984472b7b6b69f84a[m
+Author: Anduin2017 <anduin@aiursoft.com>
+Date:   Sat Feb 29 21:08:55 2020 +0800
+
+    Fix order.
+
+[33mcommit 21ed9973a471e9222d054c3e3216b51c37ed072f[m
+Author: Anduin2017 <anduin@aiursoft.com>
+Date:   Sat Feb 29 19:41:32 2020 +0800
+
+    Add more meal.
+
+[33mcommit d0ee7eb53b8cfe3cd03ef12fa99f7c0e2f909e7b[m
+Author: Anduin2017 <anduin@aiursoft.com>
+Date:   Sat Feb 29 19:25:57 2020 +0800
+
+    Add 地三鲜
+
+[33mcommit 25d21582269bbb8e5edcedb891e8a1b17e45774c[m
+Author: Anduin2017 <anduin@aiursoft.com>
+Date:   Sat Feb 29 19:11:40 2020 +0800
+
+    Better choice part.
+
+[33mcommit 7deff0e4df905b21cbfae9301df7aaac147506e7[m
+Author: Anduin2017 <anduin@aiursoft.com>
+Date:   Sat Feb 29 19:06:40 2020 +0800
+
+    Add more details about 西红柿鸡蛋
+
+[33mcommit 43dafb7c46f42f19823dcde004504e2476414ddc[m
+Author: Anduin2017 <anduin@aiursoft.com>
+Date:   Sat Feb 29 18:47:12 2020 +0800
+
+    Better readme file.
+
+[33mcommit 8853814fbfafd7025bb9c6ca974246175523060e[m
+Author: Anduin2017 <anduin@aiursoft.com>
+Date:   Sat Feb 29 18:43:15 2020 +0800
+
+    Add 米粥 炒方便面
+
+[33mcommit 5f5235087499f0d6ee0ce606d928e40757c0170e[m
+Author: Anduin2017 <anduin@aiursoft.com>
+Date:   Sat Feb 29 18:32:47 2020 +0800
+
+    First two meal

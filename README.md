@@ -12,11 +12,10 @@
 
 ## 如何贡献
 
-直接修改/添加做菜指南并提交 Pull request 即可。
+针对发现的问题，直接修改并提交 Pull request 即可。
 
-在写新菜谱时，请复制并修改已有的模板: [示例菜](./dishes/template/示例菜/示例菜.md)。
-
-记得在提交 Pull Request 前同样更新一下 Readme.md 里的引用。
+在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
+在提交 Pull Request 前更新一下 README.md 里的引用。
 
 ## 做菜之前
 
@@ -37,9 +36,9 @@
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
-* 水煮肉片 (等待大佬编写中……)
+* [水煮肉片](./dishes/home-cooking/水煮肉片.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
-* 糖醋里脊 (等待大佬编写中……)
+* [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
@@ -52,12 +51,26 @@
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
 * [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
+* [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
+* [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
+* [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
+* [血浆鸭](./dishes/home-cooking/血浆鸭/血浆鸭.md)
+* [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
+* [咕噜肉](./dishes/home-cooking/咕噜肉.md)
+* [菠菜炒鸡蛋](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
+* [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
+* [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
+* [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
+* [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
+* [冷吃兔](./dishes/home-cooking/冷吃兔.md)
+* [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
+* [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 
 ### 早餐
 
 * [太阳蛋](./dishes/breakfast/太阳蛋.md)
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
-* [果酱土司](./dishes/breakfast/吐司果酱.md)
+* [果酱吐司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
@@ -73,7 +86,10 @@
 * [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
-* 手工饺子（等待大佬编写中……
+* [手工水饺](./dishes/staple/手工水饺.md)
+* [麻油拌面](./dishes/staple/麻油拌面.md)
+* [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
+* [热干面](./dishes/staple/热干面.md)
 
 ### 半成品加工
 
@@ -83,20 +99,24 @@
 
 ### 红烧菜系
 
+* [红烧肉](./dishes/braised/红烧肉/红烧肉.md)
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
 
 ### 汤与粥
 
-* [米粥](./dishes/porridge/米粥.md)
-* [皮蛋瘦肉粥](./dishes/porridge/皮蛋瘦肉粥.md)
+* [米粥](./dishes/soup/米粥.md)
+* [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
 * [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 * [金针菇汤](./dishes/soup/金针菇汤.md)
+* [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+* [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
 ### 饮料
 
 * [酸梅汁](./dishes/drink/酸梅汁.md)
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
+* [杨枝甘露](./dishes/drink/杨枝甘露.md)
 
 ### 酱料和其它材料
 
@@ -105,6 +125,13 @@
 * [糖醋汁](./dishes/condiment/糖醋汁.md)
 * [油酥](./dishes/condiment/油酥.md)
 
-## 进阶
+### 甜品
+
+* [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
+
+## 进阶知识学习
+
+如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
 
 * [辅料使用技巧](./tips/advanced/辅料技巧.md)
+* [油温判读技巧](./tips/advanced/油温判断技巧.md)
