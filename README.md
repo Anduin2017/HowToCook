@@ -61,10 +61,12 @@
 * [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
+* [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
 * [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
 * [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
+
 
 ### 早餐
 
