@@ -124,3 +124,4 @@
 
 * [辅料使用技巧](./tips/advanced/辅料技巧.md)
 * [油温判读技巧](./tips/advanced/油温判断技巧.md)
+* [调料计量技巧](./tips/advanced/调料剂量计巧.md)
