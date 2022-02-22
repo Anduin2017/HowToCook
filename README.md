@@ -117,3 +117,4 @@
 ## 进阶
 
 * [辅料使用技巧](./tips/advanced/辅料技巧.md)
+* [油温判读技巧](./tips/advanced/油温判断技巧.md)
