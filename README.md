@@ -58,6 +58,7 @@
 * [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
+* [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 
 ### 早餐
 
@@ -106,6 +107,7 @@
 
 * [酸梅汁](./dishes/drink/酸梅汁.md)
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
+* [杨枝甘露](./dishes/drink/杨枝甘露.md)
 
 ### 酱料和其它材料
 
@@ -117,3 +119,4 @@
 ## 进阶
 
 * [辅料使用技巧](./tips/advanced/辅料技巧.md)
+* [油温判读技巧](./tips/advanced/油温判断技巧.md)
