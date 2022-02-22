@@ -85,6 +85,7 @@
 * 手工饺子（等待大佬编写中……
 * [麻油拌面](./dishes/staple/麻油拌面.md)
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
+* [热干面](./dishes/staple/热干面.md)
 
 ### 半成品加工
 
