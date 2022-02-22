@@ -26,6 +26,7 @@
 * [学习使用压力锅](./tips/learn/高压力锅.md)
 * [学习焯水](./tips/learn/焯水.md)
 * [学习腌（肉）](./tips/learn/学习腌.md)
+* [学习炒糖色](./tips/advanced/糖色.md)
 * [了解食品安全常识](./tips/learn/食品安全.md)
 * [如何选择吃什么？](./tips/如何选择现在吃什么.md)
 
@@ -100,7 +101,8 @@
 
 ### 红烧菜系
 
-* [红烧肉](./dishes/braised/红烧肉/红烧肉.md)
+* [红烧肉](./dishes/braised/红烧肉/简易红烧肉.md)
+* [南派红烧肉](./dishes/braised/红烧肉/南派红烧肉.md)
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
 
