@@ -59,6 +59,7 @@
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
 * [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
+* [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 
 ### 早餐
