@@ -12,11 +12,10 @@
 
 ## 如何贡献
 
-直接修改/添加做菜指南并提交 Pull request 即可。
+针对发现的问题，直接修改并提交 Pull request 即可。
 
-在写新菜谱时，请复制并修改已有的模板: [示例菜](./dishes/template/示例菜/示例菜.md?plain=1)。
-
-记得在提交 Pull Request 前同样更新一下 Readme.md 里的引用。
+在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
+在提交 Pull Request 前更新一下 README.md 里的引用。
 
 ## 做菜之前
 
@@ -36,7 +35,7 @@
 
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
-* 水煮肉片 (等待大佬编写中……)
+* [水煮肉片](./dishes/home-cooking/水煮肉片.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
@@ -57,6 +56,10 @@
 * [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 * [菠菜炒鸡蛋](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
+* [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
+* [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
+* [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
+* [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 
 ### 早餐
 
@@ -79,6 +82,8 @@
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
 * 手工饺子（等待大佬编写中……
+* [麻油拌面](./dishes/staple/麻油拌面.md)
+* [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
 
 ### 半成品加工
 
@@ -104,6 +109,7 @@
 
 * [酸梅汁](./dishes/drink/酸梅汁.md)
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
+* [杨枝甘露](./dishes/drink/杨枝甘露.md)
 
 ### 酱料和其它材料
 
@@ -112,6 +118,9 @@
 * [糖醋汁](./dishes/condiment/糖醋汁.md)
 * [油酥](./dishes/condiment/油酥.md)
 
-## 进阶
+## 进阶知识学习
+
+如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
 
 * [辅料使用技巧](./tips/advanced/辅料技巧.md)
+* [油温判读技巧](./tips/advanced/油温判断技巧.md)
