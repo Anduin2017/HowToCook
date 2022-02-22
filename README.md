@@ -83,7 +83,7 @@
 * [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
-* 手工饺子（等待大佬编写中……
+* [手工饺子](./dishes/staple/手工饺子.md)
 * [麻油拌面](./dishes/staple/麻油拌面.md)
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
 * [热干面](./dishes/staple/热干面.md)
