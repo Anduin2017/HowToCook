@@ -53,8 +53,10 @@
 * [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
 * [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
+* [血浆鸭](./dishes/home-cooking/血浆鸭/血浆鸭.md)
 * [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
+* [菠菜炒鸡蛋](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 * [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
@@ -107,6 +109,8 @@
 * [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 * [金针菇汤](./dishes/soup/金针菇汤.md)
 * [罗宋汤](./dishes/soup/罗宋汤.md)
+* [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+* [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
 ### 饮料
 
