@@ -56,6 +56,7 @@
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
+* [菠菜炒鸡蛋](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 
 ### 早餐
 
@@ -97,6 +98,7 @@
 * [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
 * [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 * [金针菇汤](./dishes/soup/金针菇汤.md)
+* [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 
 ### 饮料
 
