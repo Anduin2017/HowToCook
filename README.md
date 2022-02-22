@@ -35,7 +35,7 @@
 
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
-* 水煮肉片 (等待大佬编写中……)
+* [水煮肉片](./dishes/home-cooking/水煮肉片.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
@@ -60,12 +60,14 @@
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
 * [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
+* [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
+* [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 
 ### 早餐
 
 * [太阳蛋](./dishes/breakfast/太阳蛋.md)
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
-* [果酱土司](./dishes/breakfast/吐司果酱.md)
+* [果酱吐司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
