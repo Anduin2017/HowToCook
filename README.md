@@ -66,6 +66,7 @@
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
 * [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
+* [蜜汁叉烧](./dishes/home-cooking/蜜汁叉烧/蜜汁叉烧.md)
 
 ### 早餐
 
