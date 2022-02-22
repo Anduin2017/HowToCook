@@ -97,6 +97,7 @@
 * [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 * [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 * [凉皮](./dishes/semi-finished/凉皮.md)
+* [手抓饼](./dishes/semi-finished/手抓饼.md)
 
 ### 红烧菜系
 
