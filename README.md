@@ -46,6 +46,7 @@
 * [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
 * [凉拌黄瓜](./dishes/home-cooking/凉拌黄瓜.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
+* [香干芹菜炒肉](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
 * [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
@@ -53,16 +54,21 @@
 * [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
 * [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
+* [血浆鸭](./dishes/home-cooking/血浆鸭/血浆鸭.md)
 * [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
+* [菠菜炒鸡蛋](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 * [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
+* [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
 * [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
 * [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 * [上汤娃娃菜](./dishes/home-cooking/上汤娃娃菜.md)
+* [炒青菜](./dishes/home-cooking/炒青菜.md)
+
 
 ### 早餐
 
@@ -84,20 +90,23 @@
 * [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
 * [炒河粉](./dishes/staple/炒河粉.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
-* 手工饺子（等待大佬编写中……
+* [手工水饺](./dishes/staple/手工水饺.md)
 * [麻油拌面](./dishes/staple/麻油拌面.md)
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
 * [热干面](./dishes/staple/热干面.md)
+* [炒馍](./dishes/staple/炒馍.md)
 
 ### 半成品加工
 
 * [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 * [速冻水饺](./dishes/semi-finished/速冻水饺.md)
+* [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 * [凉皮](./dishes/semi-finished/凉皮.md)
 
 ### 红烧菜系
 
-* [红烧肉](./dishes/braised/红烧肉/红烧肉.md)
+* [红烧肉](./dishes/braised/红烧肉/简易红烧肉.md)
+* [南派红烧肉](./dishes/braised/红烧肉/南派红烧肉.md)
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
 
@@ -107,6 +116,9 @@
 * [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
 * [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 * [金针菇汤](./dishes/soup/金针菇汤.md)
+* [罗宋汤](./dishes/soup/罗宋汤.md)
+* [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+* [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
 ### 饮料
 
@@ -120,6 +132,11 @@
 * [蒜香酱油](./dishes/condiment/蒜香酱油.md)
 * [糖醋汁](./dishes/condiment/糖醋汁.md)
 * [油酥](./dishes/condiment/油酥.md)
+* [炒糖色](./dishes/condiment/糖色.md)
+
+### 甜品
+
+* [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 
 ## 进阶知识学习
 
