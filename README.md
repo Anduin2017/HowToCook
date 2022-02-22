@@ -97,7 +97,7 @@
 
 ### 红烧菜系
 
-* [红烧肉](./dishes/braised/红烧肉/红烧肉.md)
+* [红烧肉](./dishes/braised/红烧肉/简易红烧肉.md)
 * [南派红烧肉](./dishes/braised/红烧肉/南派红烧肉.md)
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
