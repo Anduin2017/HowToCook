@@ -60,12 +60,14 @@
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
 * [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
+* [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
+* [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 
 ### 早餐
 
 * [太阳蛋](./dishes/breakfast/太阳蛋.md)
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
-* [果酱土司](./dishes/breakfast/吐司果酱.md)
+* [果酱吐司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
@@ -84,6 +86,7 @@
 * 手工饺子（等待大佬编写中……
 * [麻油拌面](./dishes/staple/麻油拌面.md)
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
+* [热干面](./dishes/staple/热干面.md)
 
 ### 半成品加工
 
