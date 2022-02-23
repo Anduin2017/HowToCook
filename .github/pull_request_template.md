@@ -20,6 +20,8 @@
 - [ ] 我已删除干净所有的复制出来的模板的注释。
 - [ ] 我确保我没有签入任何和版权方相关的内容、图片。
 
+请审核人员按照 [审核检查单](https://github.com/Anduin2017/HowToCook/blob/master/CONTRIBUTING.md#%E5%AE%A1%E6%A0%B8%E5%91%98%E9%A1%BB%E7%9F%A5) 对照审核检查。
+
 ## 警告
 
 **HowToCook 仓库采用了 [The Unlicense](https://unlicense.org/) 协议！**
