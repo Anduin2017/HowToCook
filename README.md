@@ -39,6 +39,7 @@
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
+* [宫保鸡丁](./dishes/home-cooking/宫保鸡丁/宫保鸡丁.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
@@ -65,8 +66,15 @@
 * [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
 * [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
-* [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
+* [鸡蛋羹](./dishes/home-cooking/鸡蛋羹/鸡蛋羹.md)
+* [微波炉鸡蛋羹](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
+* [上汤娃娃菜](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
+* [西红柿土豆炖牛肉](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
+* [炒青菜](./dishes/home-cooking/炒青菜.md)
+* [老式锅包肉](./dishes/home-cooking/老式锅包肉/老式锅包肉.md)
+* [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
+* [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 
 ### 早餐
 
@@ -92,11 +100,15 @@
 * [麻油拌面](./dishes/staple/麻油拌面.md)
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
 * [热干面](./dishes/staple/热干面.md)
+* [炒馍](./dishes/staple/炒馍.md)
+* [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
+* [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
 
 ### 半成品加工
 
 * [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 * [速冻水饺](./dishes/semi-finished/速冻水饺.md)
+* [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 * [凉皮](./dishes/semi-finished/凉皮.md)
 
 ### 红烧菜系
@@ -105,6 +117,7 @@
 * [南派红烧肉](./dishes/braised/红烧肉/南派红烧肉.md)
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
+* [红烧鲤鱼](./dishes/braised/红烧鲤鱼.md)
 
 ### 汤与粥
 
@@ -133,10 +146,11 @@
 ### 甜品
 
 * [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
+* [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 
 ## 进阶知识学习
 
 如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
 
 * [辅料使用技巧](./tips/advanced/辅料技巧.md)
-* [油温判读技巧](./tips/advanced/油温判断技巧.md)
+* [油温判断技巧](./tips/advanced/油温判断技巧.md)
