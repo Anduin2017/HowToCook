@@ -68,11 +68,13 @@
 * [鸡蛋羹](./dishes/home-cooking/鸡蛋羹/鸡蛋羹.md)
 * [微波炉鸡蛋羹](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
+* [上汤娃娃菜](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
 * [西红柿土豆炖牛肉](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
 * [老式锅包肉](./dishes/home-cooking/老式锅包肉/老式锅包肉.md)
 * [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
+
 
 ### 早餐
 
