@@ -40,6 +40,8 @@
 * [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
 * [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
+* [红烧鱼头](./dishes/home-cooking/红烧鱼头.md)
+* [红烧鲤鱼](./dishes/home-cooking/红烧鲤鱼.md)
 
 #### 荤菜
 
@@ -65,15 +67,12 @@
 * [萝卜炖羊排](./dishes/home-cooking/萝卜炖羊排.md)
 * [红烧肉](./dishes/home-cooking/红烧肉/简易红烧肉.md)
 * [南派红烧肉](./dishes/home-cooking/红烧肉/南派红烧肉.md)
-* [红烧鱼头](./dishes/home-cooking/红烧鱼头.md)
-* [红烧茄子](./dishes/home-cooking/红烧茄子.md)
-* [红烧鲤鱼](./dishes/home-cooking/红烧鲤鱼.md)
+* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
 #### 素菜
 
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
-* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
@@ -90,6 +89,7 @@
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
+* [红烧茄子](./dishes/home-cooking/红烧茄子.md)
 
 ### 早餐
 
