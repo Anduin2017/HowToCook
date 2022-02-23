@@ -66,6 +66,7 @@
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
 * [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
+* [西红柿土豆炖牛肉](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 
@@ -94,6 +95,8 @@
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
 * [热干面](./dishes/staple/热干面.md)
 * [炒馍](./dishes/staple/炒馍.md)
+* [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
+* [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
 
 ### 半成品加工
 
@@ -143,4 +146,4 @@
 如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
 
 * [辅料使用技巧](./tips/advanced/辅料技巧.md)
-* [油温判读技巧](./tips/advanced/油温判断技巧.md)
+* [油温判断技巧](./tips/advanced/油温判断技巧.md)
