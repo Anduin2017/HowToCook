@@ -93,6 +93,7 @@
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
 * [热干面](./dishes/staple/热干面.md)
 * [炒馍](./dishes/staple/炒馍.md)
+* [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
 
 ### 半成品加工
 
