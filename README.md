@@ -67,6 +67,8 @@
 * [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 * [西红柿土豆炖牛肉](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
+* [炒青菜](./dishes/home-cooking/炒青菜.md)
+
 ### 早餐
 
 * [太阳蛋](./dishes/breakfast/太阳蛋.md)
@@ -97,6 +99,7 @@
 
 * [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 * [速冻水饺](./dishes/semi-finished/速冻水饺.md)
+* [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 * [凉皮](./dishes/semi-finished/凉皮.md)
 
 ### 红烧菜系
@@ -133,6 +136,7 @@
 ### 甜品
 
 * [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
+* [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 
 ## 进阶知识学习
 
