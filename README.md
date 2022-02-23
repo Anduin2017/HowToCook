@@ -39,6 +39,7 @@
 * [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
 * [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
+* [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
 
 #### 荤菜
 
@@ -56,13 +57,17 @@
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [血浆鸭](./dishes/home-cooking/血浆鸭/血浆鸭.md)
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
-* [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 * [西红柿土豆炖牛肉](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [老式锅包肉](./dishes/home-cooking/老式锅包肉/老式锅包肉.md)
 * [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
 * [萝卜炖羊排](./dishes/home-cooking/萝卜炖羊排.md)
+* [红烧肉](./dishes/home-cooking/红烧肉/简易红烧肉.md)
+* [南派红烧肉](./dishes/home-cooking/红烧肉/南派红烧肉.md)
+* [红烧鱼头](./dishes/home-cooking/红烧鱼头.md)
+* [红烧茄子](./dishes/home-cooking/红烧茄子.md)
+* [红烧鲤鱼](./dishes/home-cooking/红烧鲤鱼.md)
 
 #### 素菜
 
@@ -120,14 +125,6 @@
 * [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 * [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 * [凉皮](./dishes/semi-finished/凉皮.md)
-
-### 红烧菜系
-
-* [红烧肉](./dishes/braised/红烧肉/简易红烧肉.md)
-* [南派红烧肉](./dishes/braised/红烧肉/南派红烧肉.md)
-* [红烧鱼头](./dishes/braised/红烧鱼头.md)
-* [红烧茄子](./dishes/braised/红烧茄子.md)
-* [红烧鲤鱼](./dishes/braised/红烧鲤鱼.md)
 
 ### 汤与粥
 
