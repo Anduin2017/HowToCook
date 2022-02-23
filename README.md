@@ -38,6 +38,7 @@
 * [水煮肉片](./dishes/home-cooking/水煮肉片.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
+* [宫保鸡丁](./dishes/home-cooking/宫保鸡丁/宫保鸡丁.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
