@@ -107,6 +107,7 @@
 * [南派红烧肉](./dishes/braised/红烧肉/南派红烧肉.md)
 * [红烧鱼头](./dishes/braised/红烧鱼头.md)
 * [红烧茄子](./dishes/braised/红烧茄子.md)
+* [红烧鲤鱼](./dishes/braised/红烧鲤鱼.md)
 
 ### 汤与粥
 
