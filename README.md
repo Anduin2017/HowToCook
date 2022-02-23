@@ -74,6 +74,7 @@
 * [老式锅包肉](./dishes/home-cooking/老式锅包肉/老式锅包肉.md)
 * [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
+* [火山飘雪](./dishes/home-cooking/火山飘雪/火山飘雪.md)
 
 
 ### 早餐
