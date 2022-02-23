@@ -36,6 +36,7 @@
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
 * [水煮肉片](./dishes/home-cooking/水煮肉片.md)
+* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [宫保鸡丁](./dishes/home-cooking/宫保鸡丁/宫保鸡丁.md)
@@ -75,6 +76,7 @@
 * [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 * [萝卜炖羊排](./dishes/home-cooking/萝卜炖羊排.md)
+* [火山飘雪](./dishes/home-cooking/火山飘雪/火山飘雪.md)
 
 ### 早餐
 
@@ -134,6 +136,7 @@
 * [酸梅汁](./dishes/drink/酸梅汁.md)
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 * [杨枝甘露](./dishes/drink/杨枝甘露.md)
+* [奶茶](./dishes/drink/奶茶.md)
 
 ### 酱料和其它材料
 
