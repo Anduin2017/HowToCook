@@ -141,6 +141,8 @@
 * [酸梅汁](./dishes/drink/酸梅汁.md)
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 * [杨枝甘露](./dishes/drink/杨枝甘露.md)
+* [金菲士](./dishes/drink/金菲士.md)
+* [金汤力](./dishes/drink/金汤力.md)
 * [奶茶](./dishes/drink/奶茶.md)
 
 ### 酱料和其它材料
@@ -150,6 +152,7 @@
 * [糖醋汁](./dishes/condiment/糖醋汁.md)
 * [油酥](./dishes/condiment/油酥.md)
 * [炒糖色](./dishes/condiment/糖色.md)
+* [蔗糖糖浆](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
 
 ### 甜品
 
