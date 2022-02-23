@@ -58,6 +58,7 @@
 * [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
 * [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
+* [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
 
 ### 早餐
 
