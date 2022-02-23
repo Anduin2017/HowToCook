@@ -153,6 +153,7 @@
 * [油酥](./dishes/condiment/油酥.md)
 * [炒糖色](./dishes/condiment/糖色.md)
 * [蔗糖糖浆](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
+* [草莓酱](./dishes/condiment/草莓酱/草莓酱.md)
 
 ### 甜品
 
