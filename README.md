@@ -72,6 +72,7 @@
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
+* [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
 
 #### 素菜
 
@@ -92,6 +93,7 @@
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
+
 
 ### 早餐
 
