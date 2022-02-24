@@ -104,7 +104,7 @@
 
 ### 主食
 
-* [米饭](./dishes/staple/米饭.md)
+* [米饭](./dishes/staple/米饭/米饭.md)
 * [蛋炒饭](./dishes/staple/蛋炒饭.md)
 * [日式咖喱饭](./dishes/staple/日式咖喱饭/日式咖喱饭.md)
 * [烙饼](./dishes/staple/烙饼/烙饼.md)
