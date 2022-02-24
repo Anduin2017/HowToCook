@@ -68,6 +68,7 @@
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 * [西红柿土豆炖牛肉](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
+* [鳊鱼炖豆腐](./dishes/home-cooking/鳊鱼炖豆腐.md)
 
 ### 早餐
 
