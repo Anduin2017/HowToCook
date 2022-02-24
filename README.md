@@ -69,6 +69,7 @@
 * [红烧肉](./dishes/home-cooking/红烧肉/简易红烧肉.md)
 * [南派红烧肉](./dishes/home-cooking/红烧肉/南派红烧肉.md)
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
+* [生汆丸子汤](./dishes/home-cooking/生汆丸子汤.md)
 
 #### 素菜
 
