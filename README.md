@@ -90,6 +90,7 @@
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
+* [凉粉](./dishes/home-cooking/凉粉/凉粉.md)
 
 ### 早餐
 
