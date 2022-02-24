@@ -72,6 +72,7 @@
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
+* [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
 
 #### 素菜
 
@@ -163,6 +164,7 @@
 * [油酥](./dishes/condiment/油酥.md)
 * [炒糖色](./dishes/condiment/糖色.md)
 * [蔗糖糖浆](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
+* [炸串酱料](./dishes/condiment/炸串酱料.md)
 
 ### 甜品
 
