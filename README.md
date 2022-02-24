@@ -89,7 +89,6 @@
 * [微波炉鸡蛋羹](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
 * [上汤娃娃菜](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
-* [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
