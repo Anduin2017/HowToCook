@@ -150,6 +150,7 @@
 * [金菲士](./dishes/drink/金菲士.md)
 * [金汤力](./dishes/drink/金汤力.md)
 * [奶茶](./dishes/drink/奶茶.md)
+* [B52轰炸机](./dishes/drink/B52轰炸机.md)
 
 ### 酱料和其它材料
 
