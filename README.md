@@ -81,7 +81,7 @@
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
-
+* [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 ### 主食
 
 * [米饭](./dishes/staple/米饭.md)
