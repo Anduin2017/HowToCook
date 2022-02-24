@@ -125,6 +125,7 @@
 ### 半成品加工
 
 * [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
+* [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
 * [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 * [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 * [凉皮](./dishes/semi-finished/凉皮.md)
