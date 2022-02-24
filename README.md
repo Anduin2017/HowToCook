@@ -42,6 +42,7 @@
 * [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
 * [红烧鱼头](./dishes/home-cooking/红烧鱼头.md)
 * [红烧鲤鱼](./dishes/home-cooking/红烧鲤鱼.md)
+* [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 
 #### 荤菜
 
@@ -68,6 +69,8 @@
 * [萝卜炖羊排](./dishes/home-cooking/萝卜炖羊排.md)
 * [红烧肉](./dishes/home-cooking/红烧肉/简易红烧肉.md)
 * [南派红烧肉](./dishes/home-cooking/红烧肉/南派红烧肉.md)
+* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
+* [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 
 #### 素菜
 
@@ -78,7 +81,6 @@
 * [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
 * [凉拌黄瓜](./dishes/home-cooking/凉拌黄瓜.md)
 * [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
-* [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 * [菠菜炒鸡蛋](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 * [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 * [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
@@ -86,7 +88,6 @@
 * [微波炉鸡蛋羹](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
 * [上汤娃娃菜](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
-* [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
