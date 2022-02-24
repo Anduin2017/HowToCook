@@ -90,6 +90,7 @@
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
+* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
 ### 早餐
 
@@ -97,6 +98,7 @@
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [果酱吐司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
+* [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 
@@ -118,6 +120,7 @@
 * [炒馍](./dishes/staple/炒馍.md)
 * [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 * [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
+* [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 
 ### 半成品加工
 
