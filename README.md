@@ -118,6 +118,7 @@
 * [炒馍](./dishes/staple/炒馍.md)
 * [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 * [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
+* [通用汤面](./dishes/staple/通用汤面.md)
 
 ### 半成品加工
 
