@@ -68,7 +68,6 @@
 * [萝卜炖羊排](./dishes/home-cooking/萝卜炖羊排.md)
 * [红烧肉](./dishes/home-cooking/红烧肉/简易红烧肉.md)
 * [南派红烧肉](./dishes/home-cooking/红烧肉/南派红烧肉.md)
-* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
 #### 素菜
 
@@ -90,6 +89,7 @@
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
+* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
 ### 早餐
 
@@ -97,6 +97,7 @@
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [果酱吐司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
+* [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 
