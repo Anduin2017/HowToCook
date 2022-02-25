@@ -50,7 +50,7 @@
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
-* [西红柿牛腩](./dishes/home-cooking/西红柿牛腩.md)
+* [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
 * [宫保鸡丁](./dishes/home-cooking/宫保鸡丁/宫保鸡丁.md)
 * [麻辣香锅](./dishes/home-cooking/麻辣香锅.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
