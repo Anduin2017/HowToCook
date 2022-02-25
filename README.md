@@ -73,6 +73,7 @@
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
 * [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
+* [水煮牛肉](./dishes/home-cooking/水煮牛肉/水煮牛肉.md)
 
 #### 素菜
 
