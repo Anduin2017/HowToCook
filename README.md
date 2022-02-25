@@ -104,6 +104,7 @@
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
+* [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 
 ### 主食
 
@@ -151,6 +152,7 @@
 * [金菲士](./dishes/drink/金菲士.md)
 * [金汤力](./dishes/drink/金汤力.md)
 * [奶茶](./dishes/drink/奶茶.md)
+* [B52轰炸机](./dishes/drink/B52轰炸机.md)
 
 ### 酱料和其它材料
 
