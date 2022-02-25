@@ -1,8 +1,8 @@
 # 程序员做饭指南
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)
-![GitHub](https://img.shields.io/github/license/Anduin2017/HowToCook)
-![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)](https://github.com/Anduin2017/HowToCook/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
@@ -43,6 +43,8 @@
 * [红烧鱼头](./dishes/home-cooking/红烧鱼头.md)
 * [红烧鲤鱼](./dishes/home-cooking/红烧鲤鱼.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
+* [烤鱼](./dishes/home-cooking/混合烤鱼/烤鱼.md)
+* [鳊鱼炖豆腐](./dishes/home-cooking/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
 
 #### 荤菜
 
@@ -50,6 +52,7 @@
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
+* [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
 * [宫保鸡丁](./dishes/home-cooking/宫保鸡丁/宫保鸡丁.md)
 * [麻辣香锅](./dishes/home-cooking/麻辣香锅.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
@@ -74,6 +77,8 @@
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
 * [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
 * [水煮牛肉](./dishes/home-cooking/水煮牛肉/水煮牛肉.md)
+* [红烧猪蹄](./dishes/home-cooking/红烧猪蹄/红烧猪蹄.md)
+* [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
 
 #### 素菜
 
@@ -99,6 +104,7 @@
 ### 早餐
 
 * [太阳蛋](./dishes/breakfast/太阳蛋.md)
+* [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [果酱吐司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
@@ -106,6 +112,7 @@
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+* [蒸花卷](./dishes/breakfast/蒸花卷.md)
 
 ### 主食
 
@@ -126,6 +133,7 @@
 * [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 * [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
 * [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
+* [麻辣减脂荞麦面](./dishes/staple/麻辣减脂荞麦面.md)
 
 ### 半成品加工
 
@@ -144,10 +152,12 @@
 * [罗宋汤](./dishes/soup/罗宋汤.md)
 * [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 * [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
+* [菌菇炖乳鸽](./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
 
 ### 饮料
 
-* [酸梅汁](./dishes/drink/酸梅汁.md)
+* [酸梅汁(从半成品)](./dishes/drink/酸梅汁.md)
+* [酸梅汤(从原材料)](./dishes/drink/酸梅汤/酸梅汤.md)
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 * [杨枝甘露](./dishes/drink/杨枝甘露.md)
 * [金菲士](./dishes/drink/金菲士.md)
