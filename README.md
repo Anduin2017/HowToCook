@@ -74,6 +74,7 @@
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
 * [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
+* [红烧猪蹄](./dishes/home-cooking/红烧猪蹄/红烧猪蹄.md)
 * [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
 
 #### 素菜
@@ -147,6 +148,7 @@
 * [罗宋汤](./dishes/soup/罗宋汤.md)
 * [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 * [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
+* [菌菇炖乳鸽](./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
 
 ### 饮料
 
