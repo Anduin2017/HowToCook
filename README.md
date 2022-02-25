@@ -1,8 +1,8 @@
 # 程序员做饭指南
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)
-![GitHub](https://img.shields.io/github/license/Anduin2017/HowToCook)
-![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)](https://github.com/Anduin2017/HowToCook/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
