@@ -105,6 +105,7 @@
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+* [蒸花卷](./dishes/breakfast/蒸花卷.md)
 
 ### 主食
 
