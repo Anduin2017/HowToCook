@@ -43,6 +43,7 @@
 * [红烧鱼头](./dishes/home-cooking/红烧鱼头.md)
 * [红烧鲤鱼](./dishes/home-cooking/红烧鲤鱼.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
+* [鳊鱼炖豆腐](./dishes/home-cooking/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
 
 #### 荤菜
 
