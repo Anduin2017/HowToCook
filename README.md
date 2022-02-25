@@ -1,8 +1,8 @@
 # 程序员做饭指南
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)
-![GitHub](https://img.shields.io/github/license/Anduin2017/HowToCook)
-![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)](https://github.com/Anduin2017/HowToCook/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
@@ -50,6 +50,7 @@
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
+* [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
 * [宫保鸡丁](./dishes/home-cooking/宫保鸡丁/宫保鸡丁.md)
 * [麻辣香锅](./dishes/home-cooking/麻辣香锅.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
@@ -74,6 +75,7 @@
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
 * [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
 * [红烧猪蹄](./dishes/home-cooking/红烧猪蹄/红烧猪蹄.md)
+* [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
 
 #### 素菜
 
@@ -93,6 +95,7 @@
 * [炒青菜](./dishes/home-cooking/炒青菜.md)
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
+* [凉粉](./dishes/home-cooking/凉粉/凉粉.md)
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
 ### 早餐
@@ -104,6 +107,8 @@
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
+* [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+* [蒸花卷](./dishes/breakfast/蒸花卷.md)
 
 ### 主食
 
@@ -124,6 +129,7 @@
 * [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 * [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
 * [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
+* [麻辣减脂荞麦面](./dishes/staple/麻辣减脂荞麦面.md)
 
 ### 半成品加工
 
@@ -152,6 +158,7 @@
 * [金菲士](./dishes/drink/金菲士.md)
 * [金汤力](./dishes/drink/金汤力.md)
 * [奶茶](./dishes/drink/奶茶.md)
+* [B52轰炸机](./dishes/drink/B52轰炸机.md)
 
 ### 酱料和其它材料
 
