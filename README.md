@@ -154,8 +154,8 @@
 
 ### 饮料
 
-* [酸梅汁](./dishes/drink/酸梅汁.md)
-* [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
+* [酸梅汁(从半成品)](./dishes/drink/酸梅汁.md)
+* [酸梅汤(从原材料)](./dishes/drink/酸梅汤/酸梅汤.md)
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 * [杨枝甘露](./dishes/drink/杨枝甘露.md)
 * [金菲士](./dishes/drink/金菲士.md)
