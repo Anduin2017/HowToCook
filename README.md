@@ -105,7 +105,7 @@
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
-* [小米粥](./dishes/breakfast/小米粥.md)
+
 
 ### 主食
 
@@ -144,6 +144,7 @@
 * [罗宋汤](./dishes/soup/罗宋汤.md)
 * [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 * [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
+* [小米粥](./dishes/breakfast/小米粥.md)
 
 ### 饮料
 
