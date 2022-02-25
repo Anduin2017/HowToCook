@@ -94,6 +94,7 @@
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
 * [凉粉](./dishes/home-cooking/凉粉/凉粉.md)
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
+* [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
 
 ### 早餐
 
