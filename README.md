@@ -43,6 +43,7 @@
 * [红烧鱼头](./dishes/home-cooking/红烧鱼头.md)
 * [红烧鲤鱼](./dishes/home-cooking/红烧鲤鱼.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
+* [烤鱼](./dishes/home-cooking/混合烤鱼/烤鱼.md)
 
 #### 荤菜
 
@@ -73,7 +74,6 @@
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
 * [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
-* [烤鱼](./dishes/home-cooking/混合烤鱼/烤鱼.md)
 
 #### 素菜
 
