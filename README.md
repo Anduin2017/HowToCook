@@ -101,6 +101,7 @@
 ### 早餐
 
 * [太阳蛋](./dishes/breakfast/太阳蛋.md)
+* [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [果酱吐司](./dishes/breakfast/吐司果酱.md)
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
