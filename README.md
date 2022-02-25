@@ -144,7 +144,7 @@
 * [罗宋汤](./dishes/soup/罗宋汤.md)
 * [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 * [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
-* [小米粥](./dishes/breakfast/小米粥.md)
+* [小米粥](dishes/soup/小米粥.md)
 
 ### 饮料
 
