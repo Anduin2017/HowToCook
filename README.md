@@ -66,7 +66,7 @@
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
-* [西红柿土豆炖牛肉](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
+* [西红柿土豆炖牛肉](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [老式锅包肉](./dishes/home-cooking/老式锅包肉/老式锅包肉.md)
 * [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
 * [萝卜炖羊排](./dishes/home-cooking/萝卜炖羊排.md)
