@@ -30,7 +30,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "[ci skip] Automatic generate readme"
-          branch: "master"
           file_pattern: ":/*.md"
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
