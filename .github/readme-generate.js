@@ -5,31 +5,35 @@ const ignorePaths = ['.git', 'README.md', 'node_modules', 'CONTRIBUTING.md', '.g
 const categories = {
   'home-cooking': {
     title: '家常菜',
-    str: '',
+    template: '',
   },
   breakfast: {
     title: '早餐',
-    str: '',
+    template: '',
   },
   staple: {
     title: '主食',
-    str: '',
+    template: '',
   },
   'semi-finished': {
     title: '半成品加工',
-    str: '',
+    template: '',
   },
   soup: {
     title: '汤与粥',
-    str: '',
+    template: '',
   },
   drink: {
     title: '饮料',
-    str: '',
+    template: '',
+  },
+  condiment: {
+    title: '酱料和其它材料',
+    template:'',
   },
   dessert: {
     title: '甜品',
-    str: '',
+    template: '',
   },
 };
 
@@ -79,15 +83,15 @@ async function main() {
 
       for (const category of Object.keys(categories)) {
         if (markdown.path.includes(category)) {
-          let currentCategoryStr = categories[category].str;
+          let currentCategoryStr = categories[category].template;
           currentCategoryStr += inlineTemplate(markdown.file, markdown.path);
-          categories[category].str = currentCategoryStr;
+          categories[category].template = currentCategoryStr;
         }
       }
     }
 
     for (const category of Object.values(categories)) {
-      MAIN += categoryTemplate(category.title, category.str);
+      MAIN += categoryTemplate(category.title, category.template);
     }
 
     await writeFile('./README.md', README_TEMPLATE.replace('{{before}}', BEFORE)
