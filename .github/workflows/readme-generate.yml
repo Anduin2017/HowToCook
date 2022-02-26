@@ -26,7 +26,7 @@ jobs:
           node-version: "16"
           cache: "npm"
       - run: npm install
-      - run: node ./.github/readme-gen.js
+      - run: node ./.github/readme-generate.js
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "[ci skip] Automatic generate readme"
