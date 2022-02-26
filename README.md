@@ -78,6 +78,7 @@
 * [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
 * [红烧猪蹄](./dishes/home-cooking/红烧猪蹄/红烧猪蹄.md)
 * [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
+* [新疆大盘鸡](./dishes/home-cooking/新疆大盘鸡/新疆大盘鸡.md)
 
 #### 素菜
 
