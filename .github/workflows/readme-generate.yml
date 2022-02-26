@@ -21,11 +21,6 @@ jobs:
     # if: github.repository_owner == 'Anduin2017'
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-        with:
-          node-version: "16"
-          cache: "npm"
-      - run: npm install
       - run: node ./.github/readme-generate.js
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:

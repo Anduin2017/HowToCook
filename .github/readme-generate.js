@@ -65,9 +65,7 @@ let README_TEMPLATE = `# 程序员做饭指南
 
 async function main() {
   try {
-    let BEFORE = '';
-    let MAIN = '';
-    let AFTER = '';
+    let BEFORE = MAIN = AFTER = '';
     const markdownObj = await getAllMarkdown('.');
     for (const markdown of markdownObj) {
       if (markdown.path.includes('tips/advanced')) {
@@ -91,10 +89,10 @@ async function main() {
     for (const category of Object.values(categories)) {
       MAIN += categoryTemplate(category.title, category.str);
     }
-    README_TEMPLATE = README_TEMPLATE.replace('{{before}}', BEFORE)
+
+    await writeFile('./README.md', README_TEMPLATE.replace('{{before}}', BEFORE)
       .replace('{{main}}', MAIN)
-      .replace('{{after}}', AFTER);
-    await writeFile('./README.md', README_TEMPLATE);
+      .replace('{{after}}', AFTER));
   } catch (error) {
     console.error(error);
   }
