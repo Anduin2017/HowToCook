@@ -72,12 +72,10 @@
 * [地三鲜](./dishes/home-cooking/地三鲜.md)
 * [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
-* [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
 * [凉拌黄瓜](./dishes/home-cooking/凉拌黄瓜.md)
 * [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
 * [菠菜炒鸡蛋](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 * [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
-* [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 * [鸡蛋羹](./dishes/home-cooking/鸡蛋羹/鸡蛋羹.md)
 * [微波炉鸡蛋羹](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
 * [上汤娃娃菜](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
@@ -85,10 +83,11 @@
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [红烧茄子](./dishes/home-cooking/红烧茄子.md)
 * [凉粉](./dishes/home-cooking/凉粉/凉粉.md)
-* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
 ### 荤菜
 
+* [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
+* [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 * [水煮肉片](./dishes/home-cooking/水煮肉片.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [回锅肉](./dishes/home-cooking/回锅肉.md)
