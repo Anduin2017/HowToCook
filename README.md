@@ -115,6 +115,7 @@
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [蒸花卷](./dishes/breakfast/蒸花卷.md)
 
+
 ### 主食
 
 * [米饭](./dishes/staple/米饭/米饭.md)
@@ -154,6 +155,7 @@
 * [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 * [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 * [菌菇炖乳鸽](./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
+* [小米粥](dishes/soup/小米粥.md)
 
 ### 饮料
 
