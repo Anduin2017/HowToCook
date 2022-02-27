@@ -92,6 +92,7 @@
 * [麻辣香锅](./dishes/home-cooking/麻辣香锅.md)
 * [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 * [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
+* [土豆炖排骨](./dishes/home-cooking/土豆炖排骨/土豆炖排骨.md)
 
 ### 早餐
 
