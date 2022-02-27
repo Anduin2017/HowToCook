@@ -104,7 +104,7 @@
 * [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [蒸花卷](./dishes/breakfast/蒸花卷.md)
-
+* [煎饺](./dishes/breakfast/煎饺.md)
 ### 主食
 
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
