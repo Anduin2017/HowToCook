@@ -6,13 +6,11 @@ on:
       - '*'
       - '*/*'
       - '**'
-      - '!master'
   pull_request:
     branches:
       - '*'
       - '*/*'
       - '**'
-      - '!master'
   workflow_dispatch:
 
 jobs:
