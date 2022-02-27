@@ -80,6 +80,7 @@
 * [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
+* [韩式拌饭](./dishes/home-cooking/韩式拌饭/韩式拌饭.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
 * [香干芹菜炒肉](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
