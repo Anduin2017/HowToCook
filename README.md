@@ -66,7 +66,13 @@
 * [冷吃兔](./dishes/home-cooking/冷吃兔.md)
 * [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
-* [炒青菜](./dishes/home-cooking/炒青菜.md)
+* [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
+* [小炒肉](./dishes/home-cooking/小炒肉.md)
+* [血浆鸭](./dishes/home-cooking/血浆鸭/血浆鸭.md)
+* [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
+* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
+* [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
+* [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
 * [烤茄子](./dishes/home-cooking/烤茄子/烤茄子.md)
 
 ### 早餐
