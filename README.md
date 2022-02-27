@@ -112,6 +112,7 @@
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [蒸花卷](./dishes/breakfast/蒸花卷.md)
+* [煎饺]（./dishes/breakfast/煎饺.md)
 
 ### 主食
 
