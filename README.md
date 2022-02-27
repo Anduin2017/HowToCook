@@ -19,11 +19,11 @@
 
 ## 做菜之前
 
+* [学习炒与煎](./tips/learn/学习炒与煎.md)
+* [学习焯水](./tips/learn/学习焯水.md)
+* [学习煮](./tips/learn/学习煮.md)
 * [学习腌](./tips/learn/学习腌.md)
-* [炒与煎](./tips/learn/炒与煎.md)
-* [焯水](./tips/learn/焯水.md)
-* [煮](./tips/learn/煮.md)
-* [蒸](./tips/learn/蒸.md)
+* [学习蒸](./tips/learn/学习蒸.md)
 * [食品安全](./tips/learn/食品安全.md)
 * [高压力锅](./tips/learn/高压力锅.md)
 * [厨房准备](./tips/厨房准备.md)
