@@ -1,0 +1,2 @@
+mkdocs-material
+mkdocs-same-dir

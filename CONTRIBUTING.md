@@ -20,7 +20,7 @@
 `计算`应定量列出本菜品所需的原材料的量。（无论与人数是否相关）
 `操作`应说明菜品的制作步骤。
 
-2. 菜品的制作步骤应当明确(无歧义,non-ambiguous)，并尽可能准确(accurate)。有歧义(ambiguous)的描述是不可接受的，而不准确(inaccurate)或不精确(imprecise)的描述是可以接受的。
+2. 菜品的制作步骤应当明确（无歧义,non-ambiguous），并尽可能准确(accurate)。有歧义(ambiguous)的描述是不可接受的，而不准确(inaccurate)或不精确(imprecise)的描述是可以接受的。
 
 > 不准确的菜谱会导致菜品口味有少许偏差，不明确的菜谱会导致做菜人的心态有明显不安。
 
@@ -96,3 +96,27 @@
 - 确保签入的内容都符合 CC0 协议。尤其注意图片是否有水印！
 - 确保他没有签入任何个人身份信息、EUII、Email 地址、GitHub 用户名
 
+## 文档网站构建
+
+除了直接部署 Readme.md 的 HTML，还可以利用`mkdocs-material`来 render markdown 文件。这会得到更加漂亮的页面。
+
+`./docs` 文件夹的存在是 workaround mkdocs 要求`.md`文件不能存在于根目录中。里面全部是 relative symlink 到实际的文件夹
+
+需求: Python > 3.6
+
+### 调试
+
+```bash
+pip install -r requirements.txt
+mkdocs serve
+```
+
+可以在本地 <http://localhost:8000/> 打开。
+
+### 编译
+
+```bash
+mkdocs build
+```
+
+生成静态 HTML 网页, 存在于在`site/`文件夹下。Hosting 的时候指向到`site/index.html`即可。
