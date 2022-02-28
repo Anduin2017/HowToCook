@@ -82,6 +82,7 @@
 * [糖醋鲤鱼](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
+* [西红柿土豆炖牛肉(腩)](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [香干芹菜炒肉](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
@@ -143,7 +144,6 @@
 * [米粥](./dishes/soup/米粥.md)
 * [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
 * [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
-* [西红柿土豆炖牛肉(腩)](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [小米粥](./dishes/soup/小米粥.md)
 * [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
