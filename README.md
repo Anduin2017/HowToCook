@@ -80,8 +80,10 @@
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [糖醋鲤鱼](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
+* [土豆炖排骨](./dishes/home-cooking/土豆炖排骨/土豆炖排骨.md)
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
+* [西红柿土豆炖牛肉(腩)](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [香干芹菜炒肉](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
@@ -144,7 +146,6 @@
 * [米粥](./dishes/soup/米粥.md)
 * [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
 * [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
-* [西红柿土豆炖牛肉(腩)](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [小米粥](./dishes/soup/小米粥.md)
 * [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
@@ -156,7 +157,7 @@
 * [金汤力](./dishes/drink/金汤力/金汤力.md)
 * [奶茶](./dishes/drink/奶茶.md)
 * [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
-* [酸梅汁](./dishes/drink/酸梅汁.md)
+* [酸梅汤(半成品加工)](./dishes/drink/酸梅汤(半成品加工).md)
 * [杨枝甘露](./dishes/drink/杨枝甘露.md)
 * [B52轰炸机](./dishes/drink/B52轰炸机.md)
 
