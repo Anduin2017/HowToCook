@@ -60,6 +60,7 @@
 * [姜炒鸡](./dishes/home-cooking/姜炒鸡/姜炒鸡.md)
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
+* [烤茄子](./dishes/home-cooking/烤茄子/烤茄子.md)
 * [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
 * [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
 * [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
@@ -84,7 +85,7 @@
 * [土豆炖排骨](./dishes/home-cooking/土豆炖排骨/土豆炖排骨.md)
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
-* [西红柿土豆炖牛肉（腩）](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
+* [西红柿土豆炖牛肉(腩)](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 * [香干芹菜炒肉](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
@@ -95,7 +96,6 @@
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
-* [烤茄子](./dishes/home-cooking/烤茄子/烤茄子.md)
 
 ### 早餐
 
@@ -158,7 +158,7 @@
 * [金汤力](./dishes/drink/金汤力/金汤力.md)
 * [奶茶](./dishes/drink/奶茶.md)
 * [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
-* [酸梅汤（半成品加工）](./dishes/drink/酸梅汤(半成品加工).md)
+* [酸梅汤(半成品加工)](./dishes/drink/酸梅汤(半成品加工).md)
 * [杨枝甘露](./dishes/drink/杨枝甘露.md)
 * [B52轰炸机](./dishes/drink/B52轰炸机.md)
 
