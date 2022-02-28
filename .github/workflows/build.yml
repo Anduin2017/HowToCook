@@ -17,41 +17,32 @@ jobs:
   readme-gen:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - run: node ./.github/readme-generate.js
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "[ci skip] Automatic generate readme"
-          file_pattern: ":/*.md"
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
-          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-  lint-fix:
-    runs-on: ubuntu-latest
-    steps:
+      # Preparation.
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
           cache: 'npm'
       - run: npm install
+      # Generate Readme.
+      - run: node ./.github/readme-generate.js
+      # Do textlint fix.
       - run: ./node_modules/.bin/textlint . --fix
+      # Save files.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: '[ci skip] Automatic textlint fixes'
+          commit_message: '[ci skip] Automatic file changes/fix'
           branch: 'master'
           file_pattern: ':/*.md'
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
       - uses: BSFishy/pip-action@v1
         with:
           requirements: requirements.txt
+      # Build docs
       - run: mkdocs build
+      # Publish to pages.
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
