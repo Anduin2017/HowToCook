@@ -1,8 +1,16 @@
 name: Textlint
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'
+  push:
+    branches:
+      - '*'
+      - '*/*'
+      - '**'
+  pull_request:
+    branches:
+      - '*'
+      - '*/*'
+      - '**'
   workflow_dispatch:
 
 jobs:
