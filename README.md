@@ -80,6 +80,7 @@
 * [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [糖醋鲤鱼](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
+* [土豆炖排骨](./dishes/home-cooking/土豆炖排骨/土豆炖排骨.md)
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
 * [西红柿土豆炖牛肉(腩)](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
@@ -90,6 +91,9 @@
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
 * [血浆鸭](./dishes/home-cooking/血浆鸭/血浆鸭.md)
 * [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
+* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
+* [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
+* [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
 
 ### 早餐
 
