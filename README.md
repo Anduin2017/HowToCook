@@ -163,6 +163,7 @@
 
 ### 酱料和其它材料
 
+* [草莓酱](./dishes/condiment/草莓酱/草莓酱.md)
 * [蒜香酱油](./dishes/condiment/蒜香酱油.md)
 * [糖醋汁](./dishes/condiment/糖醋汁.md)
 * [糖色](./dishes/condiment/糖色.md)
