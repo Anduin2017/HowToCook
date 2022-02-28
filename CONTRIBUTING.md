@@ -121,5 +121,5 @@ mkdocs build
 
 > **_Note:_** 
 > 由于`mkdocs`不原生支持`*.md`存在于根目录下，只能添加了`mkdocs-same-dir`这个插件来做workaround。
-> 通常来说mkdoc会自动检查文件夹里的各种文件 （eg *.jpg）然后生成相对应的链接。由于这个
+> 通常来说mkdoc会自动检查文件夹里的各种文件 (eg *.jpg)然后生成相对应的链接。由于这个
 > workaround，根目录下现在只能检测到`.md`文件。这个限制并不影响剩下的文件夹（比方说`tips`和`dishes`)。
