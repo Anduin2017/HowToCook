@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  readme-gen:
+  Rebuild-everything:
     runs-on: ubuntu-latest
     steps:
       # Preparation.
@@ -37,10 +37,8 @@ jobs:
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-      - uses: BSFishy/pip-action@v1
-        with:
-          requirements: requirements.txt
       # Build docs
+      - run: rm ./node_modules -rvf
       - uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
