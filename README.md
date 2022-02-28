@@ -156,7 +156,7 @@
 * [金汤力](./dishes/drink/金汤力/金汤力.md)
 * [奶茶](./dishes/drink/奶茶.md)
 * [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
-* [酸梅汁](./dishes/drink/酸梅汁.md)
+* [酸梅汤(半成品加工)](./dishes/drink/酸梅汤(半成品加工).md)
 * [杨枝甘露](./dishes/drink/杨枝甘露.md)
 * [B52轰炸机](./dishes/drink/B52轰炸机.md)
 
