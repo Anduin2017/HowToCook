@@ -97,23 +97,27 @@
 - 确保他没有签入任何个人身份信息、EUII、Email 地址、GitHub 用户名
 
 
-## Documentation Hosting
+## 文档网站构建
 
-利用`mkdocs-material`来render markdown文件。
+除了直接部署Readme.md的HTML，还可以利用`mkdocs-material`来render markdown文件。这会得到更加漂亮的页面。
 
-`./docs` 文件夹的存在是workaround mkdocs要求`.md`文件不能存在于根目录中。里面全部是relative symlink到
-实际的文件/文件夹
+`./docs` 文件夹的存在是workaround mkdocs要求`.md`文件不能存在于根目录中。里面全部是relative symlink到实际的文件夹
 
 需求: Python > 3.6
 
-如何使用：
+### 调试
+
+```bash
+$ pip install -r requirements.txt
+$ mkdocs serve
 ```
-pip install -r requirements.txt
-mkdocs serve
+
+可以在本地 http://localhost:8000/ 打开。
+
+### 编译
+
+```bash
+$ mkdocs build
 ```
 
-Documentation可以在本地 http://localhost:8000/ 打开。
-
-管理员：
-用`mkdocs build` 生成静态HTML网页, 存在于在`site/`文件夹下。Hosting的时候指向到`site/index.html`即可。
-
+生成静态HTML网页, 存在于在`site/`文件夹下。Hosting的时候指向到`site/index.html`即可。
