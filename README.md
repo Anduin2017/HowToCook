@@ -158,6 +158,7 @@
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 * [金菲士](./dishes/drink/金菲士/金菲士.md)
 * [金汤力](./dishes/drink/金汤力/金汤力.md)
+* [可乐桶](./dishes/drink/可乐桶.md)
 * [奶茶](./dishes/drink/奶茶.md)
 * [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
 * [酸梅汤（半成品加工）](./dishes/drink/酸梅汤（半成品加工）.md)
