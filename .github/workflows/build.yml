@@ -44,3 +44,15 @@ jobs:
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: BSFishy/pip-action@v1
+        with:
+          requirements: requirements.txt
+      - run: mkdocs build
+      - uses: peaceiris/actions-gh-pages@v3
+      - with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
