@@ -57,6 +57,7 @@
 * [微波炉鸡蛋羹](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
+* [姜炒鸡](./dishes/home-cooking/姜炒鸡/姜炒鸡.md)
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
 * [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
@@ -94,7 +95,6 @@
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 * [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
 * [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
-* [姜炒鸡](./dishes/home-cooking/姜炒鸡/姜炒鸡.md)
 
 ### 早餐
 
