@@ -99,9 +99,9 @@
 
 ## Documentation Hosting
 
-利用`mkdocs-material`来render markdown文件。
+利用`mkdocs-material`来 render markdown 文件。
 
-`./docs` 文件夹的存在是workaround mkdocs要求`.md`文件不能存在于根目录中。里面全部是relative symlink到
+`./docs` 文件夹的存在是 workaround mkdocs 要求`.md`文件不能存在于根目录中。里面全部是 relative symlink 到
 实际的文件/文件夹
 
 需求: Python > 3.6
@@ -112,8 +112,8 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-Documentation可以在本地 http://localhost:8000/ 打开。
+Documentation 可以在本地 http://localhost:8000/ 打开。
 
 管理员：
-用`mkdocs build` 生成静态HTML网页, 存在于在`site/`文件夹下。Hosting的时候指向到`site/index.html`即可。
+用`mkdocs build` 生成静态 HTML 网页, 存在于在`site/`文件夹下。Hosting 的时候指向到`site/index.html`即可。
 
