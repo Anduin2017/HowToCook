@@ -96,7 +96,6 @@
 - 确保签入的内容都符合 CC0 协议。尤其注意图片是否有水印！
 - 确保他没有签入任何个人身份信息、EUII、Email 地址、GitHub 用户名
 
-
 ## 文档网站构建
 
 除了直接部署 Readme.md 的 HTML，还可以利用`mkdocs-material`来 render markdown 文件。这会得到更加漂亮的页面。
@@ -108,8 +107,8 @@
 ### 调试
 
 ```bash
-$ pip install -r requirements.txt
-$ mkdocs serve
+pip install -r requirements.txt
+mkdocs serve
 ```
 
 可以在本地 http://localhost:8000/ 打开。
@@ -117,7 +116,7 @@ $ mkdocs serve
 ### 编译
 
 ```bash
-$ mkdocs build
+mkdocs build
 ```
 
 生成静态 HTML 网页, 存在于在`site/`文件夹下。Hosting 的时候指向到`site/index.html`即可。
