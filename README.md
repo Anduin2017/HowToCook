@@ -60,6 +60,7 @@
 * [姜炒鸡](./dishes/home-cooking/姜炒鸡/姜炒鸡.md)
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
+* [烤茄子](./dishes/home-cooking/烤茄子/烤茄子.md)
 * [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
 * [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
 * [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
