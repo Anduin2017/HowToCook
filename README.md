@@ -108,6 +108,7 @@
 * [吐司果酱](./dishes/breakfast/吐司果酱.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 * [蒸花卷](./dishes/breakfast/蒸花卷.md)
+* [煎饺](./dishes/breakfast/煎饺.md)
 
 ### 主食
 
