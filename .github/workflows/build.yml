@@ -41,9 +41,9 @@ jobs:
         with:
           requirements: requirements.txt
       # Build docs
-      - run: mkdocs build
-      # Publish to pages.
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+      - uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUSTOM_DOMAIN: cook.aiurs.co
+          CONFIG_FILE: mkdocs.yml
+          REQUIREMENTS: requirements.txt
