@@ -29,7 +29,7 @@ const categories = {
   },
   condiment: {
     title: '酱料和其它材料',
-    template:'',
+    template: '',
   },
   dessert: {
     title: '甜品',
@@ -69,7 +69,7 @@ let README_TEMPLATE = `# 程序员做饭指南
 
 async function main() {
   try {
-    let BEFORE = MAIN = AFTER = '';
+    let BEFORE = (MAIN = AFTER = '');
     const markdownObj = await getAllMarkdown('.');
     for (const markdown of markdownObj) {
       if (markdown.path.includes('tips/advanced')) {
@@ -94,9 +94,12 @@ async function main() {
       MAIN += categoryTemplate(category.title, category.template);
     }
 
-    await writeFile('./README.md', README_TEMPLATE.replace('{{before}}', BEFORE)
-      .replace('{{main}}', MAIN)
-      .replace('{{after}}', AFTER));
+    await writeFile(
+      './README.md',
+      README_TEMPLATE.replace('{{before}}', BEFORE)
+        .replace('{{main}}', MAIN)
+        .replace('{{after}}', AFTER),
+    );
   } catch (error) {
     console.error(error);
   }
@@ -105,6 +108,15 @@ async function main() {
 async function getAllMarkdown(path) {
   const paths = [];
   const files = await readdir(path);
+  // chinese alphabetic order
+  files.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+
+  // mtime order
+  // files.sort(async (a, b) => {
+  //   const aStat = await stat(`${path}/${a}`);
+  //   const bStat = await stat(`${path}/${b}`);
+  //   return aStat.mtime - bStat.mtime;
+  // });
   for (const file of files) {
     const filePath = `${path}/${file}`;
     if (ignorePaths.includes(file)) continue;
