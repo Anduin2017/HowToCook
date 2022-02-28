@@ -1,6 +1,6 @@
-# CONTRIBUTING Guide
+# 如何贡献
 
-## 如何贡献
+## 简介
 
 直接修改/添加做菜指南并提交 Pull request 即可。
 
@@ -98,9 +98,7 @@
 
 ## 文档网站构建
 
-除了直接部署 Readme.md 的 HTML，还可以利用`mkdocs-material`来 render markdown 文件。这会得到更加漂亮的页面。
-
-`./docs` 文件夹的存在是 workaround mkdocs 要求`.md`文件不能存在于根目录中。里面全部是 relative symlink 到实际的文件夹
+除了直接部署 `README.md` 的 HTML，还可以利用`mkdocs-material`来渲染 markdown 文件。这会得到更加漂亮的页面。
 
 需求: Python > 3.6
 
@@ -120,3 +118,8 @@ mkdocs build
 ```
 
 生成静态 HTML 网页, 存在于在`site/`文件夹下。Hosting 的时候指向到`site/index.html`即可。
+
+> **_Note:_** 
+> 由于`mkdocs`不原生支持`*.md`存在于根目录下，只能添加了`mkdocs-same-dir`这个插件来做workaround。
+> 通常来说mkdoc会自动检查文件夹里的各种文件 (eg *.jpg)然后生成相对应的链接。由于这个
+> workaround，根目录下现在只能检测到`.md`文件。这个限制并不影响剩下的文件夹（比方说`tips`和`dishes`)。
