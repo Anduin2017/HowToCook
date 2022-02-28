@@ -111,7 +111,7 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-可以在本地 http://localhost:8000/ 打开。
+可以在本地 <http://localhost:8000/> 打开。
 
 ### 编译
 
