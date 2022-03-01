@@ -84,6 +84,7 @@
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [糖醋鲤鱼](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
 * [土豆炖排骨](./dishes/home-cooking/土豆炖排骨/土豆炖排骨.md)
+* [微波葱姜黑鳕鱼](./dishes/home-cooking/微波葱姜黑鳕鱼.md)
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
 * [西红柿土豆炖牛肉](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md)
