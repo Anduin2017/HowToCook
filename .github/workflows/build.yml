@@ -2,15 +2,7 @@ name: Rebuild project
 
 on:
   push:
-    branches:
-      - '*'
-      - '*/*'
-      - '**'
-  pull_request:
-    branches:
-      - '*'
-      - '*/*'
-      - '**'
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
