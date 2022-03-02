@@ -132,9 +132,9 @@
 * [手工水饺](./dishes/staple/手工水饺.md)
 * [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 * [炸酱面](./dishes/staple/炸酱面.md)
+* [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 * [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 * [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
-* [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 
 ### 半成品加工
 
