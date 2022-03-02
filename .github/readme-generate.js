@@ -3,9 +3,13 @@ const { readdir, writeFile, stat } = require('fs/promises');
 const ignorePaths = ['.git', 'README.md', 'node_modules', 'CONTRIBUTING.md', '.github'];
 
 const categories = {
-  'home-cooking': {
-    title: '家常菜',
+  'vegetable_dish': {
+    title: '素菜',
     template: '',
+  },
+  'meat_dish': {
+    title: '荤菜',
+    temple: '',
   },
   breakfast: {
     title: '早餐',
