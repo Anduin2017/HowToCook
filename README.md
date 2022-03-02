@@ -23,6 +23,7 @@
 * [如何选择现在吃什么](./tips/如何选择现在吃什么.md)
 * [高压力锅](./tips/learn/高压力锅.md)
 * [食品安全](./tips/learn/食品安全.md)
+* [微波炉](./tips/learn/微波炉.md)
 * [学习焯水](./tips/learn/学习焯水.md)
 * [学习炒与煎](./tips/learn/学习炒与煎.md)
 * [学习腌](./tips/learn/学习腌.md)
@@ -57,8 +58,10 @@
 * [微波炉鸡蛋羹](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
 * [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
 * [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
+* [姜炒鸡](./dishes/home-cooking/姜炒鸡/姜炒鸡.md)
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 * [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
+* [烤茄子](./dishes/home-cooking/烤茄子/烤茄子.md)
 * [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
 * [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
 * [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
@@ -81,9 +84,10 @@
 * [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [糖醋鲤鱼](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
 * [土豆炖排骨](./dishes/home-cooking/土豆炖排骨/土豆炖排骨.md)
+* [微波葱姜黑鳕鱼](./dishes/home-cooking/微波葱姜黑鳕鱼.md)
 * [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
 * [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
-* [西红柿土豆炖牛肉(腩)](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
+* [西红柿土豆炖牛肉](./dishes/home-cooking/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md)
 * [香干芹菜炒肉](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
 * [香干肉丝](./dishes/home-cooking/香干肉丝.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
@@ -98,6 +102,7 @@
 ### 早餐
 
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+* [煎饺](./dishes/breakfast/煎饺.md)
 * [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
@@ -105,6 +110,7 @@
 * [溏心蛋](./dishes/breakfast/溏心蛋.md)
 * [吐司果酱](./dishes/breakfast/吐司果酱.md)
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
+* [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 * [蒸花卷](./dishes/breakfast/蒸花卷.md)
 
 ### 主食
@@ -154,18 +160,20 @@
 * [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 * [金菲士](./dishes/drink/金菲士/金菲士.md)
 * [金汤力](./dishes/drink/金汤力/金汤力.md)
+* [可乐桶](./dishes/drink/可乐桶.md)
 * [奶茶](./dishes/drink/奶茶.md)
 * [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
-* [酸梅汤(半成品加工)](./dishes/drink/酸梅汤(半成品加工).md)
+* [酸梅汤（半成品加工）](./dishes/drink/酸梅汤（半成品加工）.md)
 * [杨枝甘露](./dishes/drink/杨枝甘露.md)
 * [B52轰炸机](./dishes/drink/B52轰炸机.md)
 
 ### 酱料和其它材料
 
+* [草莓酱](./dishes/condiment/草莓酱/草莓酱.md)
 * [蒜香酱油](./dishes/condiment/蒜香酱油.md)
 * [糖醋汁](./dishes/condiment/糖醋汁.md)
 * [糖色](./dishes/condiment/糖色.md)
-* [油泼辣子](./dishes/condiment/油泼辣子.md)
+* [油泼辣子](./dishes/condiment/油泼辣子/油泼辣子.md)
 * [油酥](./dishes/condiment/油酥.md)
 * [炸串酱料](./dishes/condiment/炸串酱料.md)
 * [蔗糖糖浆](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
@@ -173,7 +181,9 @@
 ### 甜品
 
 * [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
+* [戚风蛋糕](./dishes/dessert/戚风蛋糕.md)
 * [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
+* [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
 
 ## 进阶知识学习
 

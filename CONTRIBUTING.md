@@ -1,6 +1,6 @@
-# CONTRIBUTING Guide
+# 如何贡献
 
-## 如何贡献
+## 简介
 
 直接修改/添加做菜指南并提交 Pull request 即可。
 
@@ -20,7 +20,7 @@
 `计算`应定量列出本菜品所需的原材料的量。（无论与人数是否相关）
 `操作`应说明菜品的制作步骤。
 
-2. 菜品的制作步骤应当明确(无歧义,non-ambiguous)，并尽可能准确(accurate)。有歧义(ambiguous)的描述是不可接受的，而不准确(inaccurate)或不精确(imprecise)的描述是可以接受的。
+2. 菜品的制作步骤应当明确（无歧义,non-ambiguous），并尽可能准确(accurate)。有歧义(ambiguous)的描述是不可接受的，而不准确(inaccurate)或不精确(imprecise)的描述是可以接受的。
 
 > 不准确的菜谱会导致菜品口味有少许偏差，不明确的菜谱会导致做菜人的心态有明显不安。
 
@@ -96,3 +96,30 @@
 - 确保签入的内容都符合 CC0 协议。尤其注意图片是否有水印！
 - 确保他没有签入任何个人身份信息、EUII、Email 地址、GitHub 用户名
 
+## 文档网站构建
+
+除了直接部署 `README.md` 的 HTML，还可以利用`mkdocs-material`来渲染 markdown 文件。这会得到更加漂亮的页面。
+
+需求: Python > 3.6
+
+### 调试
+
+```bash
+pip install -r requirements.txt
+mkdocs serve
+```
+
+可以在本地 <http://localhost:8000/> 打开。
+
+### 编译
+
+```bash
+mkdocs build
+```
+
+生成静态 HTML 网页, 存在于在`site/`文件夹下。Hosting 的时候指向到`site/index.html`即可。
+
+> **_Note:_** 
+> 由于`mkdocs`不原生支持`*.md`存在于根目录下，只能添加了`mkdocs-same-dir`这个插件来做workaround。
+> 通常来说mkdoc会自动检查文件夹里的各种文件 (eg *.jpg)然后生成相对应的链接。由于这个
+> workaround，根目录下现在只能检测到`.md`文件。这个限制并不影响剩下的文件夹（比方说`tips`和`dishes`)。
