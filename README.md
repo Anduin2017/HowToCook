@@ -95,7 +95,6 @@
 * [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
 * [小炒肉](./dishes/home-cooking/小炒肉.md)
 * [新疆大盘鸡](./dishes/home-cooking/新疆大盘鸡/新疆大盘鸡.md)
-* [新疆大盘鸡](./dishes/home-cooking/新疆大盘鸡.md)
 * [血浆鸭](./dishes/home-cooking/血浆鸭/血浆鸭.md)
 * [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
 * [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
