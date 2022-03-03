@@ -64,6 +64,7 @@ let README_TEMPLATE = `# 程序员做饭指南
 
 {{before}}
 ## 菜谱
+
 ### 家常菜
 {{main}}
 ## 进阶知识学习
