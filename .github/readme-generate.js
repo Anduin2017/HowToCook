@@ -138,7 +138,7 @@ async function getAllMarkdown(path) {
 }
 
 function inlineTemplate(file, path) {
-  return `* [${file.replace('.md', '')}](${path}/${file})\n`;
+  return `- [${file.replace('.md', '')}](${path}/${file})\n`;
 }
 
 function categoryTemplate(title, inlineStr) {
