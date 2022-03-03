@@ -138,6 +138,7 @@
 - [热干面](./dishes/staple/热干面.md)
 - [日式咖喱饭](./dishes/staple/日式咖喱饭/日式咖喱饭.md)
 - [手工水饺](./dishes/staple/手工水饺.md)
+- [汤面](./dishes/staple/汤面.md)
 - [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 - [炸酱面](./dishes/staple/炸酱面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
