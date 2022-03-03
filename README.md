@@ -57,7 +57,7 @@
 
 ### 荤菜
 
-undefined* [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
+* [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
 * [白灼虾](./dishes/meat_dish/白灼虾/白灼虾.md)
 * [鳊鱼炖豆腐](./dishes/meat_dish/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
 * [宫保鸡丁](./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
@@ -80,6 +80,7 @@ undefined* [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
 * [口水鸡](./dishes/meat_dish/口水鸡/口水鸡.md)
 * [辣椒炒肉](./dishes/meat_dish/辣椒炒肉.md)
 * [老式锅包肉](./dishes/meat_dish/老式锅包肉/老式锅包肉.md)
+* [凉拌鸡丝](./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md)
 * [萝卜炖羊排](./dishes/meat_dish/萝卜炖羊排.md)
 * [清蒸鲈鱼](./dishes/meat_dish/清蒸鲈鱼/清蒸鲈鱼.md)
 * [清蒸生蚝](./dishes/meat_dish/清蒸生蚝.md)
