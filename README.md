@@ -109,6 +109,7 @@
 
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [煎饺](./dishes/breakfast/煎饺.md)
+* [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
 * [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
@@ -118,7 +119,6 @@
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 * [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 * [蒸花卷](./dishes/breakfast/蒸花卷.md)
-* [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
 
 ### 主食
 
