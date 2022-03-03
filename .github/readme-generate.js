@@ -9,7 +9,7 @@ const categories = {
   },
   'meat_dish': {
     title: '荤菜',
-    temple: '',
+    template: '',
   },
   breakfast: {
     title: '早餐',
