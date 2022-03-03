@@ -118,6 +118,7 @@
 * [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 * [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 * [蒸花卷](./dishes/breakfast/蒸花卷.md)
+* [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
 
 ### 主食
 
