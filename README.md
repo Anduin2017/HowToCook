@@ -107,6 +107,7 @@
 ### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+- [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
 - [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
 - [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
