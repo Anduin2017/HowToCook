@@ -1,4 +1,4 @@
-name: Lint Check
+name: lint-fix
 
 on:
   pull_request:
