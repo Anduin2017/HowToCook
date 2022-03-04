@@ -43,6 +43,7 @@
 - [红烧茄子](./dishes/vegetable_dish/红烧茄子.md)
 - [鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
 - [微波炉鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
+- [椒盐玉米](./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
 - [烤茄子](./dishes/vegetable_dish/烤茄子/烤茄子.md)
 - [榄菜肉末四季豆](./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
 - [冷吃兔](./dishes/vegetable_dish/冷吃兔.md)
