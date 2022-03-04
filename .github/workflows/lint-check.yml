@@ -1,8 +1,8 @@
-name: ci
+name: Lint Check
 
 on:
   pull_request:
-    branches: [ $default-branch ]
+    branches: [ master ]
 
 jobs:
   markdown:
