@@ -1,17 +1,19 @@
 name: Continuous Integration
 
 on:
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
 jobs:
-  markdown:
+  markdown-lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Install packages
         run: sudo gem install mdl
       - name: Lint markdown files
-        run: mdl *.md -r ~MD009,~MD029,~MD036,~MD024
+        run: mdl . -r ~MD036,~MD024,~MD004,~MD029
+      - run: pip install -r requirements.txt
+      - run: mkdocs build --strict
+        # Suppress 036 Emphasis used instead of a header
+        # Suppress 024 Multiple headers with the same content
