@@ -1,4 +1,4 @@
-name: lint-fix
+name: Continuous Integration
 
 on:
   pull_request:
