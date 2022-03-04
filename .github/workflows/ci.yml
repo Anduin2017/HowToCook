@@ -1,13 +1,11 @@
 name: Continuous Integration
 
 on:
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
 jobs:
-  markdown:
+  markdown-lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,5 +13,7 @@ jobs:
         run: sudo gem install mdl
       - name: Lint markdown files
         run: mdl . -r ~MD036,~MD024,~MD004,~MD029
+      - name: Try build docs
+        uses: jnanadarshan/mkdocs-build-action@v1
         # Suppress 036 Emphasis used instead of a header
         # Suppress 024 Multiple headers with the same content
