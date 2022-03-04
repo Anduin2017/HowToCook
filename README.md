@@ -1,6 +1,6 @@
 # 程序员做饭指南
 
-[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)](https://github.com/Anduin2017/HowToCook/actions/workflows/ci.yml)
+[![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 
@@ -58,38 +58,27 @@
 ### 荤菜
 
 - [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
-- [白灼虾](./dishes/meat_dish/白灼虾/白灼虾.md)
-- [鳊鱼炖豆腐](./dishes/meat_dish/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
 - [宫保鸡丁](./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](./dishes/meat_dish/咕噜肉.md)
-- [红烧鲤鱼](./dishes/meat_dish/红烧鲤鱼.md)
 - [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
-- [红烧鱼头](./dishes/meat_dish/红烧鱼头.md)
 - [红烧猪蹄](./dishes/meat_dish/红烧猪蹄/红烧猪蹄.md)
 - [黄瓜炒肉](./dishes/meat_dish/黄瓜炒肉.md)
-- [黄油煎虾](./dishes/meat_dish/黄油煎虾/黄油煎虾.md)
 - [回锅肉](./dishes/meat_dish/回锅肉.md)
-- [烤鱼](./dishes/meat_dish/混合烤鱼/烤鱼.md)
 - [茄子炖土豆](./dishes/meat_dish/茄子炖土豆.md)
 - [尖椒炒牛肉](./dishes/meat_dish/尖椒炒牛肉.md)
 - [姜炒鸡](./dishes/meat_dish/姜炒鸡/姜炒鸡.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
-- [咖喱炒蟹](./dishes/meat_dish/咖喱炒蟹.md)
 - [可乐鸡翅](./dishes/meat_dish/可乐鸡翅.md)
 - [口水鸡](./dishes/meat_dish/口水鸡/口水鸡.md)
 - [辣椒炒肉](./dishes/meat_dish/辣椒炒肉.md)
 - [老式锅包肉](./dishes/meat_dish/老式锅包肉/老式锅包肉.md)
 - [凉拌鸡丝](./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md)
 - [萝卜炖羊排](./dishes/meat_dish/萝卜炖羊排.md)
-- [清蒸鲈鱼](./dishes/meat_dish/清蒸鲈鱼/清蒸鲈鱼.md)
-- [清蒸生蚝](./dishes/meat_dish/清蒸生蚝.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
 - [糖醋里脊](./dishes/meat_dish/糖醋里脊.md)
-- [糖醋鲤鱼](./dishes/meat_dish/糖醋鲤鱼/糖醋鲤鱼.md)
 - [土豆炖排骨](./dishes/meat_dish/土豆炖排骨/土豆炖排骨.md)
-- [微波葱姜黑鳕鱼](./dishes/meat_dish/微波葱姜黑鳕鱼.md)
 - [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
 - [西红柿土豆炖牛肉](./dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md)
 - [香干芹菜炒肉](./dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md)
@@ -103,6 +92,20 @@
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
+
+### 水产
+
+- [白灼虾](./dishes/aquatic/白灼虾/白灼虾.md)
+- [鳊鱼炖豆腐](./dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
+- [红烧鲤鱼](./dishes/aquatic/红烧鲤鱼.md)
+- [红烧鱼头](./dishes/aquatic/红烧鱼头.md)
+- [黄油煎虾](./dishes/aquatic/黄油煎虾/黄油煎虾.md)
+- [烤鱼](./dishes/aquatic/混合烤鱼/烤鱼.md)
+- [咖喱炒蟹](./dishes/aquatic/咖喱炒蟹.md)
+- [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
+- [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
+- [糖醋鲤鱼](./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
+- [微波葱姜黑鳕鱼](./dishes/aquatic/微波葱姜黑鳕鱼.md)
 
 ### 早餐
 
