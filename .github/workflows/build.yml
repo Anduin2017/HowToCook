@@ -19,13 +19,13 @@ jobs:
           cache: 'npm'
       - name: Install packages
         run: sudo gem install mdl
+      # Generate Readme, mkdocs.
+      - run: node ./.github/readme-generate.js
       # Lint issues first. (Without node_modules)
       - name: Lint markdown files
         run: mdl . -r ~MD036,~MD024,~MD004,~MD029
       - run: pip install -r requirements.txt
       - run: mkdocs build --strict
-      # Generate Readme, mkdocs.
-      - run: node ./.github/readme-generate.js
       # Do textlint fix.
       - run: npm install
       - run: ./node_modules/.bin/textlint . --fix
