@@ -17,6 +17,11 @@ const categories = {
     readme: '',
     mkdocs: '',
   },
+  aquatic: {
+    title: '水产',
+    readme: '',
+    mkdocs: '',
+  },
   breakfast: {
     title: '早餐',
     readme: '',
