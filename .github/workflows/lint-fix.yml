@@ -1,8 +1,8 @@
-name: ci
+name: lint-fix
 
 on:
   pull_request:
-    branches: [ $default-branch ]
+    branches: [ master ]
 
 jobs:
   markdown:
