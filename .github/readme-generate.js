@@ -1,43 +1,56 @@
 const { readdir, writeFile, stat } = require('fs/promises');
 
+const README_PATH = './README.md';
+
+const MKDOCS_PATH = 'mkdocs.yml';
+
 const ignorePaths = ['.git', 'README.md', 'node_modules', 'CONTRIBUTING.md', '.github'];
 
 const categories = {
-  'vegetable_dish': {
+  vegetable_dish: {
     title: '素菜',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
-  'meat_dish': {
+  meat_dish: {
     title: '荤菜',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
   breakfast: {
     title: '早餐',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
   staple: {
     title: '主食',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
   'semi-finished': {
     title: '半成品加工',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
   soup: {
     title: '汤与粥',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
   drink: {
     title: '饮料',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
   condiment: {
     title: '酱料和其它材料',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
   dessert: {
     title: '甜品',
-    template: '',
+    readme: '',
+    mkdocs: '',
   },
 };
 
@@ -72,38 +85,138 @@ let README_TEMPLATE = `# 程序员做饭指南
 
 {{after}}`;
 
+let MKDOCS_TEMPLATE = `site_name: How To Cook
+
+# Repository
+repo_name: Anduin2017/HowToCook
+repo_url: https://github.com/Anduin2017/HowToCook
+edit_uri: ""
+
+use_directory_urls: true
+docs_dir: .
+theme:
+  name: material
+  language: zh
+  features:
+    - content.code.annotate
+    # - content.tabs.link
+    # - header.autohide
+    #- navigation.expand
+    #- navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # # - toc.integrate
+  search_index_only: true
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material//weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - pymdownx.snippets
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+
+plugins:
+  - same-dir
+  - search
+  - minify:
+      minify_html: true
+
+nav:
+  - README.md
+  - 做菜之前:
+{{before}}
+  - 菜谱:
+    - 按种类: # 只有两层section以上才能出现navigation expansion https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
+{{main}}
+  - 进阶知识学习:
+{{after}}
+  - CONTRIBUTING.md
+`;
+
 async function main() {
   try {
-    let BEFORE = (MAIN = AFTER = '');
+    let README_BEFORE = (README_MAIN = README_AFTER = '');
+    let MKDOCS_BEFORE = (MKDOCS_MAIN = MKDOCS_AFTER = '');
     const markdownObj = await getAllMarkdown('.');
     for (const markdown of markdownObj) {
       if (markdown.path.includes('tips/advanced')) {
-        AFTER += inlineTemplate(markdown.file, markdown.path, true);
+        README_AFTER += inlineReadmeTemplate(markdown.file, markdown.path);
+        MKDOCS_AFTER += inlineMkdocsTemplate(markdown.file, markdown.path);
         continue;
       }
+
       if (markdown.path.includes('tips')) {
-        BEFORE += inlineTemplate(markdown.file, markdown.path, true);
+        README_BEFORE += inlineReadmeTemplate(markdown.file, markdown.path);
+        MKDOCS_BEFORE += inlineMkdocsTemplate(markdown.file, markdown.path);
         continue;
       }
 
       for (const category of Object.keys(categories)) {
-        if (markdown.path.includes(category)) {
-          let currentCategoryStr = categories[category].template;
-          currentCategoryStr += inlineTemplate(markdown.file, markdown.path);
-          categories[category].template = currentCategoryStr;
-        }
+        if (!markdown.path.includes(category)) continue;
+        categories[category].readme += inlineReadmeTemplate(markdown.file, markdown.path);
+        categories[category].mkdocs += inlineMkdocsTemplate(
+          markdown.file,
+          markdown.path,
+          true,
+        );
       }
     }
 
     for (const category of Object.values(categories)) {
-      MAIN += categoryTemplate(category.title, category.template);
+      README_MAIN += categoryReadmeTemplate(category.title, category.readme);
+      MKDOCS_MAIN += categoryMkdocsTemplate(category.title, category.mkdocs);
     }
 
     await writeFile(
-      './README.md',
-      README_TEMPLATE.replace('{{before}}', BEFORE)
-        .replace('{{main}}', MAIN)
-        .replace('{{after}}', AFTER),
+      README_PATH,
+      README_TEMPLATE.replace('{{before}}', README_BEFORE)
+        .replace('{{main}}', README_MAIN)
+        .replace('{{after}}', README_AFTER),
+    );
+
+    await writeFile(
+      MKDOCS_PATH,
+      MKDOCS_TEMPLATE.replace('{{before}}', MKDOCS_BEFORE)
+        .replace('{{main}}', MKDOCS_MAIN)
+        .replace('{{after}}', MKDOCS_AFTER),
     );
   } catch (error) {
     console.error(error);
@@ -136,12 +249,20 @@ async function getAllMarkdown(path) {
   return paths;
 }
 
-function inlineTemplate(file, path) {
+function inlineReadmeTemplate(file, path) {
   return `- [${file.replace('.md', '')}](${path}/${file})\n`;
 }
 
-function categoryTemplate(title, inlineStr) {
+function categoryReadmeTemplate(title, inlineStr) {
   return `\n### ${title}\n\n${inlineStr}`;
+}
+
+function inlineMkdocsTemplate(file, path, isDish = false) {
+  return `${' '.repeat(isDish ? 10 : 6)}- ${file.replace('.md', '')}: ${path}/${file}\n`;
+}
+
+function categoryMkdocsTemplate(title, inlineStr) {
+  return `\n${' '.repeat(6)}- ${title}:\n${inlineStr}`;
 }
 
 main();
