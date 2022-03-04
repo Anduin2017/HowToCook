@@ -1,10 +1,8 @@
-name: Continuous Integration
+name: ci
 
 on:
-  push:
-    branches: [ master ]
   pull_request:
-    branches: [ master ]
+    branches: [ $default-branch ]
 
 jobs:
   markdown:

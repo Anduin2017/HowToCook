@@ -1,4 +1,4 @@
-name: Rebuild project
+name: build
 
 on:
   push:
