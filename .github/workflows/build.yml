@@ -27,7 +27,7 @@ jobs:
         with:
           commit_message: '[ci skip] Automatic file changes/fix'
           branch: 'master'
-          file_pattern: ':/*.md'
+          file_pattern: ':/*.*'
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
