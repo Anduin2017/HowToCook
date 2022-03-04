@@ -15,7 +15,6 @@
 针对发现的问题，直接修改并提交 Pull request 即可。
 
 在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
-在提交 Pull Request 前更新一下 README.md 里的引用。
 
 ## 做菜之前
 
@@ -108,6 +107,7 @@
 ### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+- [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
 - [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
 - [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
@@ -150,6 +150,7 @@
 
 - [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
 - [凉皮](./dishes/semi-finished/凉皮.md)
+- [薯条](./dishes/semi-finished/薯条.md)
 - [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 - [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 - [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
