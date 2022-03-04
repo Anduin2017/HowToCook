@@ -11,6 +11,8 @@ jobs:
     steps:
       # Preparation.
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
