@@ -101,13 +101,10 @@ nav:
           - 椒盐玉米: ./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md
           - 烤茄子: ./dishes/vegetable_dish/烤茄子/烤茄子.md
           - 榄菜肉末四季豆: ./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md
-          - 冷吃兔: ./dishes/vegetable_dish/冷吃兔.md
           - 凉拌黄瓜: ./dishes/vegetable_dish/凉拌黄瓜.md
-          - 麻辣香锅: ./dishes/vegetable_dish/麻辣香锅.md
           - 上汤娃娃菜: ./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md
           - 水油焖蔬菜: ./dishes/vegetable_dish/水油焖蔬菜.md
           - 酸辣土豆丝: ./dishes/vegetable_dish/酸辣土豆丝.md
-          - 蒜苔炒肉末: ./dishes/vegetable_dish/蒜苔炒肉末.md
           - 糖拌西红柿: ./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md
           - 西红柿炒鸡蛋: ./dishes/vegetable_dish/西红柿炒鸡蛋.md
 
@@ -128,10 +125,13 @@ nav:
           - 口水鸡: ./dishes/meat_dish/口水鸡/口水鸡.md
           - 辣椒炒肉: ./dishes/meat_dish/辣椒炒肉.md
           - 老式锅包肉: ./dishes/meat_dish/老式锅包肉/老式锅包肉.md
+          - 冷吃兔: ./dishes/meat_dish/冷吃兔.md
           - 凉拌鸡丝: ./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md
           - 萝卜炖羊排: ./dishes/meat_dish/萝卜炖羊排.md
+          - 麻辣香锅: ./dishes/meat_dish/麻辣香锅.md
           - 水煮牛肉: ./dishes/meat_dish/水煮牛肉/水煮牛肉.md
           - 水煮肉片: ./dishes/meat_dish/水煮肉片.md
+          - 蒜苔炒肉末: ./dishes/meat_dish/蒜苔炒肉末.md
           - 糖醋里脊: ./dishes/meat_dish/糖醋里脊.md
           - 土豆炖排骨: ./dishes/meat_dish/土豆炖排骨/土豆炖排骨.md
           - 西红柿牛腩: ./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md
