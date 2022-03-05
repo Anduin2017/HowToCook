@@ -48,6 +48,7 @@
 - [烤茄子](./dishes/vegetable_dish/烤茄子/烤茄子.md)
 - [榄菜肉末四季豆](./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
 - [凉拌黄瓜](./dishes/vegetable_dish/凉拌黄瓜.md)
+- [蒲烧茄子](./dishes/vegetable_dish/蒲烧茄子.md)
 - [上汤娃娃菜](./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
 - [水油焖蔬菜](./dishes/vegetable_dish/水油焖蔬菜.md)
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
