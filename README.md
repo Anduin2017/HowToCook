@@ -203,6 +203,7 @@
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕.md)
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 - [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
+- [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 
 ## 进阶知识学习
 
