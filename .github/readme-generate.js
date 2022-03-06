@@ -175,6 +175,7 @@ nav:
   - 进阶知识学习:
 {{after}}
   - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
 `;
 
 async function main() {
