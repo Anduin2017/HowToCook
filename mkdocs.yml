@@ -91,6 +91,7 @@ nav:
 
       - 素菜:
           - 菠菜炒鸡蛋: ./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md
+          - 炒滑蛋: ./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md
           - 炒青菜: ./dishes/vegetable_dish/炒青菜.md
           - 葱煎豆腐: ./dishes/vegetable_dish/葱煎豆腐.md
           - 地三鲜: ./dishes/vegetable_dish/地三鲜.md
@@ -244,6 +245,7 @@ nav:
           - 蔗糖糖浆: ./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md
 
       - 甜品:
+          - 奥利奥冰淇淋: ./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md
           - 烤蛋挞: ./dishes/dessert/烤蛋挞/烤蛋挞.md
           - 戚风蛋糕: ./dishes/dessert/戚风蛋糕.md
           - 提拉米苏: ./dishes/dessert/提拉米苏/提拉米苏.md
