@@ -42,6 +42,7 @@
 - [葱煎豆腐](./dishes/vegetable_dish/葱煎豆腐.md)
 - [地三鲜](./dishes/vegetable_dish/地三鲜.md)
 - [红烧茄子](./dishes/vegetable_dish/红烧茄子.md)
+- [虎皮青椒](./dishes/vegetable_dish/虎皮青椒/虎皮青椒.md)
 - [鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
 - [微波炉鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
 - [茄子炖土豆](./dishes/vegetable_dish/茄子炖土豆.md)
