@@ -37,10 +37,12 @@
 ### 素菜
 
 - [菠菜炒鸡蛋](./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
+- [炒滑蛋](./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
 - [炒青菜](./dishes/vegetable_dish/炒青菜.md)
 - [葱煎豆腐](./dishes/vegetable_dish/葱煎豆腐.md)
 - [地三鲜](./dishes/vegetable_dish/地三鲜.md)
 - [红烧茄子](./dishes/vegetable_dish/红烧茄子.md)
+- [虎皮青椒](./dishes/vegetable_dish/虎皮青椒/虎皮青椒.md)
 - [鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
 - [微波炉鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
 - [茄子炖土豆](./dishes/vegetable_dish/茄子炖土豆.md)
@@ -48,6 +50,7 @@
 - [烤茄子](./dishes/vegetable_dish/烤茄子/烤茄子.md)
 - [榄菜肉末四季豆](./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
 - [凉拌黄瓜](./dishes/vegetable_dish/凉拌黄瓜.md)
+- [蒲烧茄子](./dishes/vegetable_dish/蒲烧茄子.md)
 - [上汤娃娃菜](./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
 - [水油焖蔬菜](./dishes/vegetable_dish/水油焖蔬菜.md)
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
@@ -59,6 +62,7 @@
 - [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
 - [宫保鸡丁](./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](./dishes/meat_dish/咕噜肉.md)
+- [黑椒牛柳](./dishes/meat_dish/黑椒牛柳/黑椒牛柳.md)
 - [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
 - [红烧猪蹄](./dishes/meat_dish/红烧猪蹄/红烧猪蹄.md)
@@ -197,6 +201,7 @@
 
 ### 甜品
 
+- [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕.md)
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
