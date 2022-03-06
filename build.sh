@@ -3,6 +3,9 @@ set -e
 
 # Requires: Ruby, node, python
 
+tput setaf 2; echo "Cleaning up..."; tput setaf 0
+rm ./node_modules -rf
+
 tput setaf 2; echo "Installing markdown lint"; tput setaf 0
 gem install mdl
 
@@ -10,7 +13,7 @@ tput setaf 2; echo "Generating new readme and mkdocs"; tput setaf 0
 node ./.github/readme-generate.js
 
 tput setaf 2; echo "Running markdown lint to check issues."; tput setaf 0
-mdl . -r ~MD036,~MD024,~MD004,~MD029
+mdl ./dishes ./tips -r ~MD036,~MD024,~MD004,~MD029
 
 tput setaf 2; echo "Installing python requirements..."; tput setaf 0
 pip install -r requirements.txt
