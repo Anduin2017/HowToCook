@@ -77,7 +77,6 @@ nav:
   - 做菜之前:
       - 厨房准备: ./tips/厨房准备.md
       - 如何选择现在吃什么: ./tips/如何选择现在吃什么.md
-      - 专业术语: ./tips/专业术语.md
       - 高压力锅: ./tips/learn/高压力锅.md
       - 食品安全: ./tips/learn/食品安全.md
       - 微波炉: ./tips/learn/微波炉.md
@@ -92,21 +91,22 @@ nav:
 
       - 素菜:
           - 菠菜炒鸡蛋: ./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md
+          - 炒滑蛋: ./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md
           - 炒青菜: ./dishes/vegetable_dish/炒青菜.md
           - 葱煎豆腐: ./dishes/vegetable_dish/葱煎豆腐.md
           - 地三鲜: ./dishes/vegetable_dish/地三鲜.md
           - 红烧茄子: ./dishes/vegetable_dish/红烧茄子.md
           - 鸡蛋羹: ./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md
           - 微波炉鸡蛋羹: ./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md
+          - 茄子炖土豆: ./dishes/vegetable_dish/茄子炖土豆.md
+          - 椒盐玉米: ./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md
           - 烤茄子: ./dishes/vegetable_dish/烤茄子/烤茄子.md
           - 榄菜肉末四季豆: ./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md
-          - 冷吃兔: ./dishes/vegetable_dish/冷吃兔.md
           - 凉拌黄瓜: ./dishes/vegetable_dish/凉拌黄瓜.md
-          - 麻辣香锅: ./dishes/vegetable_dish/麻辣香锅.md
+          - 蒲烧茄子: ./dishes/vegetable_dish/蒲烧茄子.md
           - 上汤娃娃菜: ./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md
           - 水油焖蔬菜: ./dishes/vegetable_dish/水油焖蔬菜.md
           - 酸辣土豆丝: ./dishes/vegetable_dish/酸辣土豆丝.md
-          - 蒜苔炒肉末: ./dishes/vegetable_dish/蒜苔炒肉末.md
           - 糖拌西红柿: ./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md
           - 西红柿炒鸡蛋: ./dishes/vegetable_dish/西红柿炒鸡蛋.md
 
@@ -114,12 +114,12 @@ nav:
           - 白菜猪肉炖粉条: ./dishes/meat_dish/白菜猪肉炖粉条.md
           - 宫保鸡丁: ./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md
           - 咕噜肉: ./dishes/meat_dish/咕噜肉.md
+          - 黑椒牛柳: ./dishes/meat_dish/黑椒牛柳/黑椒牛柳.md
           - 简易红烧肉: ./dishes/meat_dish/红烧肉/简易红烧肉.md
           - 南派红烧肉: ./dishes/meat_dish/红烧肉/南派红烧肉.md
           - 红烧猪蹄: ./dishes/meat_dish/红烧猪蹄/红烧猪蹄.md
           - 黄瓜炒肉: ./dishes/meat_dish/黄瓜炒肉.md
           - 回锅肉: ./dishes/meat_dish/回锅肉.md
-          - 茄子炖土豆: ./dishes/meat_dish/茄子炖土豆.md
           - 尖椒炒牛肉: ./dishes/meat_dish/尖椒炒牛肉.md
           - 姜炒鸡: ./dishes/meat_dish/姜炒鸡/姜炒鸡.md
           - 酱牛肉: ./dishes/meat_dish/酱牛肉/酱牛肉.md
@@ -127,10 +127,13 @@ nav:
           - 口水鸡: ./dishes/meat_dish/口水鸡/口水鸡.md
           - 辣椒炒肉: ./dishes/meat_dish/辣椒炒肉.md
           - 老式锅包肉: ./dishes/meat_dish/老式锅包肉/老式锅包肉.md
+          - 冷吃兔: ./dishes/meat_dish/冷吃兔.md
           - 凉拌鸡丝: ./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md
           - 萝卜炖羊排: ./dishes/meat_dish/萝卜炖羊排.md
+          - 麻辣香锅: ./dishes/meat_dish/麻辣香锅.md
           - 水煮牛肉: ./dishes/meat_dish/水煮牛肉/水煮牛肉.md
           - 水煮肉片: ./dishes/meat_dish/水煮肉片.md
+          - 蒜苔炒肉末: ./dishes/meat_dish/蒜苔炒肉末.md
           - 糖醋里脊: ./dishes/meat_dish/糖醋里脊.md
           - 土豆炖排骨: ./dishes/meat_dish/土豆炖排骨/土豆炖排骨.md
           - 西红柿牛腩: ./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md
@@ -242,6 +245,7 @@ nav:
           - 蔗糖糖浆: ./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md
 
       - 甜品:
+          - 奥利奥冰淇淋: ./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md
           - 烤蛋挞: ./dishes/dessert/烤蛋挞/烤蛋挞.md
           - 戚风蛋糕: ./dishes/dessert/戚风蛋糕.md
           - 提拉米苏: ./dishes/dessert/提拉米苏/提拉米苏.md
@@ -249,6 +253,7 @@ nav:
 
   - 进阶知识学习:
       - 辅料技巧: ./tips/advanced/辅料技巧.md
+      - 高级专业术语: ./tips/advanced/高级专业术语.md
       - 油温判断技巧: ./tips/advanced/油温判断技巧.md
 
   - CONTRIBUTING.md

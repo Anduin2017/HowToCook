@@ -9,7 +9,7 @@ jobs:
   Rebuild-everything:
     runs-on: ubuntu-latest
     steps:
-      # Preparation.
+      # Checkout, install tools..
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.PAT }}
@@ -17,11 +17,19 @@ jobs:
         with:
           node-version: '16'
           cache: 'npm'
-      - run: npm install
-      # Generate Readme.
+      - name: Install packages
+        run: sudo gem install mdl
+      # Generate Readme, mkdocs.
       - run: node ./.github/readme-generate.js
+      # Lint issues first. (Without node_modules)
+      - name: Lint markdown files
+        run: mdl . -r ~MD036,~MD024,~MD004,~MD029
+      - run: pip install -r requirements.txt
+      - run: mkdocs build --strict
       # Do textlint fix.
+      - run: npm install
       - run: ./node_modules/.bin/textlint . --fix
+      - run: rm ./node_modules -rvf
       # Save files.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -32,7 +40,6 @@ jobs:
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
       # Build docs
-      - run: rm ./node_modules -rvf
       - run: echo cook.aiurs.co > CNAME
       - run: mkdir docs && echo cook.aiurs.co > docs/CNAME
       - uses: mhausenblas/mkdocs-deploy-gh-pages@master
