@@ -13,5 +13,7 @@ jobs:
         run: sudo gem install mdl
       - name: Lint markdown files
         run: mdl . -r ~MD036,~MD024,~MD004,~MD029
+      - run: pip install -r requirements.txt
+      - run: mkdocs build --strict
         # Suppress 036 Emphasis used instead of a header
         # Suppress 024 Multiple headers with the same content
