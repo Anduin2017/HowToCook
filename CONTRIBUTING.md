@@ -114,7 +114,7 @@ mkdocs serve
 ### 编译
 
 ```bash
-mkdocs build
+mkdocs build --strict
 ```
 
 生成静态 HTML 网页, 存在于在`site/`文件夹下。Hosting 的时候指向到`site/index.html`即可。
@@ -123,3 +123,46 @@ mkdocs build
 > 由于`mkdocs`不原生支持`*.md`存在于根目录下，只能添加了`mkdocs-same-dir`这个插件来做workaround。
 > 通常来说mkdoc会自动检查文件夹里的各种文件 (eg *.jpg)然后生成相对应的链接。由于这个
 > workaround，根目录下现在只能检测到`.md`文件。这个限制并不影响剩下的文件夹（比方说`tips`和`dishes`)。
+
+## 手工 lint
+
+如果需要检查文档中的不规范，可以手工运行 lint 操作。
+
+需求：Ruby
+
+### 安装 markdownlint
+
+```bash
+sudo gem install mdl # Linux
+```
+
+```powershell
+gem install mdl # Windows, with administrators permission.
+```
+
+### 运行 lint
+
+```bash
+mdl . -r ~MD036,~MD024,~MD004,~MD029
+```
+
+## 生成 Readme 和 mkdocs
+
+一般的，每次 master 分支发生变更后，会自动生成 Readme 和 mkdocs 文件。但是，在某些情况下可能需要开发者手工生成这些文件。
+
+需求：node,npm
+
+```bash
+node ./.github/readme-generate.js
+```
+
+## 自动 markdown 修复
+
+框架支持一些自动 markdown 错误修正功能。一般的，每次 master 分支发生变更后，会自动修正。但是，在某些情况下可能需要开发者手工修正。
+
+需求：node,npm
+
+```bash
+npm install
+./node_modules/.bin/textlint . --fix
+```
