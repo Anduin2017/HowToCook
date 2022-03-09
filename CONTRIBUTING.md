@@ -1,26 +1,26 @@
-# CONTRIBUTING Guide
+# 如何贡献
 
-## 如何贡献
+## 简介
 
 直接修改/添加做菜指南并提交 Pull request 即可。
 
 在写新菜谱时，请复制并修改已有的模板: [示例菜](./dishes/template/示例菜/示例菜.md)。
 
-记得在提交 Pull Request 前同样更新一下 README.md 里的引用。
+我们建议在贡献之前，阅读仓库的[行为守则](./CODE_OF_CONDUCT.md)。
 
 ## 内容规范
 
-**菜谱提交者无需阅读此内容规范。以下内容已经以简明易懂的方式包含在示例模板中。项目的维护者会在你的PR中提出建议, 并协助修改。**
+菜谱提交者**无需**阅读此内容规范。以下内容已经以简明易懂的方式包含在示例模板中。项目的维护者会在你的 PR 中提出建议, 并协助修改。
 
 本项目的 Motivation 要求菜谱满足以下规范，不符合规范的菜谱将不会被合并到代码库中。项目的维护者维护此文档, 作为正式的标准与共识。
 
-1. 每一道菜谱至少应包含`原材料与工具`, `计算`, `操作`三部分内容。
+- 每一道菜谱至少应包含`原材料与工具`, `计算`, `操作`三部分内容。
 
 `原材料与工具`应列出本菜品需要的除`假想已准备好的物品`外的所有原材料与厨具。
 `计算`应定量列出本菜品所需的原材料的量。（无论与人数是否相关）
 `操作`应说明菜品的制作步骤。
 
-2. 菜品的制作步骤应当明确(无歧义,non-ambiguous)，并尽可能准确(accurate)。有歧义(ambiguous)的描述是不可接受的，而不准确(inaccurate)或不精确(imprecise)的描述是可以接受的。
+- 菜品的制作步骤应当明确（无歧义,non-ambiguous），并尽可能准确(accurate)。有歧义(ambiguous)的描述是不可接受的，而不准确(inaccurate)或不精确(imprecise)的描述是可以接受的。
 
 > 不准确的菜谱会导致菜品口味有少许偏差，不明确的菜谱会导致做菜人的心态有明显不安。
 
@@ -69,9 +69,9 @@
 变软 变硬
 ```
 
-3. 菜品的`制作步骤`应当完整(complete)。这意味着, 在执行完所有操作步骤后, 菜品已经被完成。
+- 菜品的`制作步骤`应当完整(complete)。这意味着, 在执行完所有操作步骤后, 菜品已经被完成。
 
-4. 菜品的`原材料与工具`应当完整(complete)。这意味着, 在执行操作步骤时, 没有用到`原材料与工具`中未提到的物品。
+- 菜品的`原材料与工具`应当完整(complete)。这意味着, 在执行操作步骤时, 没有用到`原材料与工具`中未提到的物品。
 
 ## 审核员须知
 
@@ -96,3 +96,73 @@
 - 确保签入的内容都符合 CC0 协议。尤其注意图片是否有水印！
 - 确保他没有签入任何个人身份信息、EUII、Email 地址、GitHub 用户名
 
+## 文档网站构建
+
+除了直接部署 `README.md` 的 HTML，还可以利用`mkdocs-material`来渲染 markdown 文件。这会得到更加漂亮的页面。
+
+需求: Python > 3.6
+
+### 调试
+
+```bash
+pip install -r requirements.txt
+mkdocs serve
+```
+
+可以在本地 <http://localhost:8000/> 打开。
+
+### 编译
+
+```bash
+mkdocs build --strict
+```
+
+生成静态 HTML 网页, 存在于在`site/`文件夹下。Hosting 的时候指向到`site/index.html`即可。
+
+> **_Note:_**
+> 由于`mkdocs`不原生支持`*.md`存在于根目录下，只能添加了`mkdocs-same-dir`这个插件来做workaround。
+> 通常来说mkdoc会自动检查文件夹里的各种文件 (eg *.jpg)然后生成相对应的链接。由于这个
+> workaround，根目录下现在只能检测到`.md`文件。这个限制并不影响剩下的文件夹（比方说`tips`和`dishes`)。
+
+## 手工 lint
+
+如果需要检查文档中的不规范，可以手工运行 lint 操作。
+
+需求：Ruby
+
+### 安装 markdownlint
+
+```bash
+sudo gem install mdl # Linux
+```
+
+```powershell
+gem install mdl # Windows, with administrators permission.
+```
+
+### 运行 lint
+
+```bash
+mdl . -r ~MD036,~MD024,~MD004,~MD029
+```
+
+## 生成 Readme 和 mkdocs
+
+一般的，每次 master 分支发生变更后，会自动生成 Readme 和 mkdocs 文件。但是，在某些情况下可能需要开发者手工生成这些文件。
+
+需求：node,npm
+
+```bash
+node ./.github/readme-generate.js
+```
+
+## 自动 markdown 修复
+
+框架支持一些自动 markdown 错误修正功能。一般的，每次 master 分支发生变更后，会自动修正。但是，在某些情况下可能需要开发者手工修正。
+
+需求：node,npm
+
+```bash
+npm install
+./node_modules/.bin/textlint . --fix
+```
