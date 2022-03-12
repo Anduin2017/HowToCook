@@ -7,6 +7,7 @@ const glob = require("glob");
 const fs = require("fs");
 var path = require('path');
 
+var errors = 0;
 
 var getDirectories = function (src, callback) {
     glob(src + '../../dishes/**/*.md', callback);
@@ -29,28 +30,34 @@ getDirectories(__dirname, function (err, res) {
 
             if (titles[0].trim() != "# " + filename + "的做法") {
                 console.error(`File ${filePath} is invalid! It's title should be: ${"# " + filename + "的做法"}! It was ${titles[0].trim()}!`);
+                errors++;
                 return;
             }
             if (secondTitles.length != 4) {
                 console.error(`File ${filePath} is invalid! It doesn't has 4 second titles!`);
+                errors++;
                 return;
             }
             if (secondTitles[0].trim() != "## 必备原料和工具") {
                 console.error(`File ${filePath} is invalid! The first title is NOT 必备原料和工具! It was ${secondTitles[0]}!`);
-                return;
+                errors++;
             }
             if (secondTitles[1].trim() != "## 计算") {
                 console.error(`File ${filePath} is invalid! The second title is NOT 计算!`);
-                return;
+                errors++;
             }
             if (secondTitles[2].trim() != "## 操作") {
                 console.error(`File ${filePath} is invalid! The thrid title is NOT 操作!`);
-                return;
+                errors++;
             }
             if (secondTitles[3].trim() != "## 附加内容") {
                 console.error(`File ${filePath} is invalid! The fourth title is NOT 附加内容!`);
-                return;
+                errors++;
             }
         });
     });
 });
+
+if (errors > 0) {
+    throw `Found ${errors} errors! Please fix!`;
+}
