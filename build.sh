@@ -26,3 +26,6 @@ npm install
 
 tput setaf 2; echo "Running textlint..."; tput sgr0
 ./node_modules/.bin/textlint . --fix
+
+tput setaf 2; echo "Manual rule linting..."; tput sgr0
+node .github/manual_lint.js
