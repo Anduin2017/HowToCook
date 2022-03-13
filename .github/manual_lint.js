@@ -1,63 +1,53 @@
-// fetch all .md files.
-// Check it's content.
-// Console.LogError for errors.
+const util = require("util");
+const glob = util.promisify(require('glob'));
+const fs = require("fs").promises;
+const path = require('path');
 
 
-const glob = require("glob");
-const fs = require("fs");
-var path = require('path');
+async function main() {
+    var errors = [];
+    var directories = await glob(__dirname + '../../dishes/**/*.md');
 
-var errors = 0;
+    for (var filePath of directories) {
+        var data = await fs.readFile(filePath, 'utf8');
 
-var getDirectories = function (src, callback) {
-    glob(src + '../../dishes/**/*.md', callback);
-  };
+        dataLines = data.split('\n').map(t => t.trim());
+        var filename = path.parse(filePath).base.replace(".md","");
 
-getDirectories(__dirname, function (err, res) {
-    res.forEach(filePath => {
-        // console.log("Linting file: " + filePath + " ...");
+        titles = dataLines.filter(t => t.startsWith('#'));
+        secondTitles = titles
+            .filter(t => t.startsWith('## '));
 
-        fs.readFile(filePath, 'utf8' , (err, data) => {
-            data = data.replace('\r\n', '\n');
-            data = data.replace('\r', '\n');
+        if (titles[0].trim() != "# " + filename + "的做法") {
+            errors.push(`File ${filePath} is invalid! It's title should be: ${"# " + filename + "的做法"}! It was ${titles[0].trim()}!`);
+            continue;
+        }
+        if (secondTitles.length != 4) {
+            errors.push(`File ${filePath} is invalid! It doesn't has 4 second titles!`);
+            continue;
+        }
+        if (secondTitles[0].trim() != "## 必备原料和工具") {
+            errors.push(`File ${filePath} is invalid! The first title is NOT 必备原料和工具! It was ${secondTitles[0]}!`);
+        }
+        if (secondTitles[1].trim() != "## 计算") {
+            errors.push(`File ${filePath} is invalid! The second title is NOT 计算!`);
+        }
+        if (secondTitles[2].trim() != "## 操作") {
+            errors.push(`File ${filePath} is invalid! The thrid title is NOT 操作!`);
+        }
+        if (secondTitles[3].trim() != "## 附加内容") {
+            errors.push(`File ${filePath} is invalid! The fourth title is NOT 附加内容!`);
+        }
+    }
+    
+    if (errors.length > 0) {
+        for (var error of errors) {
+            console.error(error + "\n");
+        }
 
-            dataLines = data.split('\n');
-            var filename = path.parse(filePath).base.replace(".md","");
-
-            titles = dataLines.filter(t => t.startsWith('#'));
-            secondTitles = titles
-                .filter(t => t.startsWith('## '));
-
-            if (titles[0].trim() != "# " + filename + "的做法") {
-                console.error(`File ${filePath} is invalid! It's title should be: ${"# " + filename + "的做法"}! It was ${titles[0].trim()}!`);
-                errors++;
-                return;
-            }
-            if (secondTitles.length != 4) {
-                console.error(`File ${filePath} is invalid! It doesn't has 4 second titles!`);
-                errors++;
-                return;
-            }
-            if (secondTitles[0].trim() != "## 必备原料和工具") {
-                console.error(`File ${filePath} is invalid! The first title is NOT 必备原料和工具! It was ${secondTitles[0]}!`);
-                errors++;
-            }
-            if (secondTitles[1].trim() != "## 计算") {
-                console.error(`File ${filePath} is invalid! The second title is NOT 计算!`);
-                errors++;
-            }
-            if (secondTitles[2].trim() != "## 操作") {
-                console.error(`File ${filePath} is invalid! The thrid title is NOT 操作!`);
-                errors++;
-            }
-            if (secondTitles[3].trim() != "## 附加内容") {
-                console.error(`File ${filePath} is invalid! The fourth title is NOT 附加内容!`);
-                errors++;
-            }
-        });
-    });
-});
-
-if (errors > 0) {
-    throw `Found ${errors} errors! Please fix!`;
+        var message = `Found ${errors.length} errors! Please fix!`;
+        throw new Error(message);
+    }
 }
+
+main();
