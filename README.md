@@ -26,6 +26,7 @@
 - [微波炉](./tips/learn/微波炉.md)
 - [学习焯水](./tips/learn/学习焯水.md)
 - [学习炒与煎](./tips/learn/学习炒与煎.md)
+- [学习凉拌](./tips/learn/学习凉拌.md)
 - [学习腌](./tips/learn/学习腌.md)
 - [学习蒸](./tips/learn/学习蒸.md)
 - [学习煮](./tips/learn/学习煮.md)
@@ -160,10 +161,10 @@
 
 - [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
 - [凉皮](./dishes/semi-finished/凉皮.md)
-- [炸薯条](./dishes/semi-finished/炸薯条/炸薯条.md)
 - [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 - [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 - [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
+- [炸薯条](./dishes/semi-finished/炸薯条/炸薯条.md)
 
 ### 汤与粥
 
