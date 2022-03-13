@@ -10,13 +10,11 @@ async function main() {
 
     for (var filePath of directories) {
         var data = await fs.readFile(filePath, 'utf8');
-
-        dataLines = data.split('\n').map(t => t.trim());
         var filename = path.parse(filePath).base.replace(".md","");
 
+        dataLines = data.split('\n').map(t => t.trim());
         titles = dataLines.filter(t => t.startsWith('#'));
-        secondTitles = titles
-            .filter(t => t.startsWith('## '));
+        secondTitles = titles.filter(t => t.startsWith('## '));
 
         if (titles[0].trim() != "# " + filename + "的做法") {
             errors.push(`File ${filePath} is invalid! It's title should be: ${"# " + filename + "的做法"}! It was ${titles[0].trim()}!`);
@@ -37,6 +35,12 @@ async function main() {
         }
         if (secondTitles[3].trim() != "## 附加内容") {
             errors.push(`File ${filePath} is invalid! The fourth title is NOT 附加内容!`);
+        }
+
+        var mustHave = '如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。';
+        var mustHaveIndex = dataLines.indexOf(mustHave);
+        if (mustHaveIndex < 0) {
+            errors.push(`File ${filePath} is invalid! It doesn't have necessary scentence.`);
         }
     }
     
