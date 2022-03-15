@@ -16,6 +16,15 @@ async function main() {
         titles = dataLines.filter(t => t.startsWith('#'));
         secondTitles = titles.filter(t => t.startsWith('## '));
 
+        if (dataLines.filter(line => line.includes(' 勺')).length > 0) {
+            errors.push(`File ${filePath} is invalid! 勺 is not an accurate unit!`);
+        }
+        // if (dataLines.filter(line => line.includes('适量')).length > 0) {
+        //     errors.push(`File ${filePath} is invalid! 适量 is not an accurate unit!`);
+        // }
+        // if (dataLines.filter(line => line.includes('左右')).length > 0) {
+        //     errors.push(`File ${filePath} is invalid! 左右 is not an accurate unit!`);
+        // }
         if (titles[0].trim() != "# " + filename + "的做法") {
             errors.push(`File ${filePath} is invalid! It's title should be: ${"# " + filename + "的做法"}! It was ${titles[0].trim()}!`);
             continue;
