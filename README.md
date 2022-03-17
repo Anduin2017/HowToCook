@@ -39,6 +39,7 @@
 
 - [菠菜炒鸡蛋](./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 - [炒滑蛋](./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
+- [耗油生菜](./dishes/vegetable_dish/耗油生菜/耗油生菜.md)
 - [炒青菜](./dishes/vegetable_dish/炒青菜.md)
 - [葱煎豆腐](./dishes/vegetable_dish/葱煎豆腐.md)
 - [地三鲜](./dishes/vegetable_dish/地三鲜.md)
