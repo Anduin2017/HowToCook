@@ -26,6 +26,7 @@
 - [微波炉](./tips/learn/微波炉.md)
 - [学习焯水](./tips/learn/学习焯水.md)
 - [学习炒与煎](./tips/learn/学习炒与煎.md)
+- [学习凉拌](./tips/learn/学习凉拌.md)
 - [学习腌](./tips/learn/学习腌.md)
 - [学习蒸](./tips/learn/学习蒸.md)
 - [学习煮](./tips/learn/学习煮.md)
@@ -85,6 +86,7 @@
 - [蒜苔炒肉末](./dishes/meat_dish/蒜苔炒肉末.md)
 - [糖醋里脊](./dishes/meat_dish/糖醋里脊.md)
 - [土豆炖排骨](./dishes/meat_dish/土豆炖排骨/土豆炖排骨.md)
+- [无骨鸡爪](./dishes/meat_dish/无骨鸡爪/无骨鸡爪.md)
 - [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
 - [西红柿土豆炖牛肉](./dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md)
 - [香干芹菜炒肉](./dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md)
@@ -94,6 +96,7 @@
 - [小炒肉](./dishes/meat_dish/小炒肉.md)
 - [新疆大盘鸡](./dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md)
 - [血浆鸭](./dishes/meat_dish/血浆鸭/血浆鸭.md)
+- [羊排焖面](./dishes/meat_dish/羊排焖面/羊排焖面.md)
 - [洋葱炒猪肉](./dishes/meat_dish/洋葱炒猪肉.md)
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
@@ -134,6 +137,7 @@
 - [炒方便面](./dishes/staple/炒方便面.md)
 - [炒河粉](./dishes/staple/炒河粉.md)
 - [炒馍](./dishes/staple/炒馍.md)
+- [炒意大利面](./dishes/staple/炒意大利面/炒意大利面.md)
 - [蛋炒饭](./dishes/staple/蛋炒饭.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
 - [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
@@ -159,10 +163,10 @@
 
 - [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
 - [凉皮](./dishes/semi-finished/凉皮.md)
-- [薯条](./dishes/semi-finished/薯条.md)
 - [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 - [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 - [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
+- [炸薯条](./dishes/semi-finished/炸薯条/炸薯条.md)
 
 ### 汤与粥
 
