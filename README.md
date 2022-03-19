@@ -50,6 +50,7 @@
 - [椒盐玉米](./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
 - [烤茄子](./dishes/vegetable_dish/烤茄子/烤茄子.md)
 - [榄菜肉末四季豆](./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
+- [耗油生菜](./dishes/vegetable_dish/耗油生菜/耗油生菜.md)
 - [凉拌黄瓜](./dishes/vegetable_dish/凉拌黄瓜.md)
 - [凉拌油麦菜](./dishes/vegetable_dish/凉拌油麦菜.md)
 - [蒲烧茄子](./dishes/vegetable_dish/蒲烧茄子.md)
