@@ -46,6 +46,7 @@
 - [虎皮青椒](./dishes/vegetable_dish/虎皮青椒/虎皮青椒.md)
 - [鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
 - [微波炉鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
+- [耗油生菜](./dishes/vegetable_dish/耗油生菜.md)
 - [茄子炖土豆](./dishes/vegetable_dish/茄子炖土豆.md)
 - [椒盐玉米](./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
 - [烤茄子](./dishes/vegetable_dish/烤茄子/烤茄子.md)
