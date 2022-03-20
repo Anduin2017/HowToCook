@@ -1,17 +1,41 @@
 name: Continuous Integration
 
 on:
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
 jobs:
-  markdown:
+  markdown-lint:
     runs-on: ubuntu-latest
     steps:
+      - name: Comment
+        uses: thollander/actions-comment-pull-request@v1
+        with:
+          message: '正在检查您的贡献请求……这预计需要 1 分钟，请稍等……'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          cache: 'npm'
       - name: Install packages
         run: sudo gem install mdl
       - name: Lint markdown files
-        run: mdl *.md -r ~MD009,~MD029,~MD036,~MD024
+        run: mdl . -r ~MD036,~MD024,~MD004,~MD029
+      - run: pip install -r requirements.txt
+      - run: mkdocs build --strict
+      - run: npm install
+      - run: node .github/manual_lint.js
+      - name: Comment
+        uses: thollander/actions-comment-pull-request@v1
+        with:
+          message: '内容检查完成，感谢您的贡献！ 我们很快就会合并此 Pull Request！ @Anduin2017'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Comment
+        if: failure()
+        uses: thollander/actions-comment-pull-request@v1
+        with:
+          message: '尚**不能继续此 Pull Request！** 其内容不符合规范！请确保内容符合规范后重新提交！'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Suppress 036 Emphasis used instead of a header
+        # Suppress 024 Multiple headers with the same content
