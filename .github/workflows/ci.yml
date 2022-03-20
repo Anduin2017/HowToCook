@@ -8,11 +8,6 @@ jobs:
   markdown-lint:
     runs-on: ubuntu-latest
     steps:
-      - name: Comment
-        uses: thollander/actions-comment-pull-request@v1
-        with:
-          message: '正在运行自动化检查... \n\n**只有通过自动化检查的合并请求才会被人工审批，请确保此 Pull Request 能够通过自动化检查！**'
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
@@ -26,8 +21,16 @@ jobs:
       - run: mkdocs build --strict
       - run: npm install
       - run: node .github/manual_lint.js
-      - name: Comment failure message
-        if: always()
-        uses: quipper/comment-failure-action@v0.1.1
+      - name: Comment
+        uses: thollander/actions-comment-pull-request@v1
+        with:
+          message: '自动化内容检查通过。 请 @Anduin2017 尽快合并此 Pull Request！**'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Comment
+        if: failure()
+        uses: thollander/actions-comment-pull-request@v1
+        with:
+          message: '**不能**合并此 Pull Request，因为它未能通过自动化检查！请**确保**内容符合规范！'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         # Suppress 036 Emphasis used instead of a header
         # Suppress 024 Multiple headers with the same content
