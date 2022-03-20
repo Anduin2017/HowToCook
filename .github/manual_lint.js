@@ -17,13 +17,16 @@ async function main() {
         secondTitles = titles.filter(t => t.startsWith('## '));
 
         if (dataLines.filter(line => line.includes(' 勺')).length > 0) {
-            errors.push(`File ${filePath} is invalid! 勺 is not an accurate unit!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！勺 不是一个精准的单位！`);
         }
         if (dataLines.filter(line => line.includes('适量')).length > 0) {
-            errors.push(`File ${filePath} is invalid! 适量 is not an accurate unit!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！适量 不是一个精准的描述！请给出克 g 或毫升 ml。`);
         }
         if (dataLines.filter(line => line.includes('左右')).length > 0) {
-            errors.push(`File ${filePath} is invalid! 左右 is not an accurate unit!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！左右 不是一个能够明确定量的标准! 如果是在描述一个模糊物体的特征，请使用 '大约'。例如：鸡（大约1kg）`);
+        }
+        if (dataLines.filter(line => line.includes('你')).length > 0) {
+            errors.push(`文件 ${filePath} 不符合仓库的规范！请不要出现人称代词。`);
         }
         if (titles[0].trim() != "# " + filename + "的做法") {
             errors.push(`File ${filePath} is invalid! It's title should be: ${"# " + filename + "的做法"}! It was ${titles[0].trim()}!`);
