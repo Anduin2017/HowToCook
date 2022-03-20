@@ -29,30 +29,30 @@ async function main() {
             errors.push(`文件 ${filePath} 不符合仓库的规范！请不要出现人称代词。`);
         }
         if (titles[0].trim() != "# " + filename + "的做法") {
-            errors.push(`File ${filePath} is invalid! It's title should be: ${"# " + filename + "的做法"}! It was ${titles[0].trim()}!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！ 它的大标题应该是: ${"# " + filename + "的做法"}! 而它现在是 ${titles[0].trim()}!`);
             continue;
         }
         if (secondTitles.length != 4) {
-            errors.push(`File ${filePath} is invalid! It doesn't has 4 second titles!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！ 它并不是四个标题的格式。请参考示例菜模板！`);
             continue;
         }
         if (secondTitles[0].trim() != "## 必备原料和工具") {
-            errors.push(`File ${filePath} is invalid! The first title is NOT 必备原料和工具! It was ${secondTitles[0]}!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！ 第一个标题不是 必备原料和工具!`);
         }
         if (secondTitles[1].trim() != "## 计算") {
-            errors.push(`File ${filePath} is invalid! The second title is NOT 计算!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！ 第二个标题不是 计算!`);
         }
         if (secondTitles[2].trim() != "## 操作") {
-            errors.push(`File ${filePath} is invalid! The thrid title is NOT 操作!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！ 第三个标题不是 操作`);
         }
         if (secondTitles[3].trim() != "## 附加内容") {
-            errors.push(`File ${filePath} is invalid! The fourth title is NOT 附加内容!`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！ 第四个标题不是 附加内容`);
         }
 
         var mustHave = '如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。';
         var mustHaveIndex = dataLines.indexOf(mustHave);
         if (mustHaveIndex < 0) {
-            errors.push(`File ${filePath} is invalid! It doesn't have necessary scentence.`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！ 它没有包含必需的附加内容！`);
         }
     }
     
