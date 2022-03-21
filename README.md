@@ -116,6 +116,7 @@
 - [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
 - [糖醋鲤鱼](./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
 - [微波葱姜黑鳕鱼](./dishes/aquatic/微波葱姜黑鳕鱼.md)
+- [小龙虾](./dishes/aquatic/小龙虾/小龙虾.md)
 
 ### 早餐
 
