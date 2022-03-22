@@ -116,6 +116,7 @@
 - [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
 - [糖醋鲤鱼](./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
 - [微波葱姜黑鳕鱼](./dishes/aquatic/微波葱姜黑鳕鱼.md)
+- [小龙虾](./dishes/aquatic/小龙虾/小龙虾.md)
 
 ### 早餐
 
@@ -132,6 +133,7 @@
 - [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
 - [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 - [蒸花卷](./dishes/breakfast/蒸花卷.md)
+- [蒸水蛋](./dishes/breakfast/蒸水蛋.md)
 
 ### 主食
 
@@ -195,6 +197,7 @@
 - [酸梅汤（半成品加工）](./dishes/drink/酸梅汤（半成品加工）.md)
 - [杨枝甘露](./dishes/drink/杨枝甘露.md)
 - [B52轰炸机](./dishes/drink/B52轰炸机.md)
+- [Mojito莫吉托](./dishes/drink/Mojito莫吉托.md)
 
 ### 酱料和其它材料
 
