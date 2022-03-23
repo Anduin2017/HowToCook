@@ -58,6 +58,7 @@
 - [水油焖蔬菜](./dishes/vegetable_dish/水油焖蔬菜.md)
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
 - [糖拌西红柿](./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
+- [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 
 ### 荤菜
@@ -116,6 +117,7 @@
 - [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
 - [糖醋鲤鱼](./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
 - [微波葱姜黑鳕鱼](./dishes/aquatic/微波葱姜黑鳕鱼.md)
+- [小龙虾](./dishes/aquatic/小龙虾/小龙虾.md)
 
 ### 早餐
 
@@ -196,6 +198,7 @@
 - [酸梅汤（半成品加工）](./dishes/drink/酸梅汤（半成品加工）.md)
 - [杨枝甘露](./dishes/drink/杨枝甘露.md)
 - [B52轰炸机](./dishes/drink/B52轰炸机.md)
+- [Mojito莫吉托](./dishes/drink/Mojito莫吉托.md)
 
 ### 酱料和其它材料
 
