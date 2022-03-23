@@ -69,6 +69,7 @@
 - [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
 - [红烧猪蹄](./dishes/meat_dish/红烧猪蹄/红烧猪蹄.md)
+- [花菜肉片](./dishes/meat_dish/花菜肉片/花菜肉片.md)
 - [黄瓜炒肉](./dishes/meat_dish/黄瓜炒肉.md)
 - [回锅肉](./dishes/meat_dish/回锅肉.md)
 - [尖椒炒牛肉](./dishes/meat_dish/尖椒炒牛肉.md)
