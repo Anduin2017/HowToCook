@@ -58,6 +58,7 @@
 - [水油焖蔬菜](./dishes/vegetable_dish/水油焖蔬菜.md)
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
 - [糖拌西红柿](./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
+- [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 
 ### 荤菜
