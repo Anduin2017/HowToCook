@@ -1,0 +1,85 @@
+site_name: How To Cook
+
+# Repository
+repo_name: Anduin2017/HowToCook
+repo_url: https://github.com/Anduin2017/HowToCook
+edit_uri: ""
+
+use_directory_urls: true
+docs_dir: .
+theme:
+  name: material
+  language: zh
+  features:
+    - content.code.annotate
+    # - content.tabs.link
+    # - header.autohide
+    #- navigation.expand
+    #- navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # # - toc.integrate
+  search_index_only: true
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material//weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - pymdownx.snippets
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+
+plugins:
+  - same-dir
+  - search
+  - minify:
+      minify_html: true
+
+nav:
+  - README.md
+  - 做菜之前:
+{{before}}
+  - 菜谱:
+    - 按种类: # 只有两层section以上才能出现navigation expansion https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
+{{main}}
+  - 进阶知识学习:
+{{after}}
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
