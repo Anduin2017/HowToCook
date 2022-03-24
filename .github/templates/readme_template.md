@@ -17,6 +17,9 @@
 
 在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
 
+##PR注意事项
+请参照[注意注意]（https://cook.aiurs.co/CONTRIBUTING/） 相关内容规范表述，另外 注意手动markdownlint ,否则代码自动pr校验无法通过，将导致无法merge
+
 ## 做菜之前
 
 {{before}}
