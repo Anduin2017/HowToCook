@@ -113,6 +113,7 @@ nav:
           - 酸辣土豆丝: ./dishes/vegetable_dish/酸辣土豆丝.md
           - 糖拌西红柿: ./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md
           - 西红柿炒鸡蛋: ./dishes/vegetable_dish/西红柿炒鸡蛋.md
+          - 西葫芦炒鸡蛋: ./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md
 
       - 荤菜:
           - 白菜猪肉炖粉条: ./dishes/meat_dish/白菜猪肉炖粉条.md
@@ -168,6 +169,7 @@ nav:
           - 清蒸生蚝: ./dishes/aquatic/清蒸生蚝.md
           - 糖醋鲤鱼: ./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md
           - 微波葱姜黑鳕鱼: ./dishes/aquatic/微波葱姜黑鳕鱼.md
+          - 香煎翘嘴鱼: ./dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md
           - 小龙虾: ./dishes/aquatic/小龙虾/小龙虾.md
 
       - 早餐:
@@ -230,6 +232,7 @@ nav:
           - 生汆丸子汤: ./dishes/soup/生汆丸子汤.md
           - 西红柿鸡蛋汤: ./dishes/soup/西红柿鸡蛋汤.md
           - 小米粥: ./dishes/soup/小米粥.md
+          - 银耳莲子粥: ./dishes/soup/银耳莲子粥/银耳莲子粥.md
           - 紫菜蛋花汤: ./dishes/soup/紫菜蛋花汤.md
 
       - 饮料:
@@ -243,6 +246,7 @@ nav:
           - 酸梅汤: ./dishes/drink/酸梅汤/酸梅汤.md
           - 酸梅汤（半成品加工）: ./dishes/drink/酸梅汤（半成品加工）.md
           - 杨枝甘露: ./dishes/drink/杨枝甘露.md
+          - 长岛冰茶: ./dishes/drink/长岛冰茶.md
           - B52轰炸机: ./dishes/drink/B52轰炸机.md
           - Mojito莫吉托: ./dishes/drink/Mojito莫吉托.md
 
@@ -261,6 +265,7 @@ nav:
           - 烤蛋挞: ./dishes/dessert/烤蛋挞/烤蛋挞.md
           - 戚风蛋糕: ./dishes/dessert/戚风蛋糕/戚风蛋糕.md
           - 提拉米苏: ./dishes/dessert/提拉米苏/提拉米苏.md
+          - 雪花酥: ./dishes/dessert/雪花酥/雪花酥.md
           - 芋泥雪媚娘: ./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md
 
   - 进阶知识学习:
