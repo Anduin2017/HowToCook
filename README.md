@@ -166,6 +166,7 @@
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 - [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
+- [蒸卤面](./dishes/staple/蒸卤面.md)
 
 ### 半成品加工
 
