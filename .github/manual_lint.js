@@ -43,7 +43,7 @@ async function main() {
             continue;
         }
         if (secondTitles.length != 4) {
-            errors.push(`文件 ${filePath} 不符合仓库的规范！它并不是四个标题的格式。请参考示例菜模板！`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！它并不是四个标题的格式。请从示例菜模板中创建菜谱！请不要破坏模板的格式！`);
             continue;
         }
         if (secondTitles[0].trim() != "## 必备原料和工具") {
