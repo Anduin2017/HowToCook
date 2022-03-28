@@ -42,7 +42,7 @@
 - [炒青菜](./dishes/vegetable_dish/炒青菜.md)
 - [葱煎豆腐](./dishes/vegetable_dish/葱煎豆腐.md)
 - [地三鲜](./dishes/vegetable_dish/地三鲜.md)
-- [耗油生菜](./dishes/vegetable_dish/耗油生菜.md)
+- [蚝油生菜](./dishes/vegetable_dish/蚝油生菜.md)
 - [红烧茄子](./dishes/vegetable_dish/红烧茄子.md)
 - [虎皮青椒](./dishes/vegetable_dish/虎皮青椒/虎皮青椒.md)
 - [鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
