@@ -108,11 +108,13 @@ nav:
           - 凉拌黄瓜: ./dishes/vegetable_dish/凉拌黄瓜.md
           - 凉拌油麦菜: ./dishes/vegetable_dish/凉拌油麦菜.md
           - 蒲烧茄子: ./dishes/vegetable_dish/蒲烧茄子.md
+          - 陕北熬豆角: ./dishes/vegetable_dish/陕北熬豆角.md
           - 上汤娃娃菜: ./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md
           - 水油焖蔬菜: ./dishes/vegetable_dish/水油焖蔬菜.md
           - 酸辣土豆丝: ./dishes/vegetable_dish/酸辣土豆丝.md
           - 糖拌西红柿: ./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md
           - 西红柿炒鸡蛋: ./dishes/vegetable_dish/西红柿炒鸡蛋.md
+          - 西葫芦炒鸡蛋: ./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md
 
       - 荤菜:
           - 白菜猪肉炖粉条: ./dishes/meat_dish/白菜猪肉炖粉条.md
@@ -135,6 +137,7 @@ nav:
           - 凉拌鸡丝: ./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md
           - 萝卜炖羊排: ./dishes/meat_dish/萝卜炖羊排.md
           - 麻辣香锅: ./dishes/meat_dish/麻辣香锅.md
+          - 啤酒鸭: ./dishes/meat_dish/啤酒鸭/啤酒鸭.md
           - 水煮牛肉: ./dishes/meat_dish/水煮牛肉/水煮牛肉.md
           - 水煮肉片: ./dishes/meat_dish/水煮肉片.md
           - 蒜苔炒肉末: ./dishes/meat_dish/蒜苔炒肉末.md
@@ -160,6 +163,7 @@ nav:
       - 水产:
           - 白灼虾: ./dishes/aquatic/白灼虾/白灼虾.md
           - 鳊鱼炖豆腐: ./dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md
+          - 葱烧海参: ./dishes/aquatic/葱烧海参/葱烧海参.md
           - 红烧鲤鱼: ./dishes/aquatic/红烧鲤鱼.md
           - 红烧鱼头: ./dishes/aquatic/红烧鱼头.md
           - 黄油煎虾: ./dishes/aquatic/黄油煎虾/黄油煎虾.md
@@ -169,6 +173,8 @@ nav:
           - 清蒸生蚝: ./dishes/aquatic/清蒸生蚝.md
           - 糖醋鲤鱼: ./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md
           - 微波葱姜黑鳕鱼: ./dishes/aquatic/微波葱姜黑鳕鱼.md
+          - 香煎翘嘴鱼: ./dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md
+          - 小龙虾: ./dishes/aquatic/小龙虾/小龙虾.md
 
       - 早餐:
           - 茶叶蛋: ./dishes/breakfast/茶叶蛋.md
@@ -184,11 +190,13 @@ nav:
           - 微波炉蛋糕: ./dishes/breakfast/微波炉蛋糕.md
           - 燕麦鸡蛋饼: ./dishes/breakfast/燕麦鸡蛋饼.md
           - 蒸花卷: ./dishes/breakfast/蒸花卷.md
+          - 蒸水蛋: ./dishes/breakfast/蒸水蛋.md
 
       - 主食:
           - 炒方便面: ./dishes/staple/炒方便面.md
           - 炒河粉: ./dishes/staple/炒河粉.md
           - 炒馍: ./dishes/staple/炒馍.md
+          - 炒年糕: ./dishes/staple/炒年糕.md
           - 炒意大利面: ./dishes/staple/炒意大利面/炒意大利面.md
           - 蛋炒饭: ./dishes/staple/蛋炒饭.md
           - 韩式拌饭: ./dishes/staple/韩式拌饭/韩式拌饭.md
@@ -207,6 +215,7 @@ nav:
           - 汤面: ./dishes/staple/汤面.md
           - 微波炉腊肠煲仔饭: ./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md
           - 炸酱面: ./dishes/staple/炸酱面.md
+          - 蒸卤面: ./dishes/staple/蒸卤面.md
           - 中式馅饼: ./dishes/staple/中式馅饼/中式馅饼.md
           - 煮泡面加蛋: ./dishes/staple/煮泡面加蛋.md
           - 披萨饼皮: ./dishes/staple/pizza/披萨饼皮.md
@@ -221,6 +230,7 @@ nav:
 
       - 汤与粥:
           - 昂刺鱼豆腐汤: ./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md
+          - 勾芡香菇汤: ./dishes/soup/勾芡香菇汤/勾芡香菇汤.md
           - 金针菇汤: ./dishes/soup/金针菇汤.md
           - 菌菇炖乳鸽: ./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md
           - 罗宋汤: ./dishes/soup/罗宋汤.md
@@ -229,6 +239,7 @@ nav:
           - 生汆丸子汤: ./dishes/soup/生汆丸子汤.md
           - 西红柿鸡蛋汤: ./dishes/soup/西红柿鸡蛋汤.md
           - 小米粥: ./dishes/soup/小米粥.md
+          - 银耳莲子粥: ./dishes/soup/银耳莲子粥/银耳莲子粥.md
           - 紫菜蛋花汤: ./dishes/soup/紫菜蛋花汤.md
 
       - 饮料:
@@ -242,7 +253,9 @@ nav:
           - 酸梅汤: ./dishes/drink/酸梅汤/酸梅汤.md
           - 酸梅汤（半成品加工）: ./dishes/drink/酸梅汤（半成品加工）.md
           - 杨枝甘露: ./dishes/drink/杨枝甘露.md
+          - 长岛冰茶: ./dishes/drink/长岛冰茶.md
           - B52轰炸机: ./dishes/drink/B52轰炸机.md
+          - Mojito莫吉托: ./dishes/drink/Mojito莫吉托.md
 
       - 酱料和其它材料:
           - 草莓酱: ./dishes/condiment/草莓酱/草莓酱.md
@@ -259,6 +272,7 @@ nav:
           - 烤蛋挞: ./dishes/dessert/烤蛋挞/烤蛋挞.md
           - 戚风蛋糕: ./dishes/dessert/戚风蛋糕/戚风蛋糕.md
           - 提拉米苏: ./dishes/dessert/提拉米苏/提拉米苏.md
+          - 雪花酥: ./dishes/dessert/雪花酥/雪花酥.md
           - 芋泥雪媚娘: ./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md
 
   - 进阶知识学习:
