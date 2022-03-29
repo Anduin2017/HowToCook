@@ -75,6 +75,7 @@
 - [红烧猪蹄](./dishes/meat_dish/红烧猪蹄/红烧猪蹄.md)
 - [黄瓜炒肉](./dishes/meat_dish/黄瓜炒肉.md)
 - [回锅肉](./dishes/meat_dish/回锅肉.md)
+- [黄焖鸡](./dishes/meat_dish/黄焖鸡.md)
 - [尖椒炒牛肉](./dishes/meat_dish/尖椒炒牛肉.md)
 - [姜炒鸡](./dishes/meat_dish/姜炒鸡/姜炒鸡.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
