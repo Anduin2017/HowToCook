@@ -128,6 +128,7 @@
 
 ### 早餐
 
+- [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
