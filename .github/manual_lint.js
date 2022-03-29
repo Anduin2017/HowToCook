@@ -32,6 +32,9 @@ async function main() {
         if (dataLines.filter(line => line.includes('左右')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！左右 不是一个能够明确定量的标准! 如果是在描述一个模糊物体的特征，请使用 '大约'。例如：鸡（大约1kg）`);
         }
+        if (dataLines.filter(line => line.includes('少许')).length > 0) {
+            errors.push(`文件 ${filePath} 不符合仓库的规范！少许 不是一个精准的描述！请给出克 g 或毫升 ml。`);
+        }
         if (dataLines.filter(line => line.includes('你')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！请不要出现人称代词。`);
         }
@@ -40,7 +43,7 @@ async function main() {
             continue;
         }
         if (secondTitles.length != 4) {
-            errors.push(`文件 ${filePath} 不符合仓库的规范！它并不是四个标题的格式。请参考示例菜模板！`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！它并不是四个标题的格式。请从示例菜模板中创建菜谱！请不要破坏模板的格式！`);
             continue;
         }
         if (secondTitles[0].trim() != "## 必备原料和工具") {
