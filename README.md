@@ -42,7 +42,9 @@
 - [炒青菜](./dishes/vegetable_dish/炒青菜.md)
 - [葱煎豆腐](./dishes/vegetable_dish/葱煎豆腐.md)
 - [地三鲜](./dishes/vegetable_dish/地三鲜.md)
-- [耗油生菜](./dishes/vegetable_dish/耗油生菜.md)
+- [蚝油生菜](./dishes/vegetable_dish/蚝油生菜.md)
+- [耗油三鲜菇](./dishes/vegetable_dish/耗油三鲜菇/耗油三鲜菇.md)
+- [红烧冬瓜](./dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md)
 - [红烧茄子](./dishes/vegetable_dish/红烧茄子.md)
 - [虎皮青椒](./dishes/vegetable_dish/虎皮青椒/虎皮青椒.md)
 - [鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
@@ -84,6 +86,7 @@
 - [凉拌鸡丝](./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md)
 - [萝卜炖羊排](./dishes/meat_dish/萝卜炖羊排.md)
 - [麻辣香锅](./dishes/meat_dish/麻辣香锅.md)
+- [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
 - [蒜苔炒肉末](./dishes/meat_dish/蒜苔炒肉末.md)
@@ -103,12 +106,14 @@
 - [洋葱炒猪肉](./dishes/meat_dish/洋葱炒猪肉.md)
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
+- [猪皮冻](./dishes/meat_dish/猪皮冻/猪皮冻.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 
 ### 水产
 
 - [白灼虾](./dishes/aquatic/白灼虾/白灼虾.md)
 - [鳊鱼炖豆腐](./dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
+- [葱烧海参](./dishes/aquatic/葱烧海参/葱烧海参.md)
 - [红烧鲤鱼](./dishes/aquatic/红烧鲤鱼.md)
 - [红烧鱼头](./dishes/aquatic/红烧鱼头.md)
 - [黄油煎虾](./dishes/aquatic/黄油煎虾/黄油煎虾.md)
@@ -143,6 +148,7 @@
 - [炒方便面](./dishes/staple/炒方便面.md)
 - [炒河粉](./dishes/staple/炒河粉.md)
 - [炒馍](./dishes/staple/炒馍.md)
+- [炒年糕](./dishes/staple/炒年糕.md)
 - [炒意大利面](./dishes/staple/炒意大利面/炒意大利面.md)
 - [蛋炒饭](./dishes/staple/蛋炒饭.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
@@ -161,6 +167,7 @@
 - [汤面](./dishes/staple/汤面.md)
 - [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 - [炸酱面](./dishes/staple/炸酱面.md)
+- [蒸卤面](./dishes/staple/蒸卤面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 - [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
@@ -177,6 +184,7 @@
 ### 汤与粥
 
 - [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+- [勾芡香菇汤](./dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
 - [金针菇汤](./dishes/soup/金针菇汤.md)
 - [菌菇炖乳鸽](./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
 - [罗宋汤](./dishes/soup/罗宋汤.md)
