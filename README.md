@@ -108,7 +108,7 @@
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
 - [猪皮冻](./dishes/meat_dish/猪皮冻/猪皮冻.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
-- [湖南家常红烧肉](./dishes/meat_dish/湖南家常红烧肉.md/湖南家常红烧肉.md)
+- [湖南家常红烧肉](./dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md)
 
 ### 水产
 
