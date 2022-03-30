@@ -39,6 +39,7 @@
 
 - [菠菜炒鸡蛋](./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 - [炒滑蛋](./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
+- [炒茄子](./dishes/vegetable_dish/炒茄子.md)
 - [炒青菜](./dishes/vegetable_dish/炒青菜.md)
 - [葱煎豆腐](./dishes/vegetable_dish/葱煎豆腐.md)
 - [地三鲜](./dishes/vegetable_dish/地三鲜.md)
@@ -118,6 +119,7 @@
 
 - [白灼虾](./dishes/aquatic/白灼虾/白灼虾.md)
 - [鳊鱼炖豆腐](./dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
+- [蛏抱蛋](./dishes/aquatic/蛏抱蛋/蛏抱蛋.md)
 - [葱烧海参](./dishes/aquatic/葱烧海参/葱烧海参.md)
 - [红烧鲤鱼](./dishes/aquatic/红烧鲤鱼.md)
 - [红烧鱼头](./dishes/aquatic/红烧鱼头.md)
@@ -126,6 +128,7 @@
 - [咖喱炒蟹](./dishes/aquatic/咖喱炒蟹.md)
 - [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
 - [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
+- [蒜蓉虾](./dishes/aquatic/蒜蓉虾/蒜蓉虾.md)
 - [糖醋鲤鱼](./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
 - [微波葱姜黑鳕鱼](./dishes/aquatic/微波葱姜黑鳕鱼.md)
 - [香煎翘嘴鱼](./dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md)
