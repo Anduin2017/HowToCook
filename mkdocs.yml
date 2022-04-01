@@ -151,6 +151,7 @@ nav:
           - 水煮肉片: ./dishes/meat_dish/水煮肉片.md
           - 蒜苔炒肉末: ./dishes/meat_dish/蒜苔炒肉末.md
           - 糖醋里脊: ./dishes/meat_dish/糖醋里脊.md
+          - 糖醋排骨: ./dishes/meat_dish/糖醋排骨/糖醋排骨.md
           - 土豆炖排骨: ./dishes/meat_dish/土豆炖排骨/土豆炖排骨.md
           - 无骨鸡爪: ./dishes/meat_dish/无骨鸡爪/无骨鸡爪.md
           - 西红柿牛腩: ./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md
@@ -283,6 +284,7 @@ nav:
       - 甜品:
           - 奥利奥冰淇淋: ./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md
           - 烤蛋挞: ./dishes/dessert/烤蛋挞/烤蛋挞.md
+          - 魔芋蛋糕: ./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md
           - 戚风蛋糕: ./dishes/dessert/戚风蛋糕/戚风蛋糕.md
           - 提拉米苏: ./dishes/dessert/提拉米苏/提拉米苏.md
           - 雪花酥: ./dishes/dessert/雪花酥/雪花酥.md
