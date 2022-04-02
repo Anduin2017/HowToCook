@@ -55,6 +55,7 @@
 - [榄菜肉末四季豆](./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
 - [凉拌黄瓜](./dishes/vegetable_dish/凉拌黄瓜.md)
 - [凉拌油麦菜](./dishes/vegetable_dish/凉拌油麦菜.md)
+- [麻婆豆腐](./dishes/vegetable_dish/麻婆豆腐/麻婆豆腐.md)
 - [蒲烧茄子](./dishes/vegetable_dish/蒲烧茄子.md)
 - [陕北熬豆角](./dishes/vegetable_dish/陕北熬豆角.md)
 - [上汤娃娃菜](./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
@@ -73,9 +74,10 @@
 - [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
 - [红烧猪蹄](./dishes/meat_dish/红烧猪蹄/红烧猪蹄.md)
+- [湖南家常红烧肉](./dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md)
 - [黄瓜炒肉](./dishes/meat_dish/黄瓜炒肉.md)
-- [回锅肉](./dishes/meat_dish/回锅肉.md)
 - [黄焖鸡](./dishes/meat_dish/黄焖鸡.md)
+- [回锅肉](./dishes/meat_dish/回锅肉.md)
 - [尖椒炒牛肉](./dishes/meat_dish/尖椒炒牛肉.md)
 - [姜炒鸡](./dishes/meat_dish/姜炒鸡/姜炒鸡.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
@@ -84,6 +86,7 @@
 - [辣椒炒肉](./dishes/meat_dish/辣椒炒肉.md)
 - [老式锅包肉](./dishes/meat_dish/老式锅包肉/老式锅包肉.md)
 - [冷吃兔](./dishes/meat_dish/冷吃兔.md)
+- [荔枝肉](./dishes/meat_dish/荔枝肉/荔枝肉.md)
 - [凉拌鸡丝](./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md)
 - [萝卜炖羊排](./dishes/meat_dish/萝卜炖羊排.md)
 - [麻辣香锅](./dishes/meat_dish/麻辣香锅.md)
@@ -130,6 +133,7 @@
 ### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+- [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
 - [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
@@ -175,6 +179,7 @@
 
 ### 半成品加工
 
+- [半成品意面](./dishes/semi-finished/半成品意面.md)
 - [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
 - [凉皮](./dishes/semi-finished/凉皮.md)
 - [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
