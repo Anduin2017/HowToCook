@@ -66,6 +66,7 @@
 - [糖拌西红柿](./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
 - [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
+- [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
 
 ### 荤菜
 
@@ -111,7 +112,6 @@
 - [新疆大盘鸡](./dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md)
 - [血浆鸭](./dishes/meat_dish/血浆鸭/血浆鸭.md)
 - [羊排焖面](./dishes/meat_dish/羊排焖面/羊排焖面.md)
-- [洋葱炒鸡蛋](./dishes/meat_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
 - [洋葱炒猪肉](./dishes/meat_dish/洋葱炒猪肉.md)
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
