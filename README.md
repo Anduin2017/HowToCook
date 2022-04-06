@@ -71,6 +71,7 @@
 ### 荤菜
 
 - [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
+- [干煸仔鸡](./dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
 - [宫保鸡丁](./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](./dishes/meat_dish/咕噜肉.md)
 - [黑椒牛柳](./dishes/meat_dish/黑椒牛柳/黑椒牛柳.md)
