@@ -29,6 +29,15 @@ async function main() {
         if (dataLines.filter(line => line.includes('每人')).length + dataLines.filter(line => line.includes('人数')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！请基于每道菜\\每份为基准。不要基于人数。人数是一个可能会导致在应用中发生问题的单位。如果需要面向大量的人食用，请标明一个人需要几份。`);
         }
+        if (
+            dataLines.filter(line => line.includes('份数')).length > 0 && 
+                (
+                    dataLines.filter(line => line.includes('总量')).length == 0 ||
+                    dataLines.filter(line => line.includes('每次制作前需要确定计划做几份。一份正好够')).length == 0
+                )
+            ) {
+            errors.push(`文件 ${filePath} 不符合仓库的规范！它使用份数作为基础，这种情况下一般是一次制作，制作多份的情况。请标明：总量 并写明 '每次制作前需要确定计划做几份。一份正好够 几 个人食用。'。`);
+        }
         if (dataLines.filter(line => line.includes('min')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！min 这个词汇有多重含义。建议改成中文"分钟"。`);
         }
