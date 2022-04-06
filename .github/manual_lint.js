@@ -26,6 +26,9 @@ async function main() {
         if (dataLines.filter(line => line.includes('适量')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！适量 不是一个精准的描述！请给出克 g 或毫升 ml。`);
         }
+        if (dataLines.filter(line => line.includes('每人')).length + dataLines.filter(line => line.includes('人数')).length > 0) {
+            errors.push(`文件 ${filePath} 不符合仓库的规范！请基于每道菜\\每份为基准。不要基于人数。。`);
+        }
         if (dataLines.filter(line => line.includes('min')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！min 这个词汇有多重含义。建议改成中文"分钟"。`);
         }
