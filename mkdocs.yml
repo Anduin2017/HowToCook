@@ -197,11 +197,11 @@ nav:
           - 桂圆红枣粥: ./dishes/breakfast/桂圆红枣粥.md
           - 鸡蛋三明治: ./dishes/breakfast/鸡蛋三明治.md
           - 煎饺: ./dishes/breakfast/煎饺.md
-          - 简易版苏格兰蛋: ./dishes/breakfast/简易版苏格兰蛋/简易版苏格兰蛋.md
           - 空气炸锅面包片: ./dishes/breakfast/空气炸锅面包片.md
           - 美式炒蛋: ./dishes/breakfast/美式炒蛋.md
           - 牛奶燕麦: ./dishes/breakfast/牛奶燕麦.md
           - 水煮玉米: ./dishes/breakfast/水煮玉米.md
+          - 苏格兰蛋: ./dishes/breakfast/苏格兰蛋/苏格兰蛋.md
           - 太阳蛋: ./dishes/breakfast/太阳蛋.md
           - 溏心蛋: ./dishes/breakfast/溏心蛋.md
           - 吐司果酱: ./dishes/breakfast/吐司果酱.md
@@ -227,6 +227,7 @@ nav:
           - 麻油拌面: ./dishes/staple/麻油拌面.md
           - 电饭煲蒸米饭: ./dishes/staple/米饭/电饭煲蒸米饭.md
           - 煮锅蒸米饭: ./dishes/staple/米饭/煮锅蒸米饭.md
+          - 披萨饼皮: ./dishes/staple/披萨饼皮/披萨饼皮.md
           - 热干面: ./dishes/staple/热干面.md
           - 日式咖喱饭: ./dishes/staple/日式咖喱饭/日式咖喱饭.md
           - 手工水饺: ./dishes/staple/手工水饺.md
@@ -237,7 +238,6 @@ nav:
           - 蒸卤面: ./dishes/staple/蒸卤面.md
           - 中式馅饼: ./dishes/staple/中式馅饼/中式馅饼.md
           - 煮泡面加蛋: ./dishes/staple/煮泡面加蛋.md
-          - 披萨饼皮: ./dishes/staple/pizza/披萨饼皮.md
 
       - 半成品加工:
           - 半成品意面: ./dishes/semi-finished/半成品意面.md
