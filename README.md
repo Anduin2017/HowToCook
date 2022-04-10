@@ -54,6 +54,7 @@
 - [话梅煮毛豆](./dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md)
 - [鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
 - [微波炉鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
+- [鸡蛋火腿炒黄瓜](./dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 - [茄子炖土豆](./dishes/vegetable_dish/茄子炖土豆.md)
 - [椒盐玉米](./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
 - [烤茄子](./dishes/vegetable_dish/烤茄子/烤茄子.md)
@@ -70,7 +71,6 @@
 - [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
-- [鸡蛋火腿炒黄瓜](./dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 
 ### 荤菜
 
