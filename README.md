@@ -70,6 +70,7 @@
 - [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
+- [鸡蛋火腿炒黄瓜](./dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 
 ### 荤菜
 
