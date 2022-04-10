@@ -201,6 +201,7 @@
 - [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 - [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 - [炸薯条](./dishes/semi-finished/炸薯条/炸薯条.md)
+- [牛油火锅底料(重庆)](./dishes/semi-finished/底料/牛油火锅底料(重庆)/牛油火锅底料(重庆).md)
 
 ### 汤与粥
 
