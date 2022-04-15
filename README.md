@@ -200,11 +200,11 @@
 - [半成品意面](./dishes/semi-finished/半成品意面.md)
 - [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
 - [凉皮](./dishes/semi-finished/凉皮.md)
+- [牛油火锅底料（重庆）](./dishes/semi-finished/牛油火锅底料(重庆).md)
 - [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 - [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 - [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 - [炸薯条](./dishes/semi-finished/炸薯条/炸薯条.md)
-- [牛油火锅底料(重庆)](./dishes/semi-finished/牛油火锅底料(重庆).md)
 
 ### 汤与粥
 
