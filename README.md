@@ -38,6 +38,7 @@
 
 ### 素菜
 
+- [拔丝土豆](./dishes/vegetable_dish/拔丝土豆/拔丝土豆.md)
 - [包菜炒鸡蛋粉丝](./dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md)
 - [菠菜炒鸡蛋](./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 - [炒滑蛋](./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
