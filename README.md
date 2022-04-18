@@ -88,6 +88,7 @@
 - [湖南家常红烧肉](./dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md)
 - [黄瓜炒肉](./dishes/meat_dish/黄瓜炒肉.md)
 - [黄焖鸡](./dishes/meat_dish/黄焖鸡.md)
+- [徽派红烧肉](./dishes/meat_dish/徽派红烧肉/徽派红烧肉.md)
 - [回锅肉](./dishes/meat_dish/回锅肉/回锅肉.md)
 - [尖椒炒牛肉](./dishes/meat_dish/尖椒炒牛肉.md)
 - [姜炒鸡](./dishes/meat_dish/姜炒鸡/姜炒鸡.md)
