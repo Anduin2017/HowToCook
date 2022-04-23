@@ -179,6 +179,7 @@
 - [炒意大利面](./dishes/staple/炒意大利面/炒意大利面.md)
 - [蛋炒饭](./dishes/staple/蛋炒饭.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
+- [基础牛奶面包](./dishes/staple/基础牛奶面包/基础牛奶面包.md)
 - [茄子肉煎饼](./dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
 - [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
 - [老干妈拌面](./dishes/staple/老干妈拌面.md)
