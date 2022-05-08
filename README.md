@@ -172,7 +172,6 @@
 - [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 - [蒸花卷](./dishes/breakfast/蒸花卷.md)
 - [蒸水蛋](./dishes/breakfast/蒸水蛋.md)
-- [金枪鱼酱三明治](./dishes/breakfast/金枪鱼酱三明治.md)
 
 ### 主食
 
