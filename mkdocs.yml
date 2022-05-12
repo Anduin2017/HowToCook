@@ -111,21 +111,26 @@ nav:
           - 微波炉鸡蛋羹: ./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md
           - 鸡蛋火腿炒黄瓜: ./dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md
           - 茄子炖土豆: ./dishes/vegetable_dish/茄子炖土豆.md
+          - 酱拌荞麦面: ./dishes/vegetable_dish/酱拌荞麦面/酱拌荞麦面.md
           - 茭白炒肉: ./dishes/vegetable_dish/茭白炒肉/茭白炒肉.md
           - 椒盐玉米: ./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md
           - 烤茄子: ./dishes/vegetable_dish/烤茄子/烤茄子.md
           - 榄菜肉末四季豆: ./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md
           - 凉拌黄瓜: ./dishes/vegetable_dish/凉拌黄瓜.md
+          - 凉拌木耳: ./dishes/vegetable_dish/凉拌木耳/凉拌木耳.md
           - 凉拌莴笋: ./dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md
           - 凉拌油麦菜: ./dishes/vegetable_dish/凉拌油麦菜.md
           - 麻婆豆腐: ./dishes/vegetable_dish/麻婆豆腐/麻婆豆腐.md
           - 蒲烧茄子: ./dishes/vegetable_dish/蒲烧茄子.md
           - 陕北熬豆角: ./dishes/vegetable_dish/陕北熬豆角.md
           - 上汤娃娃菜: ./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md
+          - 手撕包菜: ./dishes/vegetable_dish/手撕包菜/手撕包菜.md
           - 水油焖蔬菜: ./dishes/vegetable_dish/水油焖蔬菜.md
           - 酸辣土豆丝: ./dishes/vegetable_dish/酸辣土豆丝.md
           - 糖拌西红柿: ./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md
+          - 莴笋叶煎饼: ./dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md
           - 西红柿炒鸡蛋: ./dishes/vegetable_dish/西红柿炒鸡蛋.md
+          - 西红柿豆腐汤羹: ./dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md
           - 西葫芦炒鸡蛋: ./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md
           - 洋葱炒鸡蛋: ./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md
 
@@ -227,6 +232,7 @@ nav:
           - 炒意大利面: ./dishes/staple/炒意大利面/炒意大利面.md
           - 蛋炒饭: ./dishes/staple/蛋炒饭.md
           - 韩式拌饭: ./dishes/staple/韩式拌饭/韩式拌饭.md
+          - 基础牛奶面包: ./dishes/staple/基础牛奶面包/基础牛奶面包.md
           - 茄子肉煎饼: ./dishes/staple/茄子肉煎饼/茄子肉煎饼.md
           - 醪糟小汤圆: ./dishes/staple/醪糟小汤圆.md
           - 老干妈拌面: ./dishes/staple/老干妈拌面.md
