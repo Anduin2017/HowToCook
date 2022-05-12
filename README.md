@@ -7,7 +7,7 @@
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
-所以，我计划自己搜寻菜谱和并结合实际做菜的经验，准备用更清晰精准的描述来整理常见菜的做法，以方便程序员在家做饭。
+所以，我计划自己搜寻菜谱并结合实际做菜的经验，准备用更清晰精准的描述来整理常见菜的做法，以方便程序员在家做饭。
 
 同样，我希望它是一个由社区驱动和维护的开源项目，使更多人能够一起做一个有趣的仓库。所以非常欢迎大家贡献它~
 
@@ -21,6 +21,7 @@
 
 - [厨房准备](./tips/厨房准备.md)
 - [如何选择现在吃什么](./tips/如何选择现在吃什么.md)
+- [上海买菜指南](./tips/上海买菜指南.md)
 - [高压力锅](./tips/learn/高压力锅.md)
 - [食品安全](./tips/learn/食品安全.md)
 - [微波炉](./tips/learn/微波炉.md)
@@ -37,12 +38,15 @@
 
 ### 素菜
 
+- [拔丝土豆](./dishes/vegetable_dish/拔丝土豆/拔丝土豆.md)
+- [包菜炒鸡蛋粉丝](./dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md)
 - [菠菜炒鸡蛋](./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 - [炒滑蛋](./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
 - [炒茄子](./dishes/vegetable_dish/炒茄子.md)
 - [炒青菜](./dishes/vegetable_dish/炒青菜.md)
 - [葱煎豆腐](./dishes/vegetable_dish/葱煎豆腐.md)
 - [地三鲜](./dishes/vegetable_dish/地三鲜.md)
+- [干锅花菜](./dishes/vegetable_dish/干锅花菜/干锅花菜.md)
 - [蚝油三鲜菇](./dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md)
 - [蚝油生菜](./dishes/vegetable_dish/蚝油生菜.md)
 - [红烧冬瓜](./dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md)
@@ -51,25 +55,36 @@
 - [话梅煮毛豆](./dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md)
 - [鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
 - [微波炉鸡蛋羹](./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
+- [鸡蛋火腿炒黄瓜](./dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 - [茄子炖土豆](./dishes/vegetable_dish/茄子炖土豆.md)
+- [酱拌荞麦面](./dishes/vegetable_dish/酱拌荞麦面/酱拌荞麦面.md)
+- [茭白炒肉](./dishes/vegetable_dish/茭白炒肉/茭白炒肉.md)
 - [椒盐玉米](./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
 - [烤茄子](./dishes/vegetable_dish/烤茄子/烤茄子.md)
 - [榄菜肉末四季豆](./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
 - [凉拌黄瓜](./dishes/vegetable_dish/凉拌黄瓜.md)
+- [凉拌木耳](./dishes/vegetable_dish/凉拌木耳/凉拌木耳.md)
+- [凉拌莴笋](./dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md)
 - [凉拌油麦菜](./dishes/vegetable_dish/凉拌油麦菜.md)
 - [麻婆豆腐](./dishes/vegetable_dish/麻婆豆腐/麻婆豆腐.md)
 - [蒲烧茄子](./dishes/vegetable_dish/蒲烧茄子.md)
 - [陕北熬豆角](./dishes/vegetable_dish/陕北熬豆角.md)
 - [上汤娃娃菜](./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
+- [手撕包菜](./dishes/vegetable_dish/手撕包菜/手撕包菜.md)
 - [水油焖蔬菜](./dishes/vegetable_dish/水油焖蔬菜.md)
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
 - [糖拌西红柿](./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
+- [莴笋叶煎饼](./dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md)
 - [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
+- [西红柿豆腐汤羹](./dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
+- [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
 
 ### 荤菜
 
 - [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
+- [番茄红酱](./dishes/meat_dish/番茄红酱.md)
+- [干煸仔鸡](./dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
 - [宫保鸡丁](./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](./dishes/meat_dish/咕噜肉.md)
 - [黑椒牛柳](./dishes/meat_dish/黑椒牛柳/黑椒牛柳.md)
@@ -79,10 +94,12 @@
 - [湖南家常红烧肉](./dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md)
 - [黄瓜炒肉](./dishes/meat_dish/黄瓜炒肉.md)
 - [黄焖鸡](./dishes/meat_dish/黄焖鸡.md)
-- [回锅肉](./dishes/meat_dish/回锅肉.md)
+- [徽派红烧肉](./dishes/meat_dish/徽派红烧肉/徽派红烧肉.md)
+- [回锅肉](./dishes/meat_dish/回锅肉/回锅肉.md)
 - [尖椒炒牛肉](./dishes/meat_dish/尖椒炒牛肉.md)
 - [姜炒鸡](./dishes/meat_dish/姜炒鸡/姜炒鸡.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
+- [酱排骨](./dishes/meat_dish/酱排骨/酱排骨.md)
 - [可乐鸡翅](./dishes/meat_dish/可乐鸡翅.md)
 - [口水鸡](./dishes/meat_dish/口水鸡/口水鸡.md)
 - [辣椒炒肉](./dishes/meat_dish/辣椒炒肉.md)
@@ -92,11 +109,13 @@
 - [凉拌鸡丝](./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md)
 - [萝卜炖羊排](./dishes/meat_dish/萝卜炖羊排.md)
 - [麻辣香锅](./dishes/meat_dish/麻辣香锅.md)
+- [梅菜扣肉](./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
 - [蒜苔炒肉末](./dishes/meat_dish/蒜苔炒肉末.md)
 - [糖醋里脊](./dishes/meat_dish/糖醋里脊.md)
+- [糖醋排骨](./dishes/meat_dish/糖醋排骨/糖醋排骨.md)
 - [土豆炖排骨](./dishes/meat_dish/土豆炖排骨/土豆炖排骨.md)
 - [无骨鸡爪](./dishes/meat_dish/无骨鸡爪/无骨鸡爪.md)
 - [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
@@ -114,6 +133,7 @@
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
 - [猪皮冻](./dishes/meat_dish/猪皮冻/猪皮冻.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
+- [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
 
 ### 水产
 
@@ -144,6 +164,7 @@
 - [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 - [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 - [水煮玉米](./dishes/breakfast/水煮玉米.md)
+- [苏格兰蛋](./dishes/breakfast/苏格兰蛋/苏格兰蛋.md)
 - [太阳蛋](./dishes/breakfast/太阳蛋.md)
 - [溏心蛋](./dishes/breakfast/溏心蛋.md)
 - [吐司果酱](./dishes/breakfast/吐司果酱.md)
@@ -161,6 +182,8 @@
 - [炒意大利面](./dishes/staple/炒意大利面/炒意大利面.md)
 - [蛋炒饭](./dishes/staple/蛋炒饭.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
+- [基础牛奶面包](./dishes/staple/基础牛奶面包/基础牛奶面包.md)
+- [茄子肉煎饼](./dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
 - [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
 - [老干妈拌面](./dishes/staple/老干妈拌面.md)
 - [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
@@ -170,22 +193,25 @@
 - [麻油拌面](./dishes/staple/麻油拌面.md)
 - [电饭煲蒸米饭](./dishes/staple/米饭/电饭煲蒸米饭.md)
 - [煮锅蒸米饭](./dishes/staple/米饭/煮锅蒸米饭.md)
+- [披萨饼皮](./dishes/staple/披萨饼皮/披萨饼皮.md)
 - [热干面](./dishes/staple/热干面.md)
 - [日式咖喱饭](./dishes/staple/日式咖喱饭/日式咖喱饭.md)
+- [烧饼](./dishes/staple/烧饼/烧饼.md)
 - [手工水饺](./dishes/staple/手工水饺.md)
+- [酸辣蕨根粉](./dishes/staple/酸辣蕨根粉.md)
 - [汤面](./dishes/staple/汤面.md)
 - [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 - [炸酱面](./dishes/staple/炸酱面.md)
 - [蒸卤面](./dishes/staple/蒸卤面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
-- [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
 
 ### 半成品加工
 
 - [半成品意面](./dishes/semi-finished/半成品意面.md)
 - [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
 - [凉皮](./dishes/semi-finished/凉皮.md)
+- [牛油火锅底料](./dishes/semi-finished/牛油火锅底料.md)
 - [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
 - [速冻水饺](./dishes/semi-finished/速冻水饺.md)
 - [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
@@ -237,6 +263,7 @@
 
 - [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
+- [魔芋蛋糕](./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕/戚风蛋糕.md)
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
