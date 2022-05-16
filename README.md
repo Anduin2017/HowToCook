@@ -134,7 +134,6 @@
 - [猪皮冻](./dishes/meat_dish/猪皮冻/猪皮冻.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
-- [红烧鱼](./dishes/aquatic/红烧鱼.md)
 
 ### 水产
 
@@ -143,6 +142,7 @@
 - [蛏抱蛋](./dishes/aquatic/蛏抱蛋/蛏抱蛋.md)
 - [葱烧海参](./dishes/aquatic/葱烧海参/葱烧海参.md)
 - [红烧鲤鱼](./dishes/aquatic/红烧鲤鱼.md)
+- [红烧鱼](./dishes/aquatic/红烧鱼.md)
 - [红烧鱼头](./dishes/aquatic/红烧鱼头.md)
 - [黄油煎虾](./dishes/aquatic/黄油煎虾/黄油煎虾.md)
 - [烤鱼](./dishes/aquatic/混合烤鱼/烤鱼.md)
