@@ -23,6 +23,10 @@ async function main() {
             dataLines.filter(line => line.includes('吧勺')).length) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！勺 不是一个精准的单位！`);
         }
+        if (dataLines.filter(line => line.includes(' 杯')).length > 
+            dataLines.filter(line => line.includes('杯子')).length) {
+            errors.push(`文件 ${filePath} 不符合仓库的规范！杯 不是一个精准的单位！`);
+        }
         if (dataLines.filter(line => line.includes('适量')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！适量 不是一个精准的描述！请给出克 g 或毫升 ml。`);
         }
@@ -47,7 +51,7 @@ async function main() {
         if (dataLines.filter(line => line.includes('少许')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！少许 不是一个精准的描述！请给出克 g 或毫升 ml。`);
         }
-        if (dataLines.filter(line => line.includes('你')).length > 0) {
+        if (dataLines.filter(line => line.includes('你')).length + dataLines.filter(line => line.includes('我')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！请不要出现人称代词。`);
         }
         if (titles[0].trim() != "# " + filename + "的做法") {

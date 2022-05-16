@@ -77,6 +77,7 @@ nav:
   - 做菜之前:
       - 厨房准备: ./tips/厨房准备.md
       - 如何选择现在吃什么: ./tips/如何选择现在吃什么.md
+      - 上海买菜指南: ./tips/上海买菜指南.md
       - 高压力锅: ./tips/learn/高压力锅.md
       - 食品安全: ./tips/learn/食品安全.md
       - 微波炉: ./tips/learn/微波炉.md
@@ -91,12 +92,15 @@ nav:
     - 按种类: # 只有两层section以上才能出现navigation expansion https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
 
       - 素菜:
+          - 拔丝土豆: ./dishes/vegetable_dish/拔丝土豆/拔丝土豆.md
+          - 包菜炒鸡蛋粉丝: ./dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md
           - 菠菜炒鸡蛋: ./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md
           - 炒滑蛋: ./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md
           - 炒茄子: ./dishes/vegetable_dish/炒茄子.md
           - 炒青菜: ./dishes/vegetable_dish/炒青菜.md
           - 葱煎豆腐: ./dishes/vegetable_dish/葱煎豆腐.md
           - 地三鲜: ./dishes/vegetable_dish/地三鲜.md
+          - 干锅花菜: ./dishes/vegetable_dish/干锅花菜/干锅花菜.md
           - 蚝油三鲜菇: ./dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md
           - 蚝油生菜: ./dishes/vegetable_dish/蚝油生菜.md
           - 红烧冬瓜: ./dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md
@@ -105,25 +109,34 @@ nav:
           - 话梅煮毛豆: ./dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md
           - 鸡蛋羹: ./dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md
           - 微波炉鸡蛋羹: ./dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md
+          - 鸡蛋火腿炒黄瓜: ./dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md
           - 茄子炖土豆: ./dishes/vegetable_dish/茄子炖土豆.md
+          - 酱拌荞麦面: ./dishes/vegetable_dish/酱拌荞麦面/酱拌荞麦面.md
+          - 茭白炒肉: ./dishes/vegetable_dish/茭白炒肉/茭白炒肉.md
           - 椒盐玉米: ./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md
           - 烤茄子: ./dishes/vegetable_dish/烤茄子/烤茄子.md
           - 榄菜肉末四季豆: ./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md
           - 凉拌黄瓜: ./dishes/vegetable_dish/凉拌黄瓜.md
+          - 凉拌木耳: ./dishes/vegetable_dish/凉拌木耳/凉拌木耳.md
+          - 凉拌莴笋: ./dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md
           - 凉拌油麦菜: ./dishes/vegetable_dish/凉拌油麦菜.md
           - 麻婆豆腐: ./dishes/vegetable_dish/麻婆豆腐/麻婆豆腐.md
           - 蒲烧茄子: ./dishes/vegetable_dish/蒲烧茄子.md
           - 陕北熬豆角: ./dishes/vegetable_dish/陕北熬豆角.md
           - 上汤娃娃菜: ./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md
+          - 手撕包菜: ./dishes/vegetable_dish/手撕包菜/手撕包菜.md
           - 水油焖蔬菜: ./dishes/vegetable_dish/水油焖蔬菜.md
           - 酸辣土豆丝: ./dishes/vegetable_dish/酸辣土豆丝.md
           - 糖拌西红柿: ./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md
+          - 莴笋叶煎饼: ./dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md
           - 西红柿炒鸡蛋: ./dishes/vegetable_dish/西红柿炒鸡蛋.md
+          - 西红柿豆腐汤羹: ./dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md
           - 西葫芦炒鸡蛋: ./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md
           - 洋葱炒鸡蛋: ./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md
 
       - 荤菜:
           - 白菜猪肉炖粉条: ./dishes/meat_dish/白菜猪肉炖粉条.md
+          - 番茄红酱: ./dishes/meat_dish/番茄红酱.md
           - 干煸仔鸡: ./dishes/meat_dish/干煸仔鸡/干煸仔鸡.md
           - 宫保鸡丁: ./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md
           - 咕噜肉: ./dishes/meat_dish/咕噜肉.md
@@ -134,10 +147,12 @@ nav:
           - 湖南家常红烧肉: ./dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md
           - 黄瓜炒肉: ./dishes/meat_dish/黄瓜炒肉.md
           - 黄焖鸡: ./dishes/meat_dish/黄焖鸡.md
+          - 徽派红烧肉: ./dishes/meat_dish/徽派红烧肉/徽派红烧肉.md
           - 回锅肉: ./dishes/meat_dish/回锅肉/回锅肉.md
           - 尖椒炒牛肉: ./dishes/meat_dish/尖椒炒牛肉.md
           - 姜炒鸡: ./dishes/meat_dish/姜炒鸡/姜炒鸡.md
           - 酱牛肉: ./dishes/meat_dish/酱牛肉/酱牛肉.md
+          - 酱排骨: ./dishes/meat_dish/酱排骨/酱排骨.md
           - 可乐鸡翅: ./dishes/meat_dish/可乐鸡翅.md
           - 口水鸡: ./dishes/meat_dish/口水鸡/口水鸡.md
           - 辣椒炒肉: ./dishes/meat_dish/辣椒炒肉.md
@@ -179,6 +194,7 @@ nav:
           - 蛏抱蛋: ./dishes/aquatic/蛏抱蛋/蛏抱蛋.md
           - 葱烧海参: ./dishes/aquatic/葱烧海参/葱烧海参.md
           - 红烧鲤鱼: ./dishes/aquatic/红烧鲤鱼.md
+          - 红烧鱼: ./dishes/aquatic/红烧鱼.md
           - 红烧鱼头: ./dishes/aquatic/红烧鱼头.md
           - 黄油煎虾: ./dishes/aquatic/黄油煎虾/黄油煎虾.md
           - 烤鱼: ./dishes/aquatic/混合烤鱼/烤鱼.md
@@ -196,11 +212,11 @@ nav:
           - 桂圆红枣粥: ./dishes/breakfast/桂圆红枣粥.md
           - 鸡蛋三明治: ./dishes/breakfast/鸡蛋三明治.md
           - 煎饺: ./dishes/breakfast/煎饺.md
-          - 简易版苏格兰蛋: ./dishes/breakfast/简易版苏格兰蛋/简易版苏格兰蛋.md
           - 空气炸锅面包片: ./dishes/breakfast/空气炸锅面包片.md
           - 美式炒蛋: ./dishes/breakfast/美式炒蛋.md
           - 牛奶燕麦: ./dishes/breakfast/牛奶燕麦.md
           - 水煮玉米: ./dishes/breakfast/水煮玉米.md
+          - 苏格兰蛋: ./dishes/breakfast/苏格兰蛋/苏格兰蛋.md
           - 太阳蛋: ./dishes/breakfast/太阳蛋.md
           - 溏心蛋: ./dishes/breakfast/溏心蛋.md
           - 吐司果酱: ./dishes/breakfast/吐司果酱.md
@@ -217,6 +233,8 @@ nav:
           - 炒意大利面: ./dishes/staple/炒意大利面/炒意大利面.md
           - 蛋炒饭: ./dishes/staple/蛋炒饭.md
           - 韩式拌饭: ./dishes/staple/韩式拌饭/韩式拌饭.md
+          - 基础牛奶面包: ./dishes/staple/基础牛奶面包/基础牛奶面包.md
+          - 茄子肉煎饼: ./dishes/staple/茄子肉煎饼/茄子肉煎饼.md
           - 醪糟小汤圆: ./dishes/staple/醪糟小汤圆.md
           - 老干妈拌面: ./dishes/staple/老干妈拌面.md
           - 老友猪肉粉: ./dishes/staple/老友猪肉粉/老友猪肉粉.md
@@ -226,8 +244,10 @@ nav:
           - 麻油拌面: ./dishes/staple/麻油拌面.md
           - 电饭煲蒸米饭: ./dishes/staple/米饭/电饭煲蒸米饭.md
           - 煮锅蒸米饭: ./dishes/staple/米饭/煮锅蒸米饭.md
+          - 披萨饼皮: ./dishes/staple/披萨饼皮/披萨饼皮.md
           - 热干面: ./dishes/staple/热干面.md
           - 日式咖喱饭: ./dishes/staple/日式咖喱饭/日式咖喱饭.md
+          - 烧饼: ./dishes/staple/烧饼/烧饼.md
           - 手工水饺: ./dishes/staple/手工水饺.md
           - 酸辣蕨根粉: ./dishes/staple/酸辣蕨根粉.md
           - 汤面: ./dishes/staple/汤面.md
@@ -236,12 +256,12 @@ nav:
           - 蒸卤面: ./dishes/staple/蒸卤面.md
           - 中式馅饼: ./dishes/staple/中式馅饼/中式馅饼.md
           - 煮泡面加蛋: ./dishes/staple/煮泡面加蛋.md
-          - 披萨饼皮: ./dishes/staple/pizza/披萨饼皮.md
 
       - 半成品加工:
           - 半成品意面: ./dishes/semi-finished/半成品意面.md
           - 懒人蛋挞: ./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md
           - 凉皮: ./dishes/semi-finished/凉皮.md
+          - 牛油火锅底料: ./dishes/semi-finished/牛油火锅底料.md
           - 速冻馄饨: ./dishes/semi-finished/速冻馄饨.md
           - 速冻水饺: ./dishes/semi-finished/速冻水饺.md
           - 速冻汤圆: ./dishes/semi-finished/速冻汤圆/速冻汤圆.md
