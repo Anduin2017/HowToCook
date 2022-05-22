@@ -179,6 +179,7 @@
 
 - [炒方便面](./dishes/staple/炒方便面.md)
 - [炒河粉](./dishes/staple/炒河粉.md)
+- [炒凉粉](./dishes/staple/炒凉粉/炒凉粉.md)
 - [炒馍](./dishes/staple/炒馍.md)
 - [炒年糕](./dishes/staple/炒年糕.md)
 - [炒意大利面](./dishes/staple/炒意大利面/炒意大利面.md)
