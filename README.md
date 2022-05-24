@@ -149,6 +149,7 @@
 - [黄油煎虾](./dishes/aquatic/黄油煎虾/黄油煎虾.md)
 - [烤鱼](./dishes/aquatic/混合烤鱼/烤鱼.md)
 - [咖喱炒蟹](./dishes/aquatic/咖喱炒蟹.md)
+- [鲤鱼炖白菜](./dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
 - [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
 - [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
 - [蒜蓉虾](./dishes/aquatic/蒜蓉虾/蒜蓉虾.md)
