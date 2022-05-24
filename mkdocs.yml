@@ -164,6 +164,7 @@ nav:
           - 麻辣香锅: ./dishes/meat_dish/麻辣香锅.md
           - 梅菜扣肉: ./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md
           - 啤酒鸭: ./dishes/meat_dish/啤酒鸭/啤酒鸭.md
+          - 瘦肉土豆片: ./dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md
           - 水煮牛肉: ./dishes/meat_dish/水煮牛肉/水煮牛肉.md
           - 水煮肉片: ./dishes/meat_dish/水煮肉片.md
           - 蒜苔炒肉末: ./dishes/meat_dish/蒜苔炒肉末.md
@@ -185,6 +186,7 @@ nav:
           - 鱼香茄子: ./dishes/meat_dish/鱼香茄子/鱼香茄子.md
           - 鱼香肉丝: ./dishes/meat_dish/鱼香肉丝.md
           - 猪皮冻: ./dishes/meat_dish/猪皮冻/猪皮冻.md
+          - 猪肉烩酸菜: ./dishes/meat_dish/猪肉烩酸菜.md
           - 孜然牛肉: ./dishes/meat_dish/孜然牛肉.md
           - 醉排骨: ./dishes/meat_dish/醉排骨/醉排骨.md
 
@@ -195,6 +197,7 @@ nav:
           - 蛏抱蛋: ./dishes/aquatic/蛏抱蛋/蛏抱蛋.md
           - 葱烧海参: ./dishes/aquatic/葱烧海参/葱烧海参.md
           - 红烧鲤鱼: ./dishes/aquatic/红烧鲤鱼.md
+          - 红烧鱼: ./dishes/aquatic/红烧鱼.md
           - 红烧鱼头: ./dishes/aquatic/红烧鱼头.md
           - 黄油煎虾: ./dishes/aquatic/黄油煎虾/黄油煎虾.md
           - 烤鱼: ./dishes/aquatic/混合烤鱼/烤鱼.md
@@ -228,6 +231,7 @@ nav:
       - 主食:
           - 炒方便面: ./dishes/staple/炒方便面.md
           - 炒河粉: ./dishes/staple/炒河粉.md
+          - 炒凉粉: ./dishes/staple/炒凉粉/炒凉粉.md
           - 炒馍: ./dishes/staple/炒馍.md
           - 炒年糕: ./dishes/staple/炒年糕.md
           - 炒意大利面: ./dishes/staple/炒意大利面/炒意大利面.md
