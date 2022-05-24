@@ -23,6 +23,10 @@ async function main() {
             dataLines.filter(line => line.includes('吧勺')).length) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！勺 不是一个精准的单位！`);
         }
+        if (dataLines.filter(line => line.includes(' 杯')).length > 
+            dataLines.filter(line => line.includes('杯子')).length) {
+            errors.push(`文件 ${filePath} 不符合仓库的规范！杯 不是一个精准的单位！`);
+        }
         if (dataLines.filter(line => line.includes('适量')).length > 0) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！适量 不是一个精准的描述！请给出克 g 或毫升 ml。`);
         }
