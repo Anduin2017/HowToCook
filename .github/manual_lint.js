@@ -78,7 +78,7 @@ async function main() {
         var mustHave = '如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。';
         var mustHaveIndex = dataLines.indexOf(mustHave);
         if (mustHaveIndex < 0) {
-            errors.push(`文件 ${filePath} 不符合仓库的规范！ 它没有包含必需的附加内容！`);
+            errors.push(`文件 ${filePath} 不符合仓库的规范！ 它没有包含必需的附加内容！，需要在最后一行添加模板中的【如果您遵循本指南的制作流程而发现有……】`);
         }
     }
     
