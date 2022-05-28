@@ -165,6 +165,7 @@
 - [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
+- [金枪鱼酱三明治](./dishes/breakfast/金枪鱼酱三明治.md)
 - [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
 - [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 - [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
