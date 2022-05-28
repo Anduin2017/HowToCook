@@ -74,6 +74,7 @@
 - [上汤娃娃菜](./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
 - [手撕包菜](./dishes/vegetable_dish/手撕包菜/手撕包菜.md)
 - [水油焖蔬菜](./dishes/vegetable_dish/水油焖蔬菜.md)
+- [素炒豆角](./dishes/vegetable_dish/素炒豆角.md)
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
 - [糖拌西红柿](./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
 - [莴笋叶煎饼](./dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md)
