@@ -39,6 +39,7 @@
 ### 素菜
 
 - [拔丝土豆](./dishes/vegetable_dish/拔丝土豆/拔丝土豆.md)
+- [白灼菜心](./dishes/vegetable_dish/白灼菜心/白灼菜心.md)
 - [包菜炒鸡蛋粉丝](./dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md)
 - [菠菜炒鸡蛋](./dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 - [炒滑蛋](./dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
@@ -60,6 +61,7 @@
 - [酱拌荞麦面](./dishes/vegetable_dish/酱拌荞麦面/酱拌荞麦面.md)
 - [茭白炒肉](./dishes/vegetable_dish/茭白炒肉/茭白炒肉.md)
 - [椒盐玉米](./dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
+- [金针菇日本豆腐煲](./dishes/vegetable_dish/金针菇日本豆腐煲.md)
 - [烤茄子](./dishes/vegetable_dish/烤茄子/烤茄子.md)
 - [榄菜肉末四季豆](./dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
 - [凉拌黄瓜](./dishes/vegetable_dish/凉拌黄瓜.md)
@@ -72,6 +74,7 @@
 - [上汤娃娃菜](./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
 - [手撕包菜](./dishes/vegetable_dish/手撕包菜/手撕包菜.md)
 - [水油焖蔬菜](./dishes/vegetable_dish/水油焖蔬菜.md)
+- [素炒豆角](./dishes/vegetable_dish/素炒豆角.md)
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
 - [糖拌西红柿](./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
 - [莴笋叶煎饼](./dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md)
@@ -79,7 +82,6 @@
 - [西红柿豆腐汤羹](./dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
-- [白灼菜心](./dishes/vegetable_dish/白灼菜心/白灼菜心.md)
 
 ### 荤菜
 
@@ -144,6 +146,7 @@
 - [鳊鱼炖豆腐](./dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
 - [蛏抱蛋](./dishes/aquatic/蛏抱蛋/蛏抱蛋.md)
 - [葱烧海参](./dishes/aquatic/葱烧海参/葱烧海参.md)
+- [干煎阿根廷红虾](./dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md)
 - [红烧鲤鱼](./dishes/aquatic/红烧鲤鱼.md)
 - [红烧鱼](./dishes/aquatic/红烧鱼.md)
 - [红烧鱼头](./dishes/aquatic/红烧鱼头.md)
@@ -165,6 +168,7 @@
 - [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
+- [金枪鱼酱三明治](./dishes/breakfast/金枪鱼酱三明治.md)
 - [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
 - [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 - [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
@@ -187,6 +191,7 @@
 - [炒年糕](./dishes/staple/炒年糕.md)
 - [炒意大利面](./dishes/staple/炒意大利面/炒意大利面.md)
 - [蛋炒饭](./dishes/staple/蛋炒饭.md)
+- [豆角焖面](./dishes/staple/豆角焖面/豆角焖面.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
 - [基础牛奶面包](./dishes/staple/基础牛奶面包/基础牛奶面包.md)
 - [茄子肉煎饼](./dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
