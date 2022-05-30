@@ -215,11 +215,11 @@
 - [酸辣蕨根粉](./dishes/staple/酸辣蕨根粉.md)
 - [汤面](./dishes/staple/汤面.md)
 - [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
+- [西红柿鸡蛋挂面](./dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 - [炸酱面](./dishes/staple/炸酱面.md)
 - [蒸卤面](./dishes/staple/蒸卤面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
-- [西红柿鸡蛋挂面](./dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 
 ### 半成品加工
 
