@@ -141,6 +141,7 @@
 - [猪肉烩酸菜](./dishes/meat_dish/猪肉烩酸菜.md)
 - [柱候牛腩](./dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
+- [麻婆豆腐](./dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
 
 ### 水产
