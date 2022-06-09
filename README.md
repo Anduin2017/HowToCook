@@ -294,3 +294,7 @@
 - [辅料技巧](./tips/advanced/辅料技巧.md)
 - [高级专业术语](./tips/advanced/高级专业术语.md)
 - [油温判断技巧](./tips/advanced/油温判断技巧.md)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Anduin2017/HowToCook&type=Date)](https://star-history.com/#Anduin2017/HowToCook&Date)
