@@ -101,6 +101,7 @@
 - [回锅肉](./dishes/meat_dish/回锅肉/回锅肉.md)
 - [尖椒炒牛肉](./dishes/meat_dish/尖椒炒牛肉.md)
 - [姜炒鸡](./dishes/meat_dish/姜炒鸡/姜炒鸡.md)
+- [姜葱捞鸡](./dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
 - [酱排骨](./dishes/meat_dish/酱排骨/酱排骨.md)
 - [可乐鸡翅](./dishes/meat_dish/可乐鸡翅.md)
