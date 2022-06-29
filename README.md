@@ -203,6 +203,7 @@
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
 - [基础牛奶面包](./dishes/staple/基础牛奶面包/基础牛奶面包.md)
 - [茄子肉煎饼](./dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
+- [鲣鱼海苔玉米饭](./dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md)
 - [酱拌荞麦面](./dishes/staple/酱拌荞麦面/酱拌荞麦面.md)
 - [空气炸锅照烧鸡饭](./dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md)
 - [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
@@ -231,6 +232,8 @@
 ### 半成品加工
 
 - [半成品意面](./dishes/semi-finished/半成品意面.md)
+- [空气炸锅鸡翅中](./dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md)
+- [空气炸锅羊排](./dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md)
 - [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
 - [凉皮](./dishes/semi-finished/凉皮.md)
 - [牛油火锅底料](./dishes/semi-finished/牛油火锅底料.md)
