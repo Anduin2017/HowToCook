@@ -119,6 +119,7 @@
 - [瘦肉土豆片](./dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
+- [水煮鱼](./dishes/aquatic/水煮鱼.md)
 - [蒜苔炒肉末](./dishes/meat_dish/蒜苔炒肉末.md)
 - [台式卤肉饭](./dishes/meat_dish/台式卤肉饭/台式卤肉饭.md)
 - [糖醋里脊](./dishes/meat_dish/糖醋里脊.md)
