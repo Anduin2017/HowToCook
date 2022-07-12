@@ -172,7 +172,6 @@ nav:
           - 瘦肉土豆片: ./dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md
           - 水煮牛肉: ./dishes/meat_dish/水煮牛肉/水煮牛肉.md
           - 水煮肉片: ./dishes/meat_dish/水煮肉片.md
-          - 水煮鱼: ./dishes/meat_dish/水煮鱼.md
           - 蒜苔炒肉末: ./dishes/meat_dish/蒜苔炒肉末.md
           - 台式卤肉饭: ./dishes/meat_dish/台式卤肉饭/台式卤肉饭.md
           - 糖醋里脊: ./dishes/meat_dish/糖醋里脊.md
@@ -221,6 +220,7 @@ nav:
           - 香煎翘嘴鱼: ./dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md
           - 小龙虾: ./dishes/aquatic/小龙虾/小龙虾.md
           - 油焖大虾: ./dishes/aquatic/油焖大虾/油焖大虾.md
+          - 水煮鱼: ./dishes/meat_dish/水煮鱼.md
 
       - 早餐:
           - 茶叶蛋: ./dishes/breakfast/茶叶蛋.md
