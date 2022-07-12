@@ -162,6 +162,7 @@
 - [鲤鱼炖白菜](./dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
 - [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
 - [清蒸生蚝](./dishes/aquatic/清蒸生蚝.md)
+- [水煮鱼](./dishes/aquatic/水煮鱼.md)
 - [蒜蓉虾](./dishes/aquatic/蒜蓉虾/蒜蓉虾.md)
 - [糖醋鲤鱼](./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
 - [微波葱姜黑鳕鱼](./dishes/aquatic/微波葱姜黑鳕鱼.md)
@@ -267,11 +268,11 @@
 - [奇异果菠菜特调](./dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md)
 - [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
 - [酸梅汤（半成品加工）](./dishes/drink/酸梅汤（半成品加工）.md)
+- [泰国手标红茶](./dishes/drink/泰国手标红茶/泰国手标红茶.md)
 - [杨枝甘露](./dishes/drink/杨枝甘露.md)
 - [长岛冰茶](./dishes/drink/长岛冰茶.md)
 - [B52轰炸机](./dishes/drink/B52轰炸机.md)
 - [Mojito莫吉托](./dishes/drink/Mojito莫吉托.md)
-- [泰国手标红茶](./dishes/drink/泰国手标红茶/泰国手标红茶.md)
 
 ### 酱料和其它材料
 
