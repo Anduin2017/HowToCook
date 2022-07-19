@@ -77,7 +77,6 @@ nav:
   - 做菜之前:
       - 厨房准备: ./tips/厨房准备.md
       - 如何选择现在吃什么: ./tips/如何选择现在吃什么.md
-      - 上海买菜指南: ./tips/上海买菜指南.md
       - 高压力锅: ./tips/learn/高压力锅.md
       - 食品安全: ./tips/learn/食品安全.md
       - 微波炉: ./tips/learn/微波炉.md
@@ -124,6 +123,7 @@ nav:
           - 凉拌油麦菜: ./dishes/vegetable_dish/凉拌油麦菜.md
           - 麻婆豆腐: ./dishes/vegetable_dish/麻婆豆腐/麻婆豆腐.md
           - 蒲烧茄子: ./dishes/vegetable_dish/蒲烧茄子.md
+          - 芹菜拌茶树菇: ./dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md
           - 陕北熬豆角: ./dishes/vegetable_dish/陕北熬豆角.md
           - 上汤娃娃菜: ./dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md
           - 手撕包菜: ./dishes/vegetable_dish/手撕包菜/手撕包菜.md
@@ -214,6 +214,7 @@ nav:
           - 鲤鱼炖白菜: ./dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md
           - 清蒸鲈鱼: ./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md
           - 清蒸生蚝: ./dishes/aquatic/清蒸生蚝.md
+          - 水煮鱼: ./dishes/aquatic/水煮鱼.md
           - 蒜蓉虾: ./dishes/aquatic/蒜蓉虾/蒜蓉虾.md
           - 糖醋鲤鱼: ./dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md
           - 微波葱姜黑鳕鱼: ./dishes/aquatic/微波葱姜黑鳕鱼.md
@@ -252,7 +253,9 @@ nav:
           - 韩式拌饭: ./dishes/staple/韩式拌饭/韩式拌饭.md
           - 基础牛奶面包: ./dishes/staple/基础牛奶面包/基础牛奶面包.md
           - 茄子肉煎饼: ./dishes/staple/茄子肉煎饼/茄子肉煎饼.md
+          - 鲣鱼海苔玉米饭: ./dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md
           - 酱拌荞麦面: ./dishes/staple/酱拌荞麦面/酱拌荞麦面.md
+          - 空气炸锅照烧鸡饭: ./dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md
           - 醪糟小汤圆: ./dishes/staple/醪糟小汤圆.md
           - 老干妈拌面: ./dishes/staple/老干妈拌面.md
           - 老友猪肉粉: ./dishes/staple/老友猪肉粉/老友猪肉粉.md
@@ -278,6 +281,8 @@ nav:
 
       - 半成品加工:
           - 半成品意面: ./dishes/semi-finished/半成品意面.md
+          - 空气炸锅鸡翅中: ./dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md
+          - 空气炸锅羊排: ./dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md
           - 懒人蛋挞: ./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md
           - 凉皮: ./dishes/semi-finished/凉皮.md
           - 牛油火锅底料: ./dishes/semi-finished/牛油火锅底料.md
@@ -310,6 +315,7 @@ nav:
           - 奇异果菠菜特调: ./dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md
           - 酸梅汤: ./dishes/drink/酸梅汤/酸梅汤.md
           - 酸梅汤（半成品加工）: ./dishes/drink/酸梅汤（半成品加工）.md
+          - 泰国手标红茶: ./dishes/drink/泰国手标红茶/泰国手标红茶.md
           - 杨枝甘露: ./dishes/drink/杨枝甘露.md
           - 长岛冰茶: ./dishes/drink/长岛冰茶.md
           - B52轰炸机: ./dishes/drink/B52轰炸机.md
