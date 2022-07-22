@@ -289,6 +289,7 @@
 ### 甜品
 
 - [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
+- [草莓冰淇淋](./dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
 - [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 - [魔芋蛋糕](./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕/戚风蛋糕.md)
