@@ -202,6 +202,7 @@
 - [蛋炒饭](./dishes/staple/蛋炒饭.md)
 - [豆角焖面](./dishes/staple/豆角焖面/豆角焖面.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
+- [河南蒸面条（挂面）](./dishes/staple/河南蒸面条(挂面)/河南蒸面条(挂面).md)
 - [基础牛奶面包](./dishes/staple/基础牛奶面包/基础牛奶面包.md)
 - [茄子肉煎饼](./dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
 - [鲣鱼海苔玉米饭](./dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md)
@@ -227,7 +228,6 @@
 - [西红柿鸡蛋挂面](./dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 - [炸酱面](./dishes/staple/炸酱面.md)
 - [蒸卤面](./dishes/staple/蒸卤面.md)
-- [河南蒸面条(挂面)](./dishes/staple/河南蒸面条(挂面)/河南蒸面条(挂面).md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 
