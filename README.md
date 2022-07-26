@@ -67,6 +67,7 @@
 - [凉拌木耳](./dishes/vegetable_dish/凉拌木耳/凉拌木耳.md)
 - [凉拌莴笋](./dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md)
 - [凉拌油麦菜](./dishes/vegetable_dish/凉拌油麦菜.md)
+- [雷椒皮蛋](./dishes/vegetable_dish/雷椒皮蛋.md)
 - [麻婆豆腐](./dishes/vegetable_dish/麻婆豆腐/麻婆豆腐.md)
 - [蒲烧茄子](./dishes/vegetable_dish/蒲烧茄子.md)
 - [芹菜拌茶树菇](./dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md)
