@@ -154,6 +154,7 @@
 - [鳊鱼炖豆腐](./dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
 - [蛏抱蛋](./dishes/aquatic/蛏抱蛋/蛏抱蛋.md)
 - [葱烧海参](./dishes/aquatic/葱烧海参/葱烧海参.md)
+- [葱油桂鱼](./dishes/aquatic/葱油桂鱼/葱油桂鱼.md)
 - [干煎阿根廷红虾](./dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md)
 - [红烧鲤鱼](./dishes/aquatic/红烧鲤鱼.md)
 - [红烧鱼](./dishes/aquatic/红烧鱼.md)
@@ -171,7 +172,6 @@
 - [香煎翘嘴鱼](./dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md)
 - [小龙虾](./dishes/aquatic/小龙虾/小龙虾.md)
 - [油焖大虾](./dishes/aquatic/油焖大虾/油焖大虾.md)
-- [葱油桂鱼](./dishes/aquatic/葱油桂鱼/葱油桂鱼.md)
 
 ### 早餐
 
