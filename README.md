@@ -261,6 +261,7 @@
 - [小米粥](./dishes/soup/小米粥.md)
 - [银耳莲子粥](./dishes/soup/银耳莲子粥/银耳莲子粥.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
+- [香菇炖鸡汤](./dishes/soup/香菇炖鸡汤.md)
 
 ### 饮料
 
