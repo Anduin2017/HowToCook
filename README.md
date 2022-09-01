@@ -30,6 +30,7 @@
 - [学习腌](./tips/learn/学习腌.md)
 - [学习蒸](./tips/learn/学习蒸.md)
 - [学习煮](./tips/learn/学习煮.md)
+- [去腥](./tips/learn/去腥.md)
 
 ## 菜谱
 
