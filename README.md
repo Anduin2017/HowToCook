@@ -22,6 +22,7 @@
 - [厨房准备](./tips/厨房准备.md)
 - [如何选择现在吃什么](./tips/如何选择现在吃什么.md)
 - [高压力锅](./tips/learn/高压力锅.md)
+- [去腥](./tips/learn/去腥.md)
 - [食品安全](./tips/learn/食品安全.md)
 - [微波炉](./tips/learn/微波炉.md)
 - [学习焯水](./tips/learn/学习焯水.md)
@@ -30,7 +31,6 @@
 - [学习腌](./tips/learn/学习腌.md)
 - [学习蒸](./tips/learn/学习蒸.md)
 - [学习煮](./tips/learn/学习煮.md)
-- [去腥](./tips/learn/去腥.md)
 
 ## 菜谱
 
