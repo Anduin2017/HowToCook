@@ -274,7 +274,7 @@
 - [可乐桶](./dishes/drink/可乐桶.md)
 - [奶茶](./dishes/drink/奶茶.md)
 - [奇异果菠菜特调](./dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md)
-- [石凉粉（冰粉）](./dishes/drink/石凉粉(冰粉)/石凉粉(冰粉).md)
+- [冰粉](./dishes/drink/石凉粉(冰粉)/冰粉.md)
 - [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
 - [酸梅汤（半成品加工）](./dishes/drink/酸梅汤（半成品加工）.md)
 - [泰国手标红茶](./dishes/drink/泰国手标红茶/泰国手标红茶.md)
