@@ -1,0 +1,6 @@
+
+# Prompt: Meat crab 300g,curry 15g,Coconut milk 100ml,an egg,onions 200g,five Garlic
+# NGPrompt: LowQuality+BadAnatomy
+# Steps: 25 - 50
+# Samper: K_eular_a
+# Seed: random
