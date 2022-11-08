@@ -138,6 +138,7 @@
 - [香菇滑鸡](./dishes/meat_dish/香菇滑鸡/香菇滑鸡.md)
 - [香煎五花肉](./dishes/meat_dish/香煎五花肉/香煎五花肉.md)
 - [小炒黄牛肉](./dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md)
+- [小炒鸡肝](./dishes/meat_dish/小炒鸡肝/小炒鸡肝.md)
 - [小炒肉](./dishes/meat_dish/小炒肉.md)
 - [新疆大盘鸡](./dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md)
 - [血浆鸭](./dishes/meat_dish/血浆鸭/血浆鸭.md)
@@ -150,7 +151,6 @@
 - [柱候牛腩](./dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
-- [小炒鸡肝](./dishes/meat_dish/小炒鸡肝/小炒鸡肝.md)
 
 ### 水产
 
