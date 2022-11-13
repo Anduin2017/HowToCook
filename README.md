@@ -151,6 +151,7 @@
 - [柱候牛腩](./dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
+- [杀猪菜](./dishes/meat_dish/杀猪菜.md)
 
 ### 水产
 
