@@ -180,6 +180,7 @@
 ### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+- [蛋煎糍粑](./dishes/breakfast/蛋煎糍粑.md)
 - [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
@@ -196,7 +197,6 @@
 - [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 - [蒸花卷](./dishes/breakfast/蒸花卷.md)
 - [蒸水蛋](./dishes/breakfast/蒸水蛋.md)
-- [蛋煎糍粑](./dishes/breakfast/蛋煎糍粑.md)
 
 ### 主食
 
