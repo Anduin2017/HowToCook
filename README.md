@@ -196,6 +196,7 @@
 - [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 - [蒸花卷](./dishes/breakfast/蒸花卷.md)
 - [蒸水蛋](./dishes/breakfast/蒸水蛋.md)
+- [蛋煎糍粑](./dishes/breakfast/蛋煎糍粑.md)
 
 ### 主食
 
