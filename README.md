@@ -138,6 +138,7 @@
 - [香菇滑鸡](./dishes/meat_dish/香菇滑鸡/香菇滑鸡.md)
 - [香煎五花肉](./dishes/meat_dish/香煎五花肉/香煎五花肉.md)
 - [小炒黄牛肉](./dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md)
+- [小炒鸡肝](./dishes/meat_dish/小炒鸡肝/小炒鸡肝.md)
 - [小炒肉](./dishes/meat_dish/小炒肉.md)
 - [新疆大盘鸡](./dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md)
 - [血浆鸭](./dishes/meat_dish/血浆鸭/血浆鸭.md)
@@ -179,6 +180,7 @@
 ### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+- [蛋煎糍粑](./dishes/breakfast/蛋煎糍粑.md)
 - [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
@@ -298,6 +300,7 @@
 
 - [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [草莓冰淇淋](./dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
+- [反沙芋头](./dishes/dessert/反沙芋头/反沙芋头.md)
 - [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 - [魔芋蛋糕](./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕/戚风蛋糕.md)
