@@ -121,6 +121,7 @@
 - [麻婆豆腐](./dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
 - [梅菜扣肉](./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
+- [杀猪菜](./dishes/meat_dish/杀猪菜.md)
 - [瘦肉土豆片](./dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
@@ -180,6 +181,7 @@
 ### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+- [蛋煎糍粑](./dishes/breakfast/蛋煎糍粑.md)
 - [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
@@ -265,6 +267,7 @@
 - [小米粥](./dishes/soup/小米粥.md)
 - [银耳莲子粥](./dishes/soup/银耳莲子粥/银耳莲子粥.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
+- [玉米排骨汤](./dishes/soup/玉米排骨汤/玉米排骨汤.md)
 
 ### 饮料
 
