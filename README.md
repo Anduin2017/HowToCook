@@ -240,6 +240,7 @@
 - [蒸卤面](./dishes/staple/蒸卤面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
+- [火腿饭团](./dishes/staple/火腿饭团/火腿饭团.md)
 
 ### 半成品加工
 
