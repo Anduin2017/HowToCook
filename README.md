@@ -212,6 +212,7 @@
 - [豆角焖面](./dishes/staple/豆角焖面/豆角焖面.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
 - [河南蒸面条](./dishes/staple/河南蒸面条/河南蒸面条.md)
+- [火腿饭团](./dishes/staple/火腿饭团/火腿饭团.md)
 - [基础牛奶面包](./dishes/staple/基础牛奶面包/基础牛奶面包.md)
 - [茄子肉煎饼](./dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
 - [鲣鱼海苔玉米饭](./dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md)
