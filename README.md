@@ -121,6 +121,7 @@
 - [麻婆豆腐](./dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
 - [梅菜扣肉](./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
+- [青椒土豆炒肉](./dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
 - [杀猪菜](./dishes/meat_dish/杀猪菜.md)
 - [山西过油肉](./dishes/meat_dish/山西过油肉.md)
 - [瘦肉土豆片](./dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md)
@@ -241,7 +242,6 @@
 - [蒸卤面](./dishes/staple/蒸卤面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
-- [火腿饭团](./dishes/staple/火腿饭团/火腿饭团.md)
 
 ### 半成品加工
 
@@ -306,13 +306,13 @@
 - [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [草莓冰淇淋](./dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
 - [反沙芋头](./dishes/dessert/反沙芋头/反沙芋头.md)
+- [咖啡椰奶冻](./dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 - [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 - [魔芋蛋糕](./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕/戚风蛋糕.md)
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
 - [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
-- [咖啡椰奶冻](./dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 
 ## 进阶知识学习
 
