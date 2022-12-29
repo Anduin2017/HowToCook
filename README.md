@@ -241,6 +241,7 @@
 - [蒸卤面](./dishes/staple/蒸卤面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
+- [火腿饭团](./dishes/staple/火腿饭团/火腿饭团.md)
 
 ### 半成品加工
 
@@ -311,6 +312,7 @@
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
 - [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
+- [咖啡椰奶冻](./dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 
 ## 进阶知识学习
 
