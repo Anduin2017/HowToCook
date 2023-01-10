@@ -1,0 +1,47 @@
+{% extends "base.html" %} {% block disqus %}
+<script src="https://giscus.app/client.js"
+        data-repo="Anduin2017/HowToCook"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkyNDM5NTA0MDg="
+        data-category="Show and tell"
+        data-category-id="DIC_kwDODopjSM4CBNA6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_tritanopia"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+<script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    /* Set palette on initial load */
+    var palette = __get("__palette")
+    if (palette && typeof palette.color === "object") {
+        var theme = palette.color.scheme === "default" ? "light" : "dark"
+        giscus.setAttribute("data-theme", theme)
+    }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function () {
+        var ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __get("__palette")
+            if (palette && typeof palette.color === "object") {
+                var theme = palette.color.scheme === "default" ? "light" : "dark"
+
+                /* Instruct Giscus to change theme */
+                var frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage(
+                    {giscus: {setConfig: {theme}}},
+                    "https://giscus.app"
+                )
+            }
+        })
+    })
+</script>
+{% endblock %}
