@@ -121,6 +121,9 @@
 - [麻婆豆腐](./dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
 - [梅菜扣肉](./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
+- [青椒土豆炒肉](./dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
+- [杀猪菜](./dishes/meat_dish/杀猪菜.md)
+- [山西过油肉](./dishes/meat_dish/山西过油肉.md)
 - [瘦肉土豆片](./dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
@@ -138,6 +141,7 @@
 - [香菇滑鸡](./dishes/meat_dish/香菇滑鸡/香菇滑鸡.md)
 - [香煎五花肉](./dishes/meat_dish/香煎五花肉/香煎五花肉.md)
 - [小炒黄牛肉](./dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md)
+- [小炒鸡肝](./dishes/meat_dish/小炒鸡肝/小炒鸡肝.md)
 - [小炒肉](./dishes/meat_dish/小炒肉.md)
 - [新疆大盘鸡](./dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md)
 - [血浆鸭](./dishes/meat_dish/血浆鸭/血浆鸭.md)
@@ -179,6 +183,7 @@
 ### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+- [蛋煎糍粑](./dishes/breakfast/蛋煎糍粑.md)
 - [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
@@ -208,6 +213,7 @@
 - [豆角焖面](./dishes/staple/豆角焖面/豆角焖面.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
 - [河南蒸面条](./dishes/staple/河南蒸面条/河南蒸面条.md)
+- [火腿饭团](./dishes/staple/火腿饭团/火腿饭团.md)
 - [基础牛奶面包](./dishes/staple/基础牛奶面包/基础牛奶面包.md)
 - [茄子肉煎饼](./dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
 - [鲣鱼海苔玉米饭](./dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md)
@@ -225,7 +231,7 @@
 - [披萨饼皮](./dishes/staple/披萨饼皮/披萨饼皮.md)
 - [热干面](./dishes/staple/热干面.md)
 - [日式咖喱饭](./dishes/staple/日式咖喱饭/日式咖喱饭.md)
-- [烧饼](./dishes/staple/烧饼/烧饼.md)
+- [芝麻烧饼](./dishes/staple/烧饼/芝麻烧饼.md)
 - [手工水饺](./dishes/staple/手工水饺.md)
 - [酸辣蕨根粉](./dishes/staple/酸辣蕨根粉.md)
 - [汤面](./dishes/staple/汤面.md)
@@ -263,6 +269,7 @@
 - [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 - [小米粥](./dishes/soup/小米粥.md)
 - [银耳莲子粥](./dishes/soup/银耳莲子粥/银耳莲子粥.md)
+- [玉米排骨汤](./dishes/soup/玉米排骨汤/玉米排骨汤.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
 ### 饮料
@@ -298,6 +305,8 @@
 
 - [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [草莓冰淇淋](./dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
+- [反沙芋头](./dishes/dessert/反沙芋头/反沙芋头.md)
+- [咖啡椰奶冻](./dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 - [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 - [魔芋蛋糕](./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕/戚风蛋糕.md)
