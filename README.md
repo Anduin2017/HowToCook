@@ -314,6 +314,12 @@
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
 - [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
 
+### 中国名菜
+
+## 陕西名菜
+
+-- [带把肘子](./dishes/chinese_famous_cuisine/Shaanxi_cuisine/带把肘子.md)
+
 ## 进阶知识学习
 
 如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
