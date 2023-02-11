@@ -319,6 +319,7 @@
 #### 陕西名菜
 
 - [带把肘子](./dishes/chinese_famous_cuisine/Shaanxi_cuisine/带把肘子.md)
+- [商芝肉](./dishes/chinese_famous_cuisine/Shaanxi_cuisine/商芝肉.md)
 
 ## 进阶知识学习
 
