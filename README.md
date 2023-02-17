@@ -36,7 +36,7 @@
 
 ### 家常菜
 
-#### 素菜
+### 素菜
 
 - [拔丝土豆](./dishes/vegetable_dish/拔丝土豆/拔丝土豆.md)
 - [白灼菜心](./dishes/vegetable_dish/白灼菜心/白灼菜心.md)
@@ -87,7 +87,7 @@
 - [小炒藕丁](./dishes/vegetable_dish/小炒藕丁/小炒藕丁.md)
 - [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
 
-#### 荤菜
+### 荤菜
 
 - [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
 - [冬瓜酿肉](./dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
@@ -156,7 +156,7 @@
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
 
-#### 水产
+### 水产
 
 - [白灼虾](./dishes/aquatic/白灼虾/白灼虾.md)
 - [鳊鱼炖豆腐](./dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
@@ -181,7 +181,7 @@
 - [小龙虾](./dishes/aquatic/小龙虾/小龙虾.md)
 - [油焖大虾](./dishes/aquatic/油焖大虾/油焖大虾.md)
 
-#### 早餐
+### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 - [蛋煎糍粑](./dishes/breakfast/蛋煎糍粑.md)
@@ -202,7 +202,7 @@
 - [蒸花卷](./dishes/breakfast/蒸花卷.md)
 - [蒸水蛋](./dishes/breakfast/蒸水蛋.md)
 
-#### 主食
+### 主食
 
 - [炒方便面](./dishes/staple/炒方便面.md)
 - [炒河粉](./dishes/staple/炒河粉.md)
@@ -244,7 +244,7 @@
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
 
-#### 半成品加工
+### 半成品加工
 
 - [半成品意面](./dishes/semi-finished/半成品意面.md)
 - [空气炸锅鸡翅中](./dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md)
@@ -257,7 +257,7 @@
 - [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 - [炸薯条](./dishes/semi-finished/炸薯条/炸薯条.md)
 
-#### 汤与粥
+### 汤与粥
 
 - [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 - [勾芡香菇汤](./dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
@@ -273,7 +273,7 @@
 - [玉米排骨汤](./dishes/soup/玉米排骨汤/玉米排骨汤.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
-#### 饮料
+### 饮料
 
 - [耙耙柑茶](./dishes/drink/耙耙柑茶/耙耙柑茶.md)
 - [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
@@ -291,7 +291,7 @@
 - [B52轰炸机](./dishes/drink/B52轰炸机.md)
 - [Mojito莫吉托](./dishes/drink/Mojito莫吉托.md)
 
-#### 酱料和其它材料
+### 酱料和其它材料
 
 - [草莓酱](./dishes/condiment/草莓酱/草莓酱.md)
 - [蒜香酱油](./dishes/condiment/蒜香酱油.md)
@@ -302,7 +302,7 @@
 - [炸串酱料](./dishes/condiment/炸串酱料.md)
 - [蔗糖糖浆](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
 
-#### 甜品
+### 甜品
 
 - [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [草莓冰淇淋](./dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
@@ -314,13 +314,6 @@
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
 - [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
-
-### 中国名菜
-
-#### 陕西名菜
-
-- [带把肘子](./dishes/chinese_famous_cuisine/Shaanxi_cuisine/带把肘子.md)
-- [商芝肉](./dishes/chinese_famous_cuisine/Shaanxi_cuisine/商芝肉.md)
 
 ## 进阶知识学习
 
