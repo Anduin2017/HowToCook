@@ -90,6 +90,7 @@
 ### 荤菜
 
 - [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
+- [带把肘子](./dishes/meat_dish/带把肘子.md)
 - [冬瓜酿肉](./dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
 - [番茄红酱](./dishes/meat_dish/番茄红酱.md)
 - [干煸仔鸡](./dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
@@ -125,6 +126,7 @@
 - [青椒土豆炒肉](./dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
 - [杀猪菜](./dishes/meat_dish/杀猪菜.md)
 - [山西过油肉](./dishes/meat_dish/山西过油肉.md)
+- [商芝肉](./dishes/meat_dish/商芝肉.md)
 - [瘦肉土豆片](./dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
