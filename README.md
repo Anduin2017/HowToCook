@@ -111,6 +111,7 @@
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
 - [酱排骨](./dishes/meat_dish/酱排骨/酱排骨.md)
 - [咖喱肥牛](./dishes/meat_dish/咖喱肥牛/咖喱肥牛.md)
+- [烤鸡翅](./dishes/meat_dish/烤鸡翅.md)
 - [可乐鸡翅](./dishes/meat_dish/可乐鸡翅.md)
 - [口水鸡](./dishes/meat_dish/口水鸡/口水鸡.md)
 - [辣椒炒肉](./dishes/meat_dish/辣椒炒肉.md)
@@ -150,6 +151,7 @@
 - [血浆鸭](./dishes/meat_dish/血浆鸭/血浆鸭.md)
 - [羊排焖面](./dishes/meat_dish/羊排焖面/羊排焖面.md)
 - [洋葱炒猪肉](./dishes/meat_dish/洋葱炒猪肉.md)
+- [意式烤鸡](./dishes/meat_dish/意式烤鸡.md)
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
 - [猪皮冻](./dishes/meat_dish/猪皮冻/猪皮冻.md)
@@ -157,8 +159,6 @@
 - [柱候牛腩](./dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
-- [烤鸡翅](./dishes/meat_dish/烤鸡翅.md)
-- [意式烤鸡](./dishes/meat_dish/意式烤鸡.md)
 
 ### 水产
 
@@ -264,6 +264,7 @@
 ### 汤与粥
 
 - [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+- [番茄牛肉蛋花汤](./dishes/soup/番茄牛肉蛋花汤.md)
 - [勾芡香菇汤](./dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
 - [金针菇汤](./dishes/soup/金针菇汤.md)
 - [菌菇炖乳鸽](./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
@@ -276,7 +277,6 @@
 - [银耳莲子粥](./dishes/soup/银耳莲子粥/银耳莲子粥.md)
 - [玉米排骨汤](./dishes/soup/玉米排骨汤/玉米排骨汤.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
-- [番茄牛肉蛋花汤](./dishes/soup/番茄牛肉蛋花汤.md)
 
 ### 饮料
 
