@@ -102,6 +102,7 @@
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
+- [烤鸡翅](./dishes/meat_disk/烤鸡翅.md)
 
 ### 水产
 
@@ -181,6 +182,7 @@
 - [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 - [小米粥](./dishes/soup/小米粥.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
+- [番茄牛肉蛋花汤](./dishes/soup/番茄牛肉蛋花汤.md)
 
 ### 饮料
 
