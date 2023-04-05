@@ -157,6 +157,8 @@
 - [柱候牛腩](./dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
+- [烤鸡翅](./dishes/meat_dish/烤鸡翅.md)
+- [意式烤鸡](./dishes/meat_dish/意式烤鸡.md)
 
 ### 水产
 
@@ -274,6 +276,7 @@
 - [银耳莲子粥](./dishes/soup/银耳莲子粥/银耳莲子粥.md)
 - [玉米排骨汤](./dishes/soup/玉米排骨汤/玉米排骨汤.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
+- [番茄牛肉蛋花汤](./dishes/soup/番茄牛肉蛋花汤.md)
 
 ### 饮料
 
