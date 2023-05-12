@@ -7,7 +7,7 @@ tput setaf 2; echo "Cleaning up..."; tput sgr0
 rm ./node_modules -rf
 
 tput setaf 2; echo "Installing markdown lint"; tput sgr0
-gem install mdl
+gem install mdl || sudo gem install mdl
 
 tput setaf 2; echo "Generating new readme and mkdocs"; tput sgr0
 node ./.github/readme-generate.js
