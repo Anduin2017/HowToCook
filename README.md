@@ -110,6 +110,7 @@
 - [姜葱捞鸡](./dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md)
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
 - [酱排骨](./dishes/meat_dish/酱排骨/酱排骨.md)
+- [椒盐排条](./dishes/meat_dish/椒盐排条.md)
 - [咖喱肥牛](./dishes/meat_dish/咖喱肥牛/咖喱肥牛.md)
 - [烤鸡翅](./dishes/meat_dish/烤鸡翅.md)
 - [可乐鸡翅](./dishes/meat_dish/可乐鸡翅.md)
