@@ -17,8 +17,6 @@
 
 在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
 
-## 做菜安全 ⚠：煮汤或用锅烧水或做耗时较长菜时千万别跑去敲代码，看好你的锅
-
 ## 做菜之前
 
 - [厨房准备](./tips/厨房准备.md)
@@ -274,6 +272,7 @@
 - [菌菇炖乳鸽](./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
 - [罗宋汤](./dishes/soup/罗宋汤.md)
 - [米粥](./dishes/soup/米粥.md)
+- [排骨苦瓜汤](./dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md)
 - [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
 - [生汆丸子汤](./dishes/soup/生汆丸子汤.md)
 - [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
