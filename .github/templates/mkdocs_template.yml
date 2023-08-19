@@ -10,7 +10,6 @@ docs_dir: .
 theme:
   name: material
   language: zh
-  custom_dir: overrides
   features:
     - content.code.annotate
     # - content.tabs.link
