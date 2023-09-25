@@ -81,7 +81,7 @@
 - [酸辣土豆丝](./dishes/vegetable_dish/酸辣土豆丝.md)
 - [糖拌西红柿](./dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
 - [莴笋叶煎饼](./dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md)
-- [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
+- [西红柿炒鸡蛋/番茄炒蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 - [西红柿豆腐汤羹](./dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
@@ -319,3 +319,4 @@
 - [辅料技巧](./tips/advanced/辅料技巧.md)
 - [高级专业术语](./tips/advanced/高级专业术语.md)
 - [油温判断技巧](./tips/advanced/油温判断技巧.md)
+
