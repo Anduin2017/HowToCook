@@ -16,7 +16,7 @@ tput setaf 2; echo "Running markdown lint to check issues."; tput sgr0
 mdl ./dishes ./tips -r ~MD036,~MD024,~MD004,~MD029,~MD013,~MD007
 
 tput setaf 2; echo "Installing python requirements..."; tput sgr0
-pip install -r requirements.txt
+pip install -r requirements.txt --break-system-packages
 
 tput setaf 2; echo "Builidng mkdocs and checking links..."; tput sgr0
 mkdocs build --strict
