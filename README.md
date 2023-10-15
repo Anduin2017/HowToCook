@@ -51,7 +51,6 @@
 - [干锅花菜](./dishes/vegetable_dish/干锅花菜/干锅花菜.md)
 - [蚝油三鲜菇](./dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md)
 - [蚝油生菜](./dishes/vegetable_dish/蚝油生菜.md)
-- [荷兰豆炒腊肠](./dishes/vegetable_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md)
 - [红烧冬瓜](./dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md)
 - [红烧茄子](./dishes/vegetable_dish/红烧茄子.md)
 - [虎皮青椒](./dishes/vegetable_dish/虎皮青椒/虎皮青椒.md)
@@ -97,6 +96,7 @@
 - [干煸仔鸡](./dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
 - [宫保鸡丁](./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](./dishes/meat_dish/咕噜肉.md)
+- [荷兰豆炒腊肠](./dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md)
 - [黑椒牛柳](./dishes/meat_dish/黑椒牛柳/黑椒牛柳.md)
 - [简易红烧肉](./dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](./dishes/meat_dish/红烧肉/南派红烧肉.md)
@@ -126,6 +126,7 @@
 - [麻婆豆腐](./dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
 - [梅菜扣肉](./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
+- [黔式腊肠娃娃菜](./dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md)
 - [青椒土豆炒肉](./dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
 - [肉饼炖蛋](./dishes/meat_dish/肉饼炖蛋.md)
 - [杀猪菜](./dishes/meat_dish/杀猪菜.md)
@@ -162,7 +163,6 @@
 - [柱候牛腩](./dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
-- [黔式腊肠娃娃菜](./dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md)
 
 ### 水产
 
