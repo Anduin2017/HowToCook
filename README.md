@@ -158,6 +158,7 @@
 - [意式烤鸡](./dishes/meat_dish/意式烤鸡.md)
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
+- [枝竹羊腩煲](./dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md)
 - [猪皮冻](./dishes/meat_dish/猪皮冻/猪皮冻.md)
 - [猪肉烩酸菜](./dishes/meat_dish/猪肉烩酸菜.md)
 - [柱候牛腩](./dishes/meat_dish/柱候牛腩/柱候牛腩.md)
