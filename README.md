@@ -325,6 +325,7 @@
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
 - [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
+- [玛格丽特饼干](./dishes/dessert/玛格丽特饼干/玛格丽特饼干.md)
 
 ## 进阶知识学习
 
