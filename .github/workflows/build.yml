@@ -5,17 +5,14 @@ on:
     branches: [ master ]
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   Rebuild-everything:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone 
-        uses: actions/checkout@v3
+      # Checkout, install tools..
+      - uses: actions/checkout@v2
         with:
-          persist-credentials: 'true'
+          token: ${{ secrets.PAT }}
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
@@ -34,13 +31,14 @@ jobs:
       - run: ./node_modules/.bin/textlint . --fix
       - run: rm ./node_modules -rvf
       # Save files.
-      - name: Push changes
-        run: |
-            git config user.name github-actions[bot]
-            git config user.email github-actions[bot]@users.noreply.github.com
-            git add .
-            git commit -m "[ci skip] Automatic file changes/fix v2"
-            git push
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: '[ci skip] Automatic file changes/fix'
+          branch: 'master'
+          file_pattern: ':/*.*'
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
       # Build docs
       - run: echo cook.aiurs.co > CNAME
       - run: mkdir docs && echo cook.aiurs.co > docs/CNAME
