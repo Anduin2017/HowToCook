@@ -5,14 +5,17 @@ on:
     branches: [ master ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   Rebuild-everything:
     runs-on: ubuntu-latest
     steps:
-      # Checkout, install tools..
-      - uses: actions/checkout@v2
+      - name: Clone 
+        uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PAT }}
+          persist-credentials: 'true'
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
