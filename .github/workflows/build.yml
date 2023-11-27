@@ -34,14 +34,13 @@ jobs:
       - run: ./node_modules/.bin/textlint . --fix
       - run: rm ./node_modules -rvf
       # Save files.
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: '[ci skip] Automatic file changes/fix'
-          branch: 'master'
-          file_pattern: ':/*.*'
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
-          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+      - name: Push changes
+        run: |
+            git config user.name github-actions[bot]
+            git config user.email github-actions[bot]@users.noreply.github.com
+            git add .
+            git commit -m "[ci skip] Automatic file changes/fix v2"
+            git push
       # Build docs
       - run: echo cook.aiurs.co > CNAME
       - run: mkdir docs && echo cook.aiurs.co > docs/CNAME
