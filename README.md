@@ -208,6 +208,7 @@
 - [溏心蛋](./dishes/breakfast/溏心蛋.md)
 - [吐司果酱](./dishes/breakfast/吐司果酱.md)
 - [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
+- [微波炉荷包蛋](./dishes/breakfast/微波炉荷包蛋.md)
 - [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 - [蒸花卷](./dishes/breakfast/蒸花卷.md)
 - [蒸水蛋](./dishes/breakfast/蒸水蛋.md)
