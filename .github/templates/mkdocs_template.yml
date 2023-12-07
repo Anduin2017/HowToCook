@@ -14,19 +14,20 @@ theme:
     - content.code.annotate
     # - content.tabs.link
     # - header.autohide
-    #- navigation.expand
-    #- navigation.indexes
+    # - navigation.expand
+    # - navigation.indexes
     - navigation.instant
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.footer
     - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
-    # # - toc.integrate
+    # - toc.integrate
   search_index_only: true
   palette:
     - media: "(prefers-color-scheme: light)"

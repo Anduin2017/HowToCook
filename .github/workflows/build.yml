@@ -23,7 +23,7 @@ jobs:
       - run: node ./.github/readme-generate.js
       # Lint issues first. (Without node_modules)
       - name: Lint markdown files
-        run: mdl . -r ~MD036,~MD024,~MD004,~MD029,~MD013
+        run: mdl . -r ~MD036,~MD024,~MD004,~MD029,~MD013,~MD007
       - run: pip install -r requirements.txt
       - run: mkdocs build --strict
       # Do textlint fix.
