@@ -285,7 +285,7 @@
 - [小米粥](./dishes/soup/小米粥.md)
 - [银耳莲子粥](./dishes/soup/银耳莲子粥/银耳莲子粥.md)
 - [玉米排骨汤](./dishes/soup/玉米排骨汤/玉米排骨汤.md)
-- [玉米排骨汤](./dishes/soup/陈皮排骨汤/陈皮排骨汤.md)
+- [陈皮排骨汤](./dishes/soup/陈皮排骨汤/陈皮排骨汤.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
 ### 饮料
