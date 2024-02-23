@@ -191,6 +191,7 @@
 - [香煎翘嘴鱼](./dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md)
 - [小龙虾](./dishes/aquatic/小龙虾/小龙虾.md)
 - [油焖大虾](./dishes/aquatic/油焖大虾/油焖大虾.md)
+- [油焖大虾](./dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md)
 
 ### 早餐
 
