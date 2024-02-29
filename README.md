@@ -180,6 +180,8 @@
 - [红烧鱼头](./dishes/aquatic/红烧鱼头.md)
 - [黄油煎虾](./dishes/aquatic/黄油煎虾/黄油煎虾.md)
 - [烤鱼](./dishes/aquatic/混合烤鱼/烤鱼.md)
+- [芥末黄油罗氏虾](./dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md)
+- [芥末黄油罗氏虾](./dishes/aquatic/芥末黄油罗氏虾.md)
 - [咖喱炒蟹](./dishes/aquatic/咖喱炒蟹.md)
 - [鲤鱼炖白菜](./dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
 - [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
@@ -272,6 +274,8 @@
 ### 汤与粥
 
 - [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+- [陈皮排骨汤](./dishes/soup/陈皮排骨汤/陈皮排骨汤.md)
+- [陈皮排骨汤](./dishes/soup/陈皮排骨汤.md)
 - [番茄牛肉蛋花汤](./dishes/soup/番茄牛肉蛋花汤.md)
 - [勾芡香菇汤](./dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
 - [金针菇汤](./dishes/soup/金针菇汤.md)
