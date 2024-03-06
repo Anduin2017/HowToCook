@@ -323,6 +323,7 @@
 ### 甜品
 
 - [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
+- [英式司康](./dishes/dessert/伯爵茶司康/英式司康.md)
 - [草莓冰淇淋](./dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
 - [反沙芋头](./dishes/dessert/反沙芋头/反沙芋头.md)
 - [咖啡椰奶冻](./dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
