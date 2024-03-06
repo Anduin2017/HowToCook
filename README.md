@@ -312,6 +312,7 @@
 ### 酱料和其它材料
 
 - [草莓酱](./dishes/condiment/草莓酱/草莓酱.md)
+- [葱油](./dishes/condiment/葱油.md)
 - [蒜香酱油](./dishes/condiment/蒜香酱油.md)
 - [糖醋汁](./dishes/condiment/糖醋汁.md)
 - [糖色](./dishes/condiment/糖色.md)
@@ -330,6 +331,7 @@
 - [玛格丽特饼干](./dishes/dessert/玛格丽特饼干/玛格丽特饼干.md)
 - [魔芋蛋糕](./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕/戚风蛋糕.md)
+- [酸奶意式奶冻](./dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md)
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
 - [英式司康](./dishes/dessert/英式司康/英式司康.md)
