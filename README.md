@@ -296,6 +296,7 @@
 - [耙耙柑茶](./dishes/drink/耙耙柑茶/耙耙柑茶.md)
 - [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 - [冰粉](./dishes/drink/冰粉/冰粉.md)
+- [菠萝咖啡特调](./dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md)
 - [金菲士](./dishes/drink/金菲士/金菲士.md)
 - [金汤力](./dishes/drink/金汤力/金汤力.md)
 - [可乐桶](./dishes/drink/可乐桶.md)
