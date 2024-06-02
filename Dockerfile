@@ -10,7 +10,7 @@ RUN node ./.github/readme-generate.js
 FROM hub.aiursoft.cn/python:3.11 as python-env
 WORKDIR /app
 COPY --from=node-env /app .
-RUN pip install -r requirements.txt
+RUN pip install -r requirements.txt && rm node_modules -rf
 RUN mkdocs build --strict
 
 # ============================
