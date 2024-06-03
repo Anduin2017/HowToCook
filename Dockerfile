@@ -24,3 +24,5 @@ RUN mkdocs build
 # Prepare Runtime Environment
 FROM hub.aiursoft.cn/aiursoft/static
 COPY --from=python-env /app/site /data
+
+LABEL org.opencontainers.image.source="https://github.com/Anduin2017/HowToCook"
