@@ -72,9 +72,13 @@ plugins:
   - same-dir
   - search
   - with-pdf:
-      copyright: CC0 The Unlicense
-      cover_subtitle: How To Cook
+      author: GitHub Community
+      copyright: The Unlicense
+      cover_title: How To Cook
+      cover_subtitle: 程序员做饭指南
+      back_cover: true
       output_path: document.pdf
+      show_anchors: true
   - minify:
       minify_html: true
 
