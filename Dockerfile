@@ -11,7 +11,8 @@ FROM hub.aiursoft.cn/python:3.11 as python-env
 WORKDIR /app
 COPY --from=node-env /app .
 RUN pip install -r requirements.txt && rm node_modules -rf
-RUN mkdocs build --strict
+RUN apt-get update && apt-get install -y weasyprint fonts-noto-cjk
+RUN mkdocs build
 
 # ============================
 # Prepare Runtime Environment
