@@ -76,10 +76,7 @@ plugins:
       copyright: The Unlicense
       cover_title: How To Cook
       cover_subtitle: 程序员做饭指南
-      back_cover: true
       output_path: document.pdf
-      show_anchors: true
-      toc_level: 4
   - minify:
       minify_html: true
 
