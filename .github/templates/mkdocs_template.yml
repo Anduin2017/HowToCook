@@ -74,7 +74,7 @@ plugins:
   - with-pdf:
       copyright: CC0 The Unlicense
       cover_subtitle: How To Cook
-      output_path: ./site/document.pdf
+      output_path: document.pdf
   - minify:
       minify_html: true
 
