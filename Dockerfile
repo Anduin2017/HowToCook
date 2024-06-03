@@ -16,7 +16,7 @@ RUN wget https://gitlab.aiursoft.cn/anduin/anduinos/-/raw/master/Config/fonts.co
 RUN wget -P /tmp https://gitlab.aiursoft.cn/anduin/anduinos/-/raw/master/Assets/fonts.zip
 RUN unzip -o /tmp/fonts.zip -d /usr/share/fonts/
 RUN rm -f /tmp/fonts.zip
-RUN sudo fc-cache -fv
+RUN fc-cache -fv
 
 RUN mkdocs build
 
