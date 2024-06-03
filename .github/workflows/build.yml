@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 jobs:
-  Rebuild-everything:
+  build-readme-file:
     runs-on: ubuntu-latest
     steps:
       # Checkout, install tools..
@@ -29,6 +29,14 @@ jobs:
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
 
+  build-docker-image:
+    needs: build-readme-file
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout, install tools..
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
       # Use docker to build current directory ./Dockfile
       - name: Login to GitHub Container Registry
         uses: docker/login-action@v1
