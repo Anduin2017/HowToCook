@@ -17,10 +17,8 @@ jobs:
         with:
           node-version: '16'
           cache: 'npm'
-      # Generate Readme, mkdocs.
-      - run: node ./.github/readme-generate.js
-      # Lint issues first. (Without node_modules)
       - run: npm install
+      - run: npm run build
       - run: npm run lint
       # Save files.
       - uses: stefanzweifel/git-auto-commit-action@v4
@@ -31,17 +29,6 @@ jobs:
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-      # Build docs
-
-      # Deprecated. Now use docker.
-      # - run: echo cook.aiurs.co > CNAME
-      # - run: mkdir docs && echo cook.aiurs.co > docs/CNAME
-      # - uses: mhausenblas/mkdocs-deploy-gh-pages@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #     CUSTOM_DOMAIN: cook.aiurs.co
-      #     CONFIG_FILE: mkdocs.yml
-      #     REQUIREMENTS: requirements.txt
 
       # Use docker to build current directory ./Dockfile
       - name: Login to GitHub Container Registry
@@ -51,7 +38,7 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build the hello-world Docker image
+      - name: Build and push the Docker image
         run: |
           docker build . --tag ghcr.io/anduin2017/how-to-cook:latest
           docker push ghcr.io/anduin2017/how-to-cook:latest
