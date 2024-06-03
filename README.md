@@ -1,7 +1,7 @@
 # 程序员做饭指南
 
 [![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
-[![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
 ![Man hours](https://manhours.aiursoft.cn/r/github.com/anduin2017/howtocook.svg)
@@ -341,10 +341,6 @@
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
 - [英式司康](./dishes/dessert/英式司康/英式司康.md)
 - [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
-
-### 示例菜
-
-- [示例菜](./dishes/template/示例菜/示例菜.md)
 
 ## 进阶知识学习
 

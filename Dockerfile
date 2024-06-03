@@ -11,7 +11,13 @@ FROM hub.aiursoft.cn/python:3.11 as python-env
 WORKDIR /app
 COPY --from=node-env /app .
 RUN pip install -r requirements.txt && rm node_modules -rf
-RUN apt-get update && apt-get install -y weasyprint fonts-noto-cjk
+RUN apt-get update && apt-get install -y weasyprint fonts-noto-cjk wget unzip
+RUN wget https://gitlab.aiursoft.cn/anduin/anduinos/-/raw/master/Config/fonts.conf -O /etc/fonts/local.conf
+RUN wget -P /tmp https://gitlab.aiursoft.cn/anduin/anduinos/-/raw/master/Assets/fonts.zip
+RUN unzip -o /tmp/fonts.zip -d /usr/share/fonts/
+RUN rm -f /tmp/fonts.zip
+RUN sudo fc-cache -fv
+
 RUN mkdocs build
 
 # ============================
