@@ -72,12 +72,13 @@ plugins:
   - same-dir
   - search
   - with-pdf:
+      author: GitHub Community
+      copyright: The Unlicense
       cover_title: How To Cook
       cover_subtitle: 程序员做饭指南
       back_cover: true
-      two_columns_level: 3
-      render_js: true
       output_path: document.pdf
+      show_anchors: true
   - minify:
       minify_html: true
 
@@ -393,9 +394,6 @@ nav:
           - 雪花酥: ./dishes/dessert/雪花酥/雪花酥.md
           - 英式司康: ./dishes/dessert/英式司康/英式司康.md
           - 芋泥雪媚娘: ./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md
-
-      - 示例菜:
-          - 示例菜: ./dishes/template/示例菜/示例菜.md
 
   - 进阶知识学习:
       - 辅料技巧: ./tips/advanced/辅料技巧.md
