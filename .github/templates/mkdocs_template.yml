@@ -79,6 +79,7 @@ plugins:
       back_cover: true
       output_path: document.pdf
       show_anchors: true
+      toc_level: 4
   - minify:
       minify_html: true
 
