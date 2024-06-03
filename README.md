@@ -15,14 +15,14 @@
 
 ## 本地部署
 
-如果需要在本地阅读这个仓库，可以在安装　Docker 后运行以下命令：
+如果需要在本地部署菜谱 Web 服务，可以在安装　Docker 后运行下面命令：
 
 ```bash
 docker pull ghcr.io/anduin2017/how-to-cook:latest
 docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 ```
 
-下载 PDF 版本，可以在浏览器中访问 [/document.pdf](https://cook.aiursoft.cn/document.pdf)
+如需下载 PDF 版本，可以在浏览器中访问 [/document.pdf](https://cook.aiursoft.cn/document.pdf)
 
 ## 如何贡献
 
