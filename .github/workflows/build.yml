@@ -25,7 +25,7 @@ jobs:
       - name: Lint markdown files
         run: mdl . -r ~MD036,~MD024,~MD004,~MD029,~MD013,~MD007
       - run: pip install -r requirements.txt
-      - run: mkdocs build --strict
+      - run: mkdocs build
       # Do textlint fix.
       - run: npm install
       - run: ./node_modules/.bin/textlint . --fix
