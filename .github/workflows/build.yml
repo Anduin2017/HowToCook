@@ -35,8 +35,6 @@ jobs:
     steps:
       # Checkout, install tools..
       - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.PAT }}
       # Use docker to build current directory ./Dockfile
       - name: Login to GitHub Container Registry
         uses: docker/login-action@v1
