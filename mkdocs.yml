@@ -71,6 +71,7 @@ markdown_extensions:
 plugins:
   - same-dir
   - search
+  - with-pdf
   - minify:
       minify_html: true
 
