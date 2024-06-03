@@ -40,11 +40,27 @@ jobs:
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
       # Build docs
-      - run: echo cook.aiurs.co > CNAME
-      - run: mkdir docs && echo cook.aiurs.co > docs/CNAME
-      - uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: cook.aiurs.co
-          CONFIG_FILE: mkdocs.yml
-          REQUIREMENTS: requirements.txt
+
+      # Deprecated. Now use docker.
+      # - run: echo cook.aiurs.co > CNAME
+      # - run: mkdir docs && echo cook.aiurs.co > docs/CNAME
+      # - uses: mhausenblas/mkdocs-deploy-gh-pages@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #     CUSTOM_DOMAIN: cook.aiurs.co
+      #     CONFIG_FILE: mkdocs.yml
+      #     REQUIREMENTS: requirements.txt
+
+      # Use docker to build current directory ./Dockfile
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build the hello-world Docker image
+        run: |
+          docker build . --tag ghcr.io/anduin2017/how-to-cook:latest
+          docker run ghcr.io/anduin2017/how-to-cook:latest
+          docker push ghcr.io/anduin2017/how-to-cook:latest
