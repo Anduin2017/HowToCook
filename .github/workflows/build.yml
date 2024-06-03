@@ -54,5 +54,4 @@ jobs:
       - name: Build the hello-world Docker image
         run: |
           docker build . --tag ghcr.io/anduin2017/how-to-cook:latest
-          docker run ghcr.io/anduin2017/how-to-cook:latest
           docker push ghcr.io/anduin2017/how-to-cook:latest
