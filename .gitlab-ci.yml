@@ -1,8 +1,0 @@
-stages:
-  - deploy
-
-deploy_docker:
-  stage: deploy
-  script:
-    - docker build . -t hub.aiursoft.cn/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:latest
-    - docker push hub.aiursoft.cn/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:latest

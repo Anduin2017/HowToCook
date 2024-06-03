@@ -17,19 +17,11 @@ jobs:
         with:
           node-version: '16'
           cache: 'npm'
-      - name: Install packages
-        run: sudo gem install mdl
       # Generate Readme, mkdocs.
       - run: node ./.github/readme-generate.js
       # Lint issues first. (Without node_modules)
-      - name: Lint markdown files
-        run: mdl . -r ~MD036,~MD024,~MD004,~MD029,~MD013,~MD007
-      - run: pip install -r requirements.txt
-      - run: mkdocs build
-      # Do textlint fix.
       - run: npm install
-      - run: ./node_modules/.bin/textlint . --fix
-      - run: rm ./node_modules -rvf
+      - run: npm run lint
       # Save files.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
