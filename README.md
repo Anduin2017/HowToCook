@@ -287,6 +287,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 
 ### 汤与粥
 
+- [鲫鱼豆腐汤](./dishes/soup/鲫鱼豆腐汤.md)
 - [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
 - [陈皮排骨汤](./dishes/soup/陈皮排骨汤/陈皮排骨汤.md)
 - [陈皮排骨汤](./dishes/soup/陈皮排骨汤.md)
