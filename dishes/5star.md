@@ -1,6 +1,6 @@
 # Dishes with 5 Stars
 
-* [戚风蛋糕.md](dishes\戚风蛋糕.md)
+* [戚风蛋糕.md](.dishes/戚风蛋糕.md)
 * [芋泥雪媚娘.md](dishes\芋泥雪媚娘.md)
 * [台式卤肉饭.md](dishes\台式卤肉饭.md)
 * [商芝肉.md](dishes\商芝肉.md)
