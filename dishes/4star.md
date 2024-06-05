@@ -1,4 +1,4 @@
-# Dishes with 4 Stars
+# 4star的做法!
 
 * [咖喱炒蟹](./aquatic/咖喱炒蟹.md)
 * [小龙虾](./aquatic/小龙虾/小龙虾.md)
