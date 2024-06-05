@@ -1,6 +1,6 @@
 const { readdir, writeFile, stat } = require('fs/promises');
 const fs = require('fs').promises;
-
+const path = require('path');
 const README_PATH = './README.md';
 
 const MKDOCS_PATH = 'mkdocs.yml';
