@@ -361,8 +361,8 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [高级专业术语](./tips/advanced/高级专业术语.md)
 - [油温判断技巧](./tips/advanced/油温判断技巧.md)
 ## 根据星级分类的菜谱
-- [5星级菜谱](.dishes\5star.md)
-- [4星级菜谱](.dishes\4star.md)
-- [3星级菜谱](.dishes\3star.md)
-- [2星级菜谱](.dishes\2star.md)
-- [1星级菜谱](.dishes\1star.md)
+- [5星级菜谱](./dishes/5star.md)
+- [4星级菜谱](./dishes/4star.md)
+- [3星级菜谱](./dishes/3star.md)
+- [2星级菜谱](./dishes/2star.md)
+- [1星级菜谱](./dishes/1star.md)
