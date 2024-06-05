@@ -1,4 +1,4 @@
-# 1star的做法!
+# 1star的做法
 
 * [吐司果酱](./breakfast/吐司果酱.md)
 * [微波炉荷包蛋](./breakfast/微波炉荷包蛋.md)
