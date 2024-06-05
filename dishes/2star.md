@@ -1,4 +1,4 @@
-# Dishes with 2 Stars
+# 2star的做法!
 
 * [白灼虾](./aquatic/白灼虾/白灼虾.md)
 * [蒜蓉虾](./aquatic/蒜蓉虾/蒜蓉虾.md)
