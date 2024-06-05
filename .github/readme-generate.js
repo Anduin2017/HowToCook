@@ -1,12 +1,10 @@
 const { readdir, writeFile, stat } = require('fs/promises');
 const fs = require('fs').promises;
 const path = require('path');
+
 const README_PATH = './README.md';
-
 const MKDOCS_PATH = 'mkdocs.yml';
-
 const dishesFolder = 'dishes';
-
 const starsystemFolder = 'starsystem';
 
 const ignorePaths = ['.git', 'README.md', 'node_modules', 'CONTRIBUTING.md', '.github'];
@@ -63,6 +61,7 @@ const categories = {
     mkdocs: '',
   },
 };
+
 async function countStars(filename) {
   const data = await fs.readFile(filename, 'utf-8');
   let stars = 0;
@@ -72,6 +71,7 @@ async function countStars(filename) {
   });
   return stars;
 }
+
 async function organizeByStars(dishesFolder, starsystemFolder) {
   const dishes = {};
 
@@ -88,6 +88,7 @@ async function organizeByStars(dishesFolder, starsystemFolder) {
       }
     }
   }
+
   const dishesFolderAbs = path.resolve(dishesFolder);
   const starsystemFolderAbs = path.resolve(starsystemFolder);
 
@@ -99,11 +100,12 @@ async function organizeByStars(dishesFolder, starsystemFolder) {
     console.log(`Directory not found: ${dishesFolderAbs}, creating directory...`);
     await fs.mkdir(dishesFolderAbs, { recursive: true });
   }
+
   await processFolder(dishesFolderAbs);
-  
+
   const starRatings = Array.from(new Set(Object.values(dishes))).sort((a, b) => b - a);
-  const navigationLinks = [];
-  
+  const navigationLinks = []; 
+
   for (const stars of starRatings) {
     const starsFile = path.join(starsystemFolderAbs, `${stars}Star.md`);
     const content = [`# Dishes with ${stars} Stars`, ''];
@@ -122,19 +124,20 @@ async function organizeByStars(dishesFolder, starsystemFolder) {
 
 async function main() {
   try {
-    let README_BEFORE = (README_MAIN = README_AFTER = '');
-    let MKDOCS_BEFORE = (MKDOCS_MAIN = MKDOCS_AFTER = '');
+    let README_BEFORE = '', README_MAIN = '', README_AFTER = '';
+    let MKDOCS_BEFORE = '', MKDOCS_MAIN = '', MKDOCS_AFTER = '';
     const markdownObj = await getAllMarkdown('.');
+    
     // Debug logging to understand the structure of markdownObj
     console.log("Markdown Object Structure:", JSON.stringify(markdownObj, null, 2));
     
     for (const markdown of markdownObj) {
+      console.log("Processing markdown:", markdown);
       if (markdown.path.includes('tips/advanced')) {
         README_AFTER += inlineReadmeTemplate(markdown.file, markdown.path);
         MKDOCS_AFTER += inlineMkdocsTemplate(markdown.file, markdown.path);
         continue;
       }
-      
 
       if (markdown.path.includes('tips')) {
         README_BEFORE += inlineReadmeTemplate(markdown.file, markdown.path);
@@ -157,8 +160,10 @@ async function main() {
       README_MAIN += categoryReadmeTemplate(category.title, category.readme);
       MKDOCS_MAIN += categoryMkdocsTemplate(category.title, category.mkdocs);
     }
+
     let MKDOCS_TEMPLATE;
     let README_TEMPLATE;
+
     try {
       MKDOCS_TEMPLATE = await fs.readFile("./.github/templates/mkdocs_template.yml", "utf-8");
     } catch (error) {
@@ -172,20 +177,19 @@ async function main() {
       README_TEMPLATE = `# My Project\n\n{{before}}\n\n{{main}}\n\n{{after}}`;
       console.warn("readme_template.md not found, using default template");
     }
+
     const navigationLinks = await organizeByStars(dishesFolder, starsystemFolder);
     // Debug logging to ensure navigationLinks is defined and contains data
     console.log("Navigation Links:", navigationLinks);
     const navigationSection = `\n## Navigation\n\n${navigationLinks.join('\n')}`;
 
-     
     await writeFile(
       README_PATH,
       README_TEMPLATE
         .replace('{{before}}', README_BEFORE.trim())
         .replace('{{main}}', README_MAIN.trim())
-        .replace('{{after}}', README_AFTER.trim()),
+        .replace('{{after}}', README_AFTER.trim())+ navigationSection,
     );
-
 
     await writeFile(
       MKDOCS_PATH,
@@ -194,6 +198,9 @@ async function main() {
         .replace('{{main}}', MKDOCS_MAIN)
         .replace('{{after}}', MKDOCS_AFTER),
     );
+
+    // Organize files by star rating
+    //await organizeByStars(dishesFolder, starsystemFolder);
   } catch (error) {
     console.error(error);
   }
@@ -202,21 +209,14 @@ async function main() {
 async function getAllMarkdown(dir) {
   const paths = [];
   const files = await readdir(dir);
-  // chinese alphabetic order
   files.sort((a, b) => a.localeCompare(b, 'zh-CN'));
 
-  // mtime order
-  // files.sort(async (a, b) => {
-  //   const aStat = await stat(`${path}/${a}`);
-  //   const bStat = await stat(`${path}/${b}`);
-  //   return aStat.mtime - bStat.mtime;
-  // });
   for (const file of files) {
     const filePath = path.join(dir, file);
     if (ignorePaths.includes(file)) continue;
     const fileStat = await stat(filePath);
     if (fileStat.isFile() && file.endsWith('.md')) {
-      paths.push({ path, file });
+      paths.push({ path: dir, file });
     } else if (fileStat.isDirectory()) {
       const subFiles = await getAllMarkdown(filePath);
       paths.push(...subFiles);
