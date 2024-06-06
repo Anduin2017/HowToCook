@@ -1,4 +1,4 @@
-# Dishes with 4 Stars
+# 4 星难度菜品
 
 * [咖喱炒蟹](./../dishes/aquatic/咖喱炒蟹.md)
 * [小龙虾](./../dishes/aquatic/小龙虾/小龙虾.md)

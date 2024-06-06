@@ -1,4 +1,4 @@
-# Dishes with 5 Stars
+# 5 星难度菜品
 
 * [戚风蛋糕](./../dishes/dessert/戚风蛋糕/戚风蛋糕.md)
 * [芋泥雪媚娘](./../dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)

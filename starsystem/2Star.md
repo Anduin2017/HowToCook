@@ -1,4 +1,4 @@
-# Dishes with 2 Stars
+# 2 星难度菜品
 
 * [白灼虾](./../dishes/aquatic/白灼虾/白灼虾.md)
 * [蒜蓉虾](./../dishes/aquatic/蒜蓉虾/蒜蓉虾.md)

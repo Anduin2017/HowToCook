@@ -1,4 +1,4 @@
-# Dishes with 1 Stars
+# 1 星难度菜品
 
 * [吐司果酱](./../dishes/breakfast/吐司果酱.md)
 * [微波炉荷包蛋](./../dishes/breakfast/微波炉荷包蛋.md)

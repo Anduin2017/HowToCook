@@ -103,12 +103,12 @@ async function organizeByStars(dishesFolder, starsystemFolder) {
 
   await processFolder(dishesFolderAbs);
 
-  const starRatings = Array.from(new Set(Object.values(dishes))).sort((a, b) => b - a);
+  const starRatings = Array.from(new Set(Object.values(dishes))).sort((a, b) => a - b);
   const navigationLinks = []; 
 
   for (const stars of starRatings) {
     const starsFile = path.join(starsystemFolderAbs, `${stars}Star.md`);
-    const content = [`# Dishes with ${stars} Stars`, ''];
+    const content = [`# ${stars} 星难度菜品`, ''];
     for (const [filepath, starCount] of Object.entries(dishes)) {
       if (starCount === stars) {
         const relativePath = path.relative(starsystemFolderAbs, filepath).replace(/\\/g, '/');
@@ -116,7 +116,7 @@ async function organizeByStars(dishesFolder, starsystemFolder) {
       }
     }
     await writeFile(starsFile, content.join('\n'), 'utf-8');
-    navigationLinks.push(`- [${stars} Star Dishes](${path.relative(path.dirname(README_PATH), starsFile).replace(/\\/g, '/')})`);
+    navigationLinks.push(`- [${stars} 星难度](${path.relative(path.dirname(README_PATH), starsFile).replace(/\\/g, '/')})`);
     }
 
   return navigationLinks;
@@ -180,15 +180,16 @@ async function main() {
 
     const navigationLinks = await organizeByStars(dishesFolder, starsystemFolder);
     // Debug logging to ensure navigationLinks is defined and contains data
-    console.log("Navigation Links:", navigationLinks);
-    const navigationSection = `\n## Navigation\n\n${navigationLinks.join('\n')}`;
+    console.log("难度索引", navigationLinks);
+    const navigationSection = `\n### 按难度索引\n\n${navigationLinks.join('\n')}`;
 
     await writeFile(
       README_PATH,
       README_TEMPLATE
         .replace('{{before}}', README_BEFORE.trim())
+        .replace('{{index_stars}}', navigationSection.trim())
         .replace('{{main}}', README_MAIN.trim())
-        .replace('{{after}}', README_AFTER.trim())+ navigationSection,
+        .replace('{{after}}', README_AFTER.trim()),
     );
 
     await writeFile(

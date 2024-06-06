@@ -1,4 +1,4 @@
-# Dishes with 3 Stars
+# 3 星难度菜品
 
 * [干煎阿根廷红虾](./../dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md)
 * [微波葱姜黑鳕鱼](./../dishes/aquatic/微波葱姜黑鳕鱼.md)
