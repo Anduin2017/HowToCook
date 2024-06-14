@@ -173,6 +173,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [小炒黄牛肉](dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md)
 - [小炒鸡肝](dishes/meat_dish/小炒鸡肝/小炒鸡肝.md)
 - [小炒肉](dishes/meat_dish/小炒肉.md)
+- [小酥肉](dishes/meat_dish/小酥肉.md)
 - [新疆大盘鸡](dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md)
 - [血浆鸭](dishes/meat_dish/血浆鸭/血浆鸭.md)
 - [羊排焖面](dishes/meat_dish/羊排焖面/羊排焖面.md)

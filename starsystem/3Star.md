@@ -36,6 +36,7 @@
 * [孜然牛肉](./../dishes/meat_dish/孜然牛肉.md)
 * [小炒肉](./../dishes/meat_dish/小炒肉.md)
 * [小炒鸡肝](./../dishes/meat_dish/小炒鸡肝/小炒鸡肝.md)
+* [小酥肉](./../dishes/meat_dish/小酥肉.md)
 * [尖椒炒牛肉](./../dishes/meat_dish/尖椒炒牛肉.md)
 * [意式烤鸡](./../dishes/meat_dish/意式烤鸡.md)
 * [水煮牛肉](./../dishes/meat_dish/水煮牛肉/水煮牛肉.md)
