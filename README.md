@@ -318,6 +318,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [百香果橙子特调](dishes/drink/百香果橙子特调/百香果橙子特调.md)
 - [冰粉](dishes/drink/冰粉/冰粉.md)
 - [菠萝咖啡特调](dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md)
+- [冬瓜茶](dishes/drink/冬瓜茶.md)
 - [金菲士](dishes/drink/金菲士/金菲士.md)
 - [金汤力](dishes/drink/金汤力/金汤力.md)
 - [可乐桶](dishes/drink/可乐桶.md)
@@ -331,7 +332,6 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [长岛冰茶](dishes/drink/长岛冰茶.md)
 - [B52轰炸机](dishes/drink/B52轰炸机.md)
 - [Mojito莫吉托](dishes/drink/Mojito莫吉托.md)
-- [冬瓜茶](dishes/drink/冬瓜茶.md)
 
 ### 酱料和其它材料
 
