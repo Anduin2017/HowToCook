@@ -26,6 +26,7 @@
 * [金汤力](./../dishes/drink/金汤力/金汤力.md)
 * [金菲士](./../dishes/drink/金菲士/金菲士.md)
 * [长岛冰茶](./../dishes/drink/长岛冰茶.md)
+* [冬瓜茶](./../dishes/drink/冬瓜茶.md)
 * [荷兰豆炒腊肠](./../dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md)
 * [蒜苔炒肉末](./../dishes/meat_dish/蒜苔炒肉末.md)
 * [炸薯条](./../dishes/semi-finished/炸薯条/炸薯条.md)
