@@ -1,12 +1,11 @@
-name: build
+name: Continuous Deployment
 
 on:
   push:
     branches: [ master ]
-  workflow_dispatch:
 
 jobs:
-  Rebuild-everything:
+  build-readme-file:
     runs-on: ubuntu-latest
     steps:
       # Checkout, install tools..
@@ -17,19 +16,9 @@ jobs:
         with:
           node-version: '16'
           cache: 'npm'
-      - name: Install packages
-        run: sudo gem install mdl
-      # Generate Readme, mkdocs.
-      - run: node ./.github/readme-generate.js
-      # Lint issues first. (Without node_modules)
-      - name: Lint markdown files
-        run: mdl . -r ~MD036,~MD024,~MD004,~MD029,~MD013,~MD007
-      - run: pip install -r requirements.txt
-      - run: mkdocs build --strict
-      # Do textlint fix.
       - run: npm install
-      - run: ./node_modules/.bin/textlint . --fix
-      - run: rm ./node_modules -rvf
+      - run: npm run build
+      - run: npm run lint
       # Save files.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -39,12 +28,22 @@ jobs:
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-      # Build docs
-      - run: echo cook.aiurs.co > CNAME
-      - run: mkdir docs && echo cook.aiurs.co > docs/CNAME
-      - uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: cook.aiurs.co
-          CONFIG_FILE: mkdocs.yml
-          REQUIREMENTS: requirements.txt
+
+  build-docker-image:
+    needs: build-readme-file
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout, install tools..
+      - uses: actions/checkout@v2
+      # Use docker to build current directory ./Dockfile
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push the Docker image
+        run: |
+          docker build . --tag ghcr.io/anduin2017/how-to-cook:latest
+          docker push ghcr.io/anduin2017/how-to-cook:latest

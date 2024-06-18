@@ -6,3 +6,4 @@ site/
 
 .idea
 *.iml
+mkdocs.yml
