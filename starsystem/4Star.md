@@ -36,6 +36,7 @@
 * [柱候牛腩](./../dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 * [梅菜扣肉](./../dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 * [椒盐排条](./../dishes/meat_dish/椒盐排条.md)
+* [湘祁米夫鸭](./../dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md)
 * [番茄红酱](./../dishes/meat_dish/番茄红酱.md)
 * [糖醋排骨](./../dishes/meat_dish/糖醋排骨/糖醋排骨.md)
 * [糖醋里脊](./../dishes/meat_dish/糖醋里脊.md)

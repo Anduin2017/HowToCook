@@ -170,6 +170,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [香菇滑鸡](dishes/meat_dish/香菇滑鸡/香菇滑鸡.md)
 - [香煎五花肉](dishes/meat_dish/香煎五花肉/香煎五花肉.md)
 - [香辣鸡爪煲](dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md)
+- [湘祁米夫鸭](dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md)
 - [小炒黄牛肉](dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md)
 - [小炒鸡肝](dishes/meat_dish/小炒鸡肝/小炒鸡肝.md)
 - [小炒肉](dishes/meat_dish/小炒肉.md)
