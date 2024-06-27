@@ -18,6 +18,7 @@
 * [葱油](./../dishes/condiment/葱油.md)
 * [反沙芋头](./../dishes/dessert/反沙芋头/反沙芋头.md)
 * [奥利奥冰淇淋](./../dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
+* [炸鲜奶](./../dishes/dessert/炸鲜奶/炸鲜奶.md)
 * [玛格丽特饼干](./../dishes/dessert/玛格丽特饼干/玛格丽特饼干.md)
 * [英式司康](./../dishes/dessert/英式司康/英式司康.md)
 * [雪花酥](./../dishes/dessert/雪花酥/雪花酥.md)

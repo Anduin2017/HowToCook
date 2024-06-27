@@ -362,6 +362,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [雪花酥](dishes/dessert/雪花酥/雪花酥.md)
 - [英式司康](dishes/dessert/英式司康/英式司康.md)
 - [芋泥雪媚娘](dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
+- [炸鲜奶](dishes/dessert/炸鲜奶/炸鲜奶.md)
 
 ## 进阶知识学习
 
