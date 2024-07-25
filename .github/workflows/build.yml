@@ -11,7 +11,7 @@ jobs:
       # Checkout, install tools..
       - uses: actions/checkout@v4.1.7
         with:
-          token: ${{ secrets.PAT }}
+          token: ${{ github.token }}
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
