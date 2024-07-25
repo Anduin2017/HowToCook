@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/Anduin2017/HowToCook/issues"
   },
-  "homepage": "https://cook.aiursoft.cn",
+  "homepage": "https://cook.fengzhao.me",
   "dependencies": {
     "textlint": "^12.1.0",
     "textlint-rule-ja-space-between-half-and-full-width": "^2.2.0",
