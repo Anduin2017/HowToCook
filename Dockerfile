@@ -3,7 +3,7 @@
 FROM hub.aiursoft.cn/node:21-alpine as lint-env
 WORKDIR /app
 COPY . .
-RUN npm install
+RUN npm install --loglevel verbose
 RUN npm run build
 RUN npm run lint
 
