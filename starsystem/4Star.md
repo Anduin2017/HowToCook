@@ -63,6 +63,7 @@
 * [扬州炒饭](./../dishes/staple/扬州炒饭/扬州炒饭.md)
 * [披萨饼皮](./../dishes/staple/披萨饼皮/披萨饼皮.md)
 * [日式咖喱饭](./../dishes/staple/日式咖喱饭/日式咖喱饭.md)
+* [日式肥牛丼饭](./../dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md)
 * [河南蒸面条](./../dishes/staple/河南蒸面条/河南蒸面条.md)
 * [火腿饭团](./../dishes/staple/火腿饭团/火腿饭团.md)
 * [炒河粉](./../dishes/staple/炒河粉.md)

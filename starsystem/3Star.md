@@ -11,6 +11,7 @@
 * [鲤鱼炖白菜](./../dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
 * [鳊鱼炖豆腐](./../dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
 * [黄油煎虾](./../dishes/aquatic/黄油煎虾/黄油煎虾.md)
+* [温泉蛋](./../dishes/breakfast/温泉蛋/温泉蛋.md)
 * [溏心蛋](./../dishes/breakfast/溏心蛋.md)
 * [苏格兰蛋](./../dishes/breakfast/苏格兰蛋/苏格兰蛋.md)
 * [茶叶蛋](./../dishes/breakfast/茶叶蛋.md)
