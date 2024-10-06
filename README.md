@@ -261,6 +261,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [酱拌荞麦面](dishes/staple/酱拌荞麦面/酱拌荞麦面.md)
 - [空气炸锅照烧鸡饭](dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md)
 - [醪糟小汤圆](dishes/staple/醪糟小汤圆.md)
+- [韭菜盒子](dishes/staple/韭菜盒子.md)
 - [老干妈拌面](dishes/staple/老干妈拌面.md)
 - [老友猪肉粉](dishes/staple/老友猪肉粉/老友猪肉粉.md)
 - [烙饼](dishes/staple/烙饼/烙饼.md)
