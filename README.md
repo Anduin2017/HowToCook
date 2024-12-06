@@ -370,6 +370,10 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [芋泥雪媚娘](dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
 - [炸鲜奶](dishes/dessert/炸鲜奶/炸鲜奶.md)
 
+### 夏季解暑
+
+- [冷藏蜂蜜酸奶](./dishes/summer/冷藏蜂蜜酸奶/冷藏蜂蜜酸奶.md)
+
 ## 进阶知识学习
 
 如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
