@@ -162,6 +162,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [台式卤肉饭](dishes/meat_dish/台式卤肉饭/台式卤肉饭.md)
 - [糖醋里脊](dishes/meat_dish/糖醋里脊.md)
 - [糖醋排骨](dishes/meat_dish/糖醋排骨/糖醋排骨.md)
+- [甜辣烤全翅](dishes/meat_dish/甜辣烤全翅.md)
 - [土豆炖排骨](dishes/meat_dish/土豆炖排骨/土豆炖排骨.md)
 - [无骨鸡爪](dishes/meat_dish/无骨鸡爪/无骨鸡爪.md)
 - [西红柿牛腩](dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
@@ -274,6 +275,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [热干面](dishes/staple/热干面.md)
 - [日式肥牛丼饭](dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md)
 - [日式咖喱饭](dishes/staple/日式咖喱饭/日式咖喱饭.md)
+- [肉蛋盖饭 ]（dishes/staple/肉蛋盖饭 .md）
 - [芝麻烧饼](dishes/staple/烧饼/芝麻烧饼.md)
 - [手工水饺](dishes/staple/手工水饺.md)
 - [酸辣蕨根粉](dishes/staple/酸辣蕨根粉.md)
@@ -358,6 +360,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [奥利奥冰淇淋](dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [草莓冰淇淋](dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
 - [反沙芋头](dishes/dessert/反沙芋头/反沙芋头.md)
+- [红柚蛋糕](dishes/dessert/红柚蛋糕/红柚蛋糕.md)
 - [咖啡椰奶冻](dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 - [烤蛋挞](dishes/dessert/烤蛋挞/烤蛋挞.md)
 - [玛格丽特饼干](dishes/dessert/玛格丽特饼干/玛格丽特饼干.md)
