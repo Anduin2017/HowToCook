@@ -12,6 +12,10 @@ async function main() {
         var data = await fs.readFile(filePath, 'utf8');
         var filename = path.parse(filePath).base.replace(".md","");
 
+        if (filename.includes(' ')) {
+            errors.push(`文件 ${filePath} 不符合仓库的规范！文件名不能包含空格！`);
+        }
+        
         dataLines = data.split('\n').map(t => t.trim());
         titles = dataLines.filter(t => t.startsWith('#'));
         secondTitles = titles.filter(t => t.startsWith('## '));
