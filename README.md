@@ -275,7 +275,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [热干面](dishes/staple/热干面.md)
 - [日式肥牛丼饭](dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md)
 - [日式咖喱饭](dishes/staple/日式咖喱饭/日式咖喱饭.md)
-- [肉蛋盖饭 ]（dishes/staple/肉蛋盖饭 .md）
+- [肉蛋盖饭](dishes/staple/肉蛋盖饭.md)
 - [芝麻烧饼](dishes/staple/烧饼/芝麻烧饼.md)
 - [手工水饺](dishes/staple/手工水饺.md)
 - [酸辣蕨根粉](dishes/staple/酸辣蕨根粉.md)
