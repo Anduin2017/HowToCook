@@ -30,6 +30,7 @@
 * [尖叫牛蛙](./../dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md)
 * [山西过油肉](./../dishes/meat_dish/山西过油肉.md)
 * [干煸仔鸡](./../dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
+* [广式萝卜牛腩](./../dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md)
 * [徽派红烧肉](./../dishes/meat_dish/徽派红烧肉/徽派红烧肉.md)
 * [新疆大盘鸡](./../dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md)
 * [杀猪菜](./../dishes/meat_dish/杀猪菜.md)
