@@ -81,7 +81,7 @@
 * [芝麻烧饼](./../dishes/staple/烧饼/芝麻烧饼.md)
 * [热干面](./../dishes/staple/热干面.md)
 * [老友猪肉粉](./../dishes/staple/老友猪肉粉/老友猪肉粉.md)
-* [肉蛋盖饭 ]（./../dishes/staple/肉蛋盖饭 .md）
+* [肉蛋盖饭](./../dishes/staple/肉蛋盖饭.md)
 * [茄子肉煎饼](./../dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
 * [蛋炒饭](./../dishes/staple/蛋炒饭.md)
 * [豆角焖面](./../dishes/staple/豆角焖面/豆角焖面.md)
