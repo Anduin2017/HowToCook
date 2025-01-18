@@ -21,6 +21,7 @@
 * [奥利奥冰淇淋](./../dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 * [炸鲜奶](./../dishes/dessert/炸鲜奶/炸鲜奶.md)
 * [玛格丽特饼干](./../dishes/dessert/玛格丽特饼干/玛格丽特饼干.md)
+* [红柚蛋糕](./../dishes/dessert/红柚蛋糕/红柚蛋糕.md)
 * [英式司康](./../dishes/dessert/英式司康/英式司康.md)
 * [雪花酥](./../dishes/dessert/雪花酥/雪花酥.md)
 * [B52轰炸机](./../dishes/drink/B52轰炸机.md)
@@ -46,6 +47,7 @@
 * [洋葱炒猪肉](./../dishes/meat_dish/洋葱炒猪肉.md)
 * [湖南家常红烧肉](./../dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md)
 * [烤鸡翅](./../dishes/meat_dish/烤鸡翅.md)
+* [甜辣烤全翅](./../dishes/meat_dish/甜辣烤全翅.md)
 * [瘦肉土豆片](./../dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md)
 * [白菜猪肉炖粉条](./../dishes/meat_dish/白菜猪肉炖粉条.md)
 * [简易红烧肉](./../dishes/meat_dish/红烧肉/简易红烧肉.md)
@@ -79,6 +81,7 @@
 * [芝麻烧饼](./../dishes/staple/烧饼/芝麻烧饼.md)
 * [热干面](./../dishes/staple/热干面.md)
 * [老友猪肉粉](./../dishes/staple/老友猪肉粉/老友猪肉粉.md)
+* [肉蛋盖饭 ]（./../dishes/staple/肉蛋盖饭 .md）
 * [茄子肉煎饼](./../dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
 * [蛋炒饭](./../dishes/staple/蛋炒饭.md)
 * [豆角焖面](./../dishes/staple/豆角焖面/豆角焖面.md)
