@@ -57,6 +57,7 @@
 * [排骨苦瓜汤](./../dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md)
 * [生汆丸子汤](./../dishes/soup/生汆丸子汤.md)
 * [罗宋汤](./../dishes/soup/罗宋汤.md)
+* [腊八粥](./../dishes/soup/腊八粥.md)
 * [菌菇炖乳鸽](./../dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
 * [银耳莲子粥](./../dishes/soup/银耳莲子粥/银耳莲子粥.md)
 * [陈皮排骨汤](./../dishes/soup/陈皮排骨汤.md)
