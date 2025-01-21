@@ -71,6 +71,7 @@
 * [玉米排骨汤](./../dishes/soup/玉米排骨汤/玉米排骨汤.md)
 * [番茄牛肉蛋花汤](./../dishes/soup/番茄牛肉蛋花汤.md)
 * [皮蛋瘦肉粥](./../dishes/soup/皮蛋瘦肉粥.md)
+* [羊肉汤](./../dishes/soup/羊肉汤/羊肉汤.md)
 * [陈皮排骨汤](./../dishes/soup/陈皮排骨汤/陈皮排骨汤.md)
 * [凉粉](./../dishes/staple/凉粉/凉粉.md)
 * [炒凉粉](./../dishes/staple/炒凉粉/炒凉粉.md)
