@@ -318,6 +318,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [生汆丸子汤](dishes/soup/生汆丸子汤.md)
 - [西红柿鸡蛋汤](dishes/soup/西红柿鸡蛋汤.md)
 - [小米粥](dishes/soup/小米粥.md)
+- [羊肉汤](dishes/soup/羊肉汤/羊肉汤.md)
 - [银耳莲子粥](dishes/soup/银耳莲子粥/银耳莲子粥.md)
 - [玉米排骨汤](dishes/soup/玉米排骨汤/玉米排骨汤.md)
 - [紫菜蛋花汤](dishes/soup/紫菜蛋花汤.md)
