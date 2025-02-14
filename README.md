@@ -28,7 +28,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 
 针对发现的问题，直接修改并提交 Pull request 即可。
 
-在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
+在写新菜谱时，请复制并修改已有的菜谱模板：[示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
 
 ## 做菜之前
 
@@ -242,6 +242,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [燕麦鸡蛋饼](dishes/breakfast/燕麦鸡蛋饼.md)
 - [蒸花卷](dishes/breakfast/蒸花卷.md)
 - [蒸水蛋](dishes/breakfast/蒸水蛋.md)
+- [完美水煮蛋](dishes/breakfast/完美水煮蛋.md)
 
 ### 主食
 
@@ -341,8 +342,8 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [泰国手标红茶](dishes/drink/泰国手标红茶/泰国手标红茶.md)
 - [杨枝甘露](dishes/drink/杨枝甘露.md)
 - [长岛冰茶](dishes/drink/长岛冰茶.md)
-- [B52轰炸机](dishes/drink/B52轰炸机.md)
-- [Mojito莫吉托](dishes/drink/Mojito莫吉托.md)
+- [B52 轰炸机](dishes/drink/B52轰炸机.md)
+- [Mojito 莫吉托](dishes/drink/Mojito莫吉托.md)
 
 ### 酱料和其它材料
 
