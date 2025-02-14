@@ -16,3 +16,4 @@
 * [牛油火锅底料](./../dishes/semi-finished/牛油火锅底料.md)
 * [基础牛奶面包](./../dishes/staple/基础牛奶面包/基础牛奶面包.md)
 * [手工水饺](./../dishes/staple/手工水饺.md)
+* [完美水煮蛋](./../dishes/breakfast/完美水煮蛋.md)
