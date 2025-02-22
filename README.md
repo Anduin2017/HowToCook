@@ -334,6 +334,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [金菲士](dishes/drink/金菲士/金菲士.md)
 - [金汤力](dishes/drink/金汤力/金汤力.md)
 - [可乐桶](dishes/drink/可乐桶.md)
+- [海边落日](dishes/drink/落日余晖/海边落日.md)
 - [奶茶](dishes/drink/奶茶.md)
 - [奇异果菠菜特调](dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md)
 - [砂糖椰子冰沙](dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md)
