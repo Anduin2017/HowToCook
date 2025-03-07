@@ -5,7 +5,7 @@ repo_name: Anduin2017/HowToCook
 repo_url: https://github.com/Anduin2017/HowToCook
 edit_uri: ""
 
-use_directory_urls: true
+use_directory_urls: false
 docs_dir: .
 theme:
   font: false
