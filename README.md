@@ -207,7 +207,6 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [黄油煎虾](dishes/aquatic/黄油煎虾/黄油煎虾.md)
 - [烤鱼](dishes/aquatic/混合烤鱼/烤鱼.md)
 - [芥末黄油罗氏虾](dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md)
-- [芥末黄油罗氏虾](dishes/aquatic/芥末黄油罗氏虾.md)
 - [咖喱炒蟹](dishes/aquatic/咖喱炒蟹.md)
 - [鲤鱼炖白菜](dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
 - [清蒸鲈鱼](dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
