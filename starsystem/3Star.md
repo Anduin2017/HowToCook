@@ -5,7 +5,6 @@
 * [清蒸生蚝](./../dishes/aquatic/清蒸生蚝.md)
 * [清蒸鲈鱼](./../dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
 * [芥末黄油罗氏虾](./../dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md)
-* [芥末黄油罗氏虾](./../dishes/aquatic/芥末黄油罗氏虾.md)
 * [葱烧海参](./../dishes/aquatic/葱烧海参/葱烧海参.md)
 * [蛏抱蛋](./../dishes/aquatic/蛏抱蛋/蛏抱蛋.md)
 * [鲤鱼炖白菜](./../dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
