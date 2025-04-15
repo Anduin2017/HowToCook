@@ -39,6 +39,7 @@
 * [椒盐排条](./../dishes/meat_dish/椒盐排条.md)
 * [湘祁米夫鸭](./../dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md)
 * [番茄红酱](./../dishes/meat_dish/番茄红酱.md)
+* [贵州辣子鸡](./../dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md)
 * [糖醋排骨](./../dishes/meat_dish/糖醋排骨/糖醋排骨.md)
 * [糖醋里脊](./../dishes/meat_dish/糖醋里脊.md)
 * [红烧猪蹄](./../dishes/meat_dish/红烧猪蹄/红烧猪蹄.md)
