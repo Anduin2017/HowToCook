@@ -52,6 +52,7 @@
 * [白菜猪肉炖粉条](./../dishes/meat_dish/白菜猪肉炖粉条.md)
 * [简易红烧肉](./../dishes/meat_dish/红烧肉/简易红烧肉.md)
 * [肉饼炖蛋](./../dishes/meat_dish/肉饼炖蛋.md)
+* [蚂蚁上树](./../dishes/meat_dish/蚂蚁上树.md)
 * [辣椒炒肉](./../dishes/meat_dish/辣椒炒肉.md)
 * [青椒土豆炒肉](./../dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
 * [香干肉丝](./../dishes/meat_dish/香干肉丝.md)
