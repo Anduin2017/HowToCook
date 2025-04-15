@@ -116,6 +116,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [宫保鸡丁](dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](dishes/meat_dish/咕噜肉.md)
 - [广式萝卜牛腩](dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md)
+- [贵州辣子鸡](dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md)
 - [荷兰豆炒腊肠](dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md)
 - [黑椒牛柳](dishes/meat_dish/黑椒牛柳/黑椒牛柳.md)
 - [简易红烧肉](dishes/meat_dish/红烧肉/简易红烧肉.md)
