@@ -49,6 +49,7 @@
 * [荔枝肉](./../dishes/meat_dish/荔枝肉/荔枝肉.md)
 * [萝卜炖羊排](./../dishes/meat_dish/萝卜炖羊排.md)
 * [西红柿土豆炖牛肉](./../dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md)
+* [贵州辣子鸡](./../dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md)
 * [酱排骨](./../dishes/meat_dish/酱排骨/酱排骨.md)
 * [醉排骨](./../dishes/meat_dish/醉排骨/醉排骨.md)
 * [香辣鸡爪煲](./../dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md)
