@@ -1,6 +1,6 @@
 # ============================
 # Prepare lint Environment
-FROM node:21-alpine as lint-env
+FROM node:22-alpine as lint-env
 WORKDIR /app
 COPY . .
 RUN npm install --loglevel verbose
