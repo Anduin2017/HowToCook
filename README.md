@@ -112,6 +112,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [带把肘子](dishes/meat_dish/带把肘子.md)
 - [冬瓜酿肉](dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
 - [番茄红酱](dishes/meat_dish/番茄红酱.md)
+- [粉蒸肉](dishes/meat_dish/粉蒸肉.md)
 - [干煸仔鸡](dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
 - [宫保鸡丁](dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](dishes/meat_dish/咕噜肉.md)
