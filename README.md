@@ -30,7 +30,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 
 在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
 
-## 做菜之前
+## 搭建环境
 
 - [厨房准备](tips/厨房准备.md)
 - [如何选择现在吃什么](tips/如何选择现在吃什么.md)
