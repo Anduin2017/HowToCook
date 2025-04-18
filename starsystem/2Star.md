@@ -70,3 +70,4 @@
 * [鸡蛋火腿炒黄瓜](./../dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 * [微波炉鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
 * [鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
+* [蒜香黄油虾](./../dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md)
