@@ -222,6 +222,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [香煎翘嘴鱼](dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md)
 - [小龙虾](dishes/aquatic/小龙虾/小龙虾.md)
 - [油焖大虾](dishes/aquatic/油焖大虾/油焖大虾.md)
+- [蒜香黄油虾](dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md)
 
 ### 早餐
 
