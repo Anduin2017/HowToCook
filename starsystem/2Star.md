@@ -4,6 +4,7 @@
 * [蒜蓉虾](./../dishes/aquatic/蒜蓉虾/蒜蓉虾.md)
 * [蒜香黄油虾](./../dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md)
 * [太阳蛋](./../dishes/breakfast/太阳蛋.md)
+* [手抓饼](./../dishes/breakfast/手抓饼.md)
 * [桂圆红枣粥](./../dishes/breakfast/桂圆红枣粥.md)
 * [水煮玉米](./../dishes/breakfast/水煮玉米.md)
 * [煎饺](./../dishes/breakfast/煎饺.md)
