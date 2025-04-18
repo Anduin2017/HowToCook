@@ -14,6 +14,7 @@
 * [溏心蛋](./../dishes/breakfast/溏心蛋.md)
 * [苏格兰蛋](./../dishes/breakfast/苏格兰蛋/苏格兰蛋.md)
 * [茶叶蛋](./../dishes/breakfast/茶叶蛋.md)
+* [蛋包饭](./../dishes/breakfast/蛋包饭.md)
 * [油泼辣子](./../dishes/condiment/油泼辣子/油泼辣子.md)
 * [葱油](./../dishes/condiment/葱油.md)
 * [反沙芋头](./../dishes/dessert/反沙芋头/反沙芋头.md)
