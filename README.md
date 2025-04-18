@@ -235,6 +235,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [空气炸锅面包片](dishes/breakfast/空气炸锅面包片.md)
 - [美式炒蛋](dishes/breakfast/美式炒蛋.md)
 - [牛奶燕麦](dishes/breakfast/牛奶燕麦.md)
+- [手抓饼](dishes/breakfast/手抓饼.md)
 - [水煮玉米](dishes/breakfast/水煮玉米.md)
 - [苏格兰蛋](dishes/breakfast/苏格兰蛋/苏格兰蛋.md)
 - [太阳蛋](dishes/breakfast/太阳蛋.md)
