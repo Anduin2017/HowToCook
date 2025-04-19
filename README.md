@@ -372,6 +372,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [奥利奥冰淇淋](dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [草莓冰淇淋](dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
 - [反沙芋头](dishes/dessert/反沙芋头/反沙芋头.md)
+- [龟苓膏](dishes/dessert/龟苓膏/龟苓膏.md)
 - [红柚蛋糕](dishes/dessert/红柚蛋糕/红柚蛋糕.md)
 - [咖啡椰奶冻](dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 - [烤蛋挞](dishes/dessert/烤蛋挞/烤蛋挞.md)
