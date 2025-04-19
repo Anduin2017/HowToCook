@@ -549,7 +549,7 @@ if __name__ == "__main__":
         elif choice == '11':
             clean_commits()
         else:
-            print("\n **错误4**: 无效的选择！")
+            print("\n **错误3**: 无效的选择！")
             input("\n按任意键继续...")
             
             
