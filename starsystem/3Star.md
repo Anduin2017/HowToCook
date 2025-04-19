@@ -29,8 +29,8 @@
 * [海边落日](./../dishes/drink/海边落日/海边落日.md)
 * [百香果橙子特调](./../dishes/drink/百香果橙子特调/百香果橙子特调.md)
 * [菠萝咖啡特调](./../dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md)
-* [卤菜]（./../dishes/meat_dish/一切卤菜（卤牛肉、鸡胗、猪耳朵 etc）/卤菜.md）
 * [凉拌鸡丝](./../dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md)
+* [卤菜](./../dishes/meat_dish/卤菜/卤菜.md)
 * [口水鸡](./../dishes/meat_dish/口水鸡/口水鸡.md)
 * [可乐鸡翅](./../dishes/meat_dish/可乐鸡翅.md)
 * [土豆炖排骨](./../dishes/meat_dish/土豆炖排骨/土豆炖排骨.md)
