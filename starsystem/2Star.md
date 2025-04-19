@@ -2,7 +2,9 @@
 
 * [白灼虾](./../dishes/aquatic/白灼虾/白灼虾.md)
 * [蒜蓉虾](./../dishes/aquatic/蒜蓉虾/蒜蓉虾.md)
+* [蒜香黄油虾](./../dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md)
 * [太阳蛋](./../dishes/breakfast/太阳蛋.md)
+* [手抓饼](./../dishes/breakfast/手抓饼.md)
 * [桂圆红枣粥](./../dishes/breakfast/桂圆红枣粥.md)
 * [水煮玉米](./../dishes/breakfast/水煮玉米.md)
 * [煎饺](./../dishes/breakfast/煎饺.md)
@@ -18,6 +20,7 @@
 * [草莓酱](./../dishes/condiment/草莓酱/草莓酱.md)
 * [蒜香酱油](./../dishes/condiment/蒜香酱油.md)
 * [草莓冰淇淋](./../dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
+* [龟苓膏](./../dishes/dessert/龟苓膏/龟苓膏.md)
 * [冬瓜茶](./../dishes/drink/冬瓜茶.md)
 * [冰粉](./../dishes/drink/冰粉/冰粉.md)
 * [可乐桶](./../dishes/drink/可乐桶.md)
@@ -70,4 +73,3 @@
 * [鸡蛋火腿炒黄瓜](./../dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 * [微波炉鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
 * [鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
-* [蒜香黄油虾](./../dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md)
