@@ -13,7 +13,7 @@ def run_git_command(command_list):
         process = subprocess.run(command_list, capture_output=True, text=True, check=True, encoding='utf-8')  # 指定编码为 utf-8
         return process.returncode, process.stdout, process.stderr
     except subprocess.CalledProcessError as e:
-        return e.returncode, e.stdout, process.stderr
+        return e.returncode, process.stdout, process.stderr
 
 def main_menu():
     """显示主菜单并获取用户选择"""
@@ -426,9 +426,19 @@ def clean_commits():
     **用途：** 整理本地的提交历史，例如合并/修改 commit、删除实验性 commit。 **非日常操作！**
     **命令：** git reset --hard HEAD~<number_of_commits>
 
+    **详细解释：**
+    假设你的 commit 历史如下：
+    A -- B -- C -- D -- E  (HEAD -> main)
+    其中 HEAD 指针指向最新的提交 E。
+
+    `git reset --hard HEAD~2`  会将你的仓库回退到提交 C 的状态：
+    1. **移动 HEAD 指针：**  HEAD 指针从 E 移动到 C。
+    2. **重置暂存区和工作目录：**  暂存区 (staging area) 和工作目录 (working directory) 会被强制重置，与提交 C 的状态完全一致。
+    3. **永久丢失：** 提交 D 和 E 的更改（以及任何未提交的本地更改）都将 **永久丢失**。
+
     **操作步骤：**
     1.  **强烈建议** 在操作前创建备份分支（`git branch backup-before-reset`）。
-    2.  **确认要保留的 commit 数量。**  （输入0 则清空所有 commit）
+    2.  **确认要保留的 commit 数量。**  （输入0 则清空所有 commit，回到最初状态）
     3.  **输入数量并再次确认。**
     4.  **执行 `git reset --hard HEAD~{num_commits}`。**
     5.  **（如果需要同步远程） 慎重使用 `git push --force origin <branch_name>`。**
@@ -441,7 +451,7 @@ def clean_commits():
 
     print("  **警告：此操作会永久丢弃你本地分支上未推送的 commits! 使用前请务必备份你的代码!**")
     print("  **强烈建议：** 在执行此操作之前，创建一个备份分支： `git branch backup-before-reset`") # 强调备份
-    print("  此操作会将 HEAD 重置到指定 commit，并丢弃之后的 commits。")
+    print("  **详细解释：** \n   此操作会将你的仓库回退到指定的 commit 状态，并永久删除之后的 commits。\n   例如，如果你选择保留最近的2个 commit，那么你仓库将会回到倒数第三个commit的状态， 最近两个commit会被永久删除")
     print("  请谨慎选择要保留的 commits 个数。 ")
     print("  **用途：** 整理本地的提交历史，例如合并/修改 commit、删除实验性 commit。 **非日常操作！**") # 增加用途说明
 
