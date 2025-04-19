@@ -8,7 +8,7 @@ def clear_screen():
 def run_git_command(command_list):
     """运行 Git 命令并返回状态码和输出"""
     try:
-        process = subprocess.run(command_list, capture_output=True, text=True, check=True)
+        process = subprocess.run(command_list, capture_output=True, text=True, check=True, encoding='utf-8')  # 指定编码为 utf-8
         return process.returncode, process.stdout, process.stderr
     except subprocess.CalledProcessError as e:
         return e.returncode, e.stdout, e.stderr
