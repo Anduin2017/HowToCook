@@ -459,9 +459,9 @@ def clean_commits():
     print("  请谨慎选择要删除的 commits 个数。 ")
     print("  **用途：** 整理本地的提交历史，例如合并/修改 commit、删除实验性 commit。 **非日常操作！**") # 增加用途说明
 
-    num_commits = input("\n  要保留最近多少个 commits？ (输入数字并回车，输入0则清空所有commit): ")
+    num_commits = input("\n  要回退多少个 commits？ (输入数字并回车，输入0则清空所有commit): ")
     if not num_commits:
-        print("\n **错误**: 必须输入要保留的 commits 数量！ 操作已取消。")
+        print("\n **错误**: 必须输入要丢弃的 commits 数量！ 操作已取消。")
         input("\n按任意键继续...")
         return
 
@@ -548,6 +548,8 @@ if __name__ == "__main__":
             create_pull_request()   # 新增 PR 功能
         elif choice == '11':
             clean_commits()
-            
+        else:
+            print("\n **错误4**: 无效的选择！")
+            input("\n按任意键继续...")
             
             
