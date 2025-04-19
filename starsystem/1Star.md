@@ -8,6 +8,7 @@
 * [金枪鱼酱三明治](./../dishes/breakfast/金枪鱼酱三明治.md)
 * [蔗糖糖浆](./../dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
 * [奇异果菠菜特调](./../dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md)
+* [柠檬水](./../dishes/drink/柠檬水/柠檬水.md)
 * [砂糖椰子冰沙](./../dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md)
 * [酸梅汤（半成品加工）](./../dishes/drink/酸梅汤（半成品加工）.md)
 * [黔式腊肠娃娃菜](./../dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md)
