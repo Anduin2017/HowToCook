@@ -9,11 +9,15 @@ def clear_screen():
 
 def run_git_command(command_list):
     """运行 Git 命令并返回状态码和输出"""
+    process = None  # 初始化 process 变量
     try:
         process = subprocess.run(command_list, capture_output=True, text=True, check=True, encoding='utf-8')  # 指定编码为 utf-8
         return process.returncode, process.stdout, process.stderr
     except subprocess.CalledProcessError as e:
-        return e.returncode, process.stdout, process.stderr
+        if process:  # 只有当 process 已经被赋值后才访问 process.stdout 和 process.stderr
+            return e.returncode, process.stdout, process.stderr
+        else:
+            return e.returncode, "", str(e) # 返回空字符串和异常信息
 
 def main_menu():
     """显示主菜单并获取用户选择"""
@@ -451,8 +455,8 @@ def clean_commits():
 
     print("  **警告：此操作会永久丢弃你本地分支上未推送的 commits! 使用前请务必备份你的代码!**")
     print("  **强烈建议：** 在执行此操作之前，创建一个备份分支： `git branch backup-before-reset`") # 强调备份
-    print("  **详细解释：** \n   此操作会将你的仓库回退到指定的 commit 状态，并永久删除之后的 commits。\n   例如，如果你选择保留最近的2个 commit，那么你仓库将会回到倒数第三个commit的状态， 最近两个commit会被永久删除")
-    print("  请谨慎选择要保留的 commits 个数。 ")
+    print("  **详细解释：** \n   此操作会将你的仓库回退到指定的 commit 状态，并永久删除之后的 commits。\n   例如，如果你选择回退最近的2个 commit，那么你仓库将会回到倒数第三个commit的状态， 最近两个commit会被永久删除")
+    print("  请谨慎选择要删除的 commits 个数。 ")
     print("  **用途：** 整理本地的提交历史，例如合并/修改 commit、删除实验性 commit。 **非日常操作！**") # 增加用途说明
 
     num_commits = input("\n  要保留最近多少个 commits？ (输入数字并回车，输入0则清空所有commit): ")
