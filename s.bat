@@ -3,7 +3,6 @@ chcp 65001 > nul
 
 title HowToCook 项目贡献助手
 
-
 :mainMenu
 cls   REM 清屏
 echo.
@@ -19,12 +18,13 @@ echo  [3]  提交修改
 echo  [4]  推送分支
 echo  [5]  同步 Fork (从 Upstream 更新)
 echo  [6]  设置 Upstream 仓库地址
+echo  [9]  添加远程仓库
 echo  [7]  删除本地分支
 echo  [8]  删除远程分支
 echo.
 echo  [0]  退出
 echo.
-set /p "choice=  请选择 (0-8): "
+set /p "choice=  请选择 (0-9): "
 
 REM 使用更简洁的 IF 语句结构
 if "%choice%"=="0" goto exit
@@ -34,6 +34,7 @@ if "%choice%"=="3" goto commitChanges
 if "%choice%"=="4" goto pushBranch
 if "%choice%"=="5" goto pullUpstream
 if "%choice%"=="6" goto setupUpstream
+if "%choice%"=="9" goto addRemote
 if "%choice%"=="7" goto deleteLocalBranch
 if "%choice%"=="8" goto deleteRemoteBranch
 
@@ -122,24 +123,24 @@ echo  [3] 提交修改
 echo ======================================================
 echo.
 set /p "commitMessage=  请输入提交信息: "
-if "%commitMessage%"=="" (
-    echo.
-    echo  **错误**: 提交信息不能为空！
-    pause
-    goto mainMenu
-)
+
+REM 创建一个临时文件来存储提交信息
+echo "%commitMessage%" > temp_commit_message.txt
+
 echo.
 echo  正在提交修改...
-git commit -m "%commitMessage%"
+git commit --file=temp_commit_message.txt
 if %errorlevel% neq 0 (
     echo.
     echo  **错误**: 提交失败，错误代码: %errorlevel%
     echo   请检查暂存区是否为空(git status)或者是否有未解决的冲突(git status)。
+    del temp_commit_message.txt  REM 删除临时文件
     pause
     goto mainMenu
 )
 echo.
 echo  提交成功，提交信息: "%commitMessage%"
+del temp_commit_message.txt  REM 删除临时文件
 pause
 goto mainMenu
 
@@ -150,6 +151,15 @@ echo ======================================================
 echo  [4] 推送分支到 GitHub
 echo ======================================================
 echo.
+
+REM  询问用户要推送到的远程仓库名称
+echo   如果您的 fork 仓库 (git@github.com:424635328/HowToCook.git 或 https://github.com/424635328/HowToCook) 已设置为 origin，请直接回车。
+echo   如果未设置，请输入您的 fork 仓库的远程仓库名称，或输入 "add" 添加一个新的远程仓库。
+set /p "remoteName=  请输入要推送到的远程仓库名称 (默认为 origin): "
+if "%remoteName%"=="" set "remoteName=origin"
+
+if /i "%remoteName%"=="add" goto addRemote
+
 set /p "pushBranch=  请输入要推送的分支名称: "
 if "%pushBranch%"=="" (
     echo.
@@ -158,8 +168,8 @@ if "%pushBranch%"=="" (
     goto mainMenu
 )
 echo.
-echo  正在推送分支 "%pushBranch%"...
-git push origin "%pushBranch%"
+echo  正在推送分支 "%pushBranch%" 到 "%remoteName%"...
+git push "%remoteName%" "%pushBranch%"
 if %errorlevel% neq 0 (
     echo.
     echo  **错误**: 推送分支 "%pushBranch%" 失败，错误代码: %errorlevel%
@@ -174,7 +184,7 @@ if %errorlevel% neq 0 (
     goto mainMenu
 )
 echo.
-echo  分支 "%pushBranch%" 已成功推送到 origin。
+echo  分支 "%pushBranch%" 已成功推送到 "%remoteName%"。
 pause
 goto mainMenu
 
@@ -254,6 +264,44 @@ echo.
 echo  已成功设置 upstream 为 https://github.com/Anduin2017/HowToCook.git。
 pause
 goto mainMenu
+
+:addRemote
+cls
+echo.
+echo ======================================================
+echo  [添加远程仓库]
+echo ======================================================
+echo.
+set /p "newRemoteName=  请输入新的远程仓库名称: "
+if "%newRemoteName%"=="" (
+    echo.
+    echo  **错误**: 远程仓库名称不能为空！
+    pause
+    goto mainMenu
+)
+
+set /p "newRemoteURL=  请输入新的远程仓库地址 (例如: git@github.com:424635328/HowToCook.git 或 https://github.com/424635328/HowToCook): "
+if "%newRemoteURL%"=="" (
+    echo.
+    echo  **错误**: 远程仓库地址不能为空！
+    pause
+    goto mainMenu
+)
+
+echo.
+echo  正在添加远程仓库 "%newRemoteName%"，地址为 "%newRemoteURL%" ...
+git remote add "%newRemoteName%" "%newRemoteURL%"
+if %errorlevel% neq 0 (
+    echo.
+    echo  **错误**: 添加远程仓库失败，错误代码: %errorlevel%
+    echo   请检查远程仓库名称是否已存在, 或者远程仓库地址是否正确。 可以尝试git remote -v查看
+    pause
+    goto mainMenu
+)
+echo.
+echo  已成功添加远程仓库 "%newRemoteName%"，地址为 "%newRemoteURL%"。
+pause
+goto pushBranch  REM 返回到推送分支操作
 
 :deleteLocalBranch
 cls
