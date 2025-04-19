@@ -135,6 +135,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [酱牛肉](dishes/meat_dish/酱牛肉/酱牛肉.md)
 - [酱排骨](dishes/meat_dish/酱排骨/酱排骨.md)
 - [椒盐排条](dishes/meat_dish/椒盐排条.md)
+- [芥末罗氏虾](dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md)
 - [咖喱肥牛](dishes/meat_dish/咖喱肥牛/咖喱肥牛.md)
 - [烤鸡翅](dishes/meat_dish/烤鸡翅.md)
 - [可乐鸡翅](dishes/meat_dish/可乐鸡翅.md)
