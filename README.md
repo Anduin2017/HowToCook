@@ -153,6 +153,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [梅菜扣肉](dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [奶酪培根通心粉](dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md)
 - [牛排](dishes/meat_dish/牛排/牛排.md)
+- [农家一碗香](dishes/meat_dish/农家一碗香/农家一碗香.md)
 - [啤酒鸭](dishes/meat_dish/啤酒鸭/啤酒鸭.md)
 - [黔式腊肠娃娃菜](dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md)
 - [青椒土豆炒肉](dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
