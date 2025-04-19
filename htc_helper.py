@@ -1,5 +1,7 @@
 import os
 import subprocess
+import webbrowser
+import urllib.parse
 
 def clear_screen():
     """清空屏幕"""
@@ -29,19 +31,22 @@ def main_menu():
     print(" [9]  添加远程仓库")
     print(" [7]  删除本地分支")
     print(" [8]  删除远程分支")
+    print(" [10] 创建 Pull Request")
     print("\n [0]  退出")
     print("\n")
 
     while True:
-        choice = input(" 请选择 (0-9): ")
-        if choice in ('0', '1', '2', '3', '4', '5', '6', '7', '8', '9'):
+        choice = input(" 请选择 (0-10): ")
+        if choice in ('0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'):
             return choice
         else:
             print("\n **错误**: 无效的选择，请重新选择.")
             input("按任意键继续...")
 
 def create_branch():
-    """创建并切换到新分支"""
+    """创建并切换到新分支
+    命令: git checkout -b <branch_name>
+    """
     clear_screen()
     print("=====================================================")
     print(" [1] 创建并切换到新分支")
@@ -68,7 +73,10 @@ def create_branch():
     input("按任意键继续...")
 
 def add_changes():
-    """添加修改"""
+    """添加修改
+    命令: git add .  (添加所有文件)
+         git add <file_name> (添加指定文件)
+    """
     clear_screen()
     print("=====================================================")
     print(" [2] 添加修改")
@@ -102,7 +110,9 @@ def add_changes():
     input("按任意键继续...")
 
 def commit_changes():
-    """提交修改"""
+    """提交修改
+    命令: git commit --file temp_commit_message.txt
+    """
     clear_screen()
     print("=====================================================")
     print(" [3] 提交修改")
@@ -134,7 +144,9 @@ def commit_changes():
     input("按任意键继续...")
 
 def push_branch():
-    """推送分支到 GitHub"""
+    """推送分支到 GitHub
+    命令: git push <remote_name> <branch_name>
+    """
     clear_screen()
     print("=====================================================")
     print(" [4] 推送分支到 GitHub")
@@ -151,11 +163,9 @@ def push_branch():
         add_remote()  #调用新增远程仓库的函数
         remote_name = "origin" #添加完成后，将 remote_name 设置为 origin
 
-    push_branch_name = input(" 请输入要推送的分支名称: ")
+    push_branch_name = input(" 请输入要推送的分支名称 (默认为 master, 直接回车使用默认值): ") #修改了提示语
     if not push_branch_name:
-        print("\n **错误**: 分支名称不能为空！")
-        input("按任意键继续...")
-        return
+        push_branch_name = "master"  # 如果用户没有输入，则使用 "master" 作为默认值
 
     print("\n 正在拉取远程分支", push_branch_name, "的最新更改...")
     return_code, stdout, stderr = run_git_command(["git", "pull", remote_name, push_branch_name])
@@ -184,7 +194,11 @@ def push_branch():
     input("按任意键继续...")
 
 def pull_upstream():
-    """同步 Fork (从 Upstream 更新)"""
+    """同步 Fork (从 Upstream 更新)
+    命令: git checkout master
+         git pull upstream master
+         git push origin master
+    """
     clear_screen()
     print("=====================================================")
     print(" [5] 同步 Fork (从 Upstream 更新)")
@@ -228,7 +242,9 @@ def pull_upstream():
     input("按任意键继续...")
 
 def setup_upstream():
-    """设置 Upstream 仓库地址"""
+    """设置 Upstream 仓库地址
+    命令: git remote add upstream https://github.com/Anduin2017/HowToCook.git
+    """
     clear_screen()
     print("=====================================================")
     print(" [6] 设置 Upstream 仓库地址")
@@ -251,7 +267,9 @@ def setup_upstream():
     input("按任意键继续...")
 
 def add_remote():
-    """添加远程仓库"""
+    """添加远程仓库
+    命令: git remote add <remote_name> <remote_url>
+    """
     clear_screen()
     print("=====================================================")
     print(" [9] 添加远程仓库")
@@ -283,7 +301,9 @@ def add_remote():
     input("按任意键继续...")
 
 def delete_local_branch():
-    """删除本地分支"""
+    """删除本地分支
+    命令: git branch -d <local_branch_name>
+    """
     clear_screen()
     print("=====================================================")
     print(" [7] 删除本地分支")
@@ -331,7 +351,9 @@ def delete_local_branch():
     input("按任意键继续...")
 
 def delete_remote_branch():
-    """删除远程分支"""
+    """删除远程分支
+    命令: git push origin --delete <remote_branch_name>
+    """
     clear_screen()
     print("=====================================================")
     print(" [8] 删除远程分支")
@@ -360,6 +382,69 @@ def delete_remote_branch():
     print("\n 已成功删除远程分支", remote_branch, "。")
     input("按任意键继续...")
 
+def create_pull_request():
+    """创建 Pull Request (实际上是生成 URL 并提示用户手动创建)
+    命令：无 (需要用户手动操作)
+    """
+    clear_screen()
+    print("=====================================================")
+    print(" [10] 创建 Pull Request")
+    print("=====================================================")
+    print("\n")
+
+    # 询问用户 Fork 的仓库名
+    fork_username = input("请输入你的 GitHub 用户名（你的 Fork 仓库的所有者）: ")
+    if not fork_username:
+        print("\n **错误**: GitHub 用户名不能为空！")
+        input("按任意键继续...")
+        return
+
+    # 询问用户要创建 PR 的分支名称
+    branch_name = input("请输入要创建 Pull Request 的分支名称: ")
+    if not branch_name:
+        print("\n **错误**: 分支名称不能为空！")
+        input("按任意键继续...")
+        return
+
+    # 构建 URL
+    base_repo = "Anduin2017/HowToCook"
+    head_repo = f"{fork_username}:{branch_name}"  # 构建 head repo 名称
+
+    # urlencode 分支名称和 PR 标题，以处理特殊字符
+    encoded_head = urllib.parse.quote(head_repo)
+    encoded_title = urllib.parse.quote("简明扼要地描述你的修改")
+
+    pr_body = """## 注意
+
+Pull Request 提交后，预计 1 分钟内将会得到自动化格式检查的结果。只有通过自动化检查的 Pull Request 才会被人工审核。
+
+- [ ] 请确保此 Pull Request 能够通过自动化代码检查。
+
+## 签署
+
+必须签署下面的对话框才能开始审核。
+
+### HowToCook 仓库采用了 [The Unlicense](https://unlicense.org/) 协议
+
+菜谱在签入前，必须确保其可以**直接声明进入 "公共领域"（public domain)**。这意味着一旦合并后，任何人都**可以**自由复制，修改，发布，使用，编译，出售或以菜谱的形式或菜的形式分发，**无论**是出于**商业目的**还是**非商目的**，以及**任何**手段。
+
+- [ ] 我确保了我的内容不涉及版权内容，并且授权它 The Unlicense 协议。
+"""
+
+    pr_url = f"https://github.com/{base_repo}/compare/master...{encoded_head}?title={encoded_title}&body={urllib.parse.quote(pr_body)}"
+
+    print("\n 请复制以下 URL 到你的浏览器中，手动创建 Pull Request：")
+    print(pr_url)
+
+    # 尝试使用 web browser 打开 URL， 如果失败，至少URL已经显示给用户了。
+    try:
+        webbrowser.open(pr_url)
+    except webbrowser.Error:
+        print("无法自动打开浏览器，请手动复制 URL。")
+
+    input("\n按任意键继续...")
+
+
 if __name__ == "__main__":
     while True:
         choice = main_menu()
@@ -386,3 +471,5 @@ if __name__ == "__main__":
             delete_local_branch()
         elif choice == '8':
             delete_remote_branch()
+        elif choice == '10':
+            create_pull_request()   # 新增 PR 功能
