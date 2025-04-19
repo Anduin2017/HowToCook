@@ -145,6 +145,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [冷吃兔](dishes/meat_dish/冷吃兔.md)
 - [荔枝肉](dishes/meat_dish/荔枝肉/荔枝肉.md)
 - [凉拌鸡丝](dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md)
+- [卤菜](dishes/meat_dish/卤菜/卤菜.md)
 - [萝卜炖羊排](dishes/meat_dish/萝卜炖羊排.md)
 - [麻辣香锅](dishes/meat_dish/麻辣香锅.md)
 - [麻婆豆腐](dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
@@ -187,7 +188,6 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [血浆鸭](dishes/meat_dish/血浆鸭/血浆鸭.md)
 - [羊排焖面](dishes/meat_dish/羊排焖面/羊排焖面.md)
 - [洋葱炒猪肉](dishes/meat_dish/洋葱炒猪肉.md)
-- [卤菜]（dishes/meat_dish/一切卤菜（卤牛肉、鸡胗、猪耳朵 etc）/卤菜.md）
 - [意式烤鸡](dishes/meat_dish/意式烤鸡.md)
 - [鱼香茄子](dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](dishes/meat_dish/鱼香肉丝.md)
