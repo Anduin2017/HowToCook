@@ -32,12 +32,13 @@ def main_menu():
     print(" [7]  删除本地分支")
     print(" [8]  删除远程分支")
     print(" [10] 创建 Pull Request")
+    print(" [11] 清理 Commits (谨慎使用!)")
     print("\n [0]  退出")
     print("\n")
 
     while True:
-        choice = input(" 请选择 (0-10): ")
-        if choice in ('0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'):
+        choice = input(" 请选择 (0-11): ")
+        if choice in ('0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11'):
             return choice
         else:
             print("\n **错误**: 无效的选择，请重新选择.")
@@ -444,6 +445,61 @@ Pull Request 提交后，预计 1 分钟内将会得到自动化格式检查的�
 
     input("\n按任意键继续...")
 
+def clean_commits():
+    """清理 Commits (使用 git reset --hard)
+    **危险操作**:  将会永久丢弃未推送的 commits!  使用前请务必备份!
+    命令：git reset --hard HEAD~<number_of_commits>
+    """
+    clear_screen()
+    print("=====================================================")
+    print(" [11] 清理 Commits (极其危险!)")
+    print("=====================================================")
+    print("\n")
+
+    print("  **警告：此操作会永久丢弃你本地分支上未推送的 commits! 使用前请务必备份你的代码!**")
+    print("  此操作会将 HEAD 重置到指定 commit，并丢弃之后的 commits。")
+    print("  如果你想保留最近的 n 个 commits，将会丢弃后面的 commits。")
+
+    num_commits = input("\n  要保留最近多少个 commits？ (输入数字并回车，输入0则清空所有commit): ")
+    if not num_commits:
+        print("\n **错误**: 必须输入要保留的 commits 数量！ 操作已取消。")
+        input("\n按任意键继续...")
+        return
+
+    try:
+        num_commits = int(num_commits)
+        if num_commits < 0:
+            print("\n **错误**: commit 数量必须是非负整数！ 操作已取消。")
+            input("\n按任意键继续...")
+            return
+    except ValueError:
+        print("\n **错误**: 输入的不是有效的整数！ 操作已取消。")
+        input("\n按任意键继续...")
+        return
+
+    # 再次发出警告
+    print("\n  **再次警告： 你确定要丢弃最近的 {} 个 commit 之后的所有 commits 吗？此操作不可撤销！**".format(num_commits))
+    confirmation = input("  输入 'yes' 继续，输入其他任何内容取消操作： ")
+    if confirmation.lower() != "yes":
+        print("\n操作已取消。")
+        input("\n按任意键继续...")
+        return
+
+    reset_command = f"git reset --hard HEAD~{num_commits}"
+
+    print(f"\n  执行命令： {reset_command}")  # 显示将要执行的命令
+
+    return_code, stdout, stderr = run_git_command(["git", "reset", "--hard", f"HEAD~{num_commits}"])
+
+    if return_code != 0:
+        print("\n **错误**: reset 失败，请检查您的操作。")
+        print(stderr)
+    else:
+        print("\n  成功重置到 HEAD~{}!".format(num_commits))
+        print("  **注意： 你的本地更改可能已经被丢弃，请检查你的工作目录。**")
+
+    input("\n按任意键继续...")
+
 
 if __name__ == "__main__":
     while True:
@@ -473,3 +529,5 @@ if __name__ == "__main__":
             delete_remote_branch()
         elif choice == '10':
             create_pull_request()   # 新增 PR 功能
+        elif choice == '11':
+            clean_commits()
