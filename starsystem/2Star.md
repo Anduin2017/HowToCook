@@ -32,6 +32,7 @@
 * [长岛冰茶](./../dishes/drink/长岛冰茶.md)
 * [荷兰豆炒腊肠](./../dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md)
 * [蒜苔炒肉末](./../dishes/meat_dish/蒜苔炒肉末.md)
+* [豆豉鲮鱼油麦菜](./../dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md)
 * [炸薯条](./../dishes/semi-finished/炸薯条/炸薯条.md)
 * [空气炸锅鸡翅中](./../dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md)
 * [速冻馄饨](./../dishes/semi-finished/速冻馄饨.md)
