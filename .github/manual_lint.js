@@ -3,10 +3,32 @@ const glob = util.promisify(require('glob'));
 const fs = require("fs").promises;
 const path = require('path');
 
+const MAX_FILE_SIZE = 1024 * 1024; // 1MB
+
+async function checkFileSize(filePath) {
+    try {
+        const stats = await fs.stat(filePath);
+        return stats.size;
+    } catch (error) {
+        console.error(`Error checking file size for ${filePath}: ${error.message}`);
+        return 0;
+    }
+}
 
 async function main() {
     var errors = [];
     var directories = await glob(__dirname + '../../dishes/**/*.md');
+
+    // Check all files in dishes directory for size
+    var allFiles = await glob(__dirname + '../../dishes/**/*');
+
+    // Check each file size
+    for (var filePath of allFiles) {
+        const fileSize = await checkFileSize(filePath);
+        if (fileSize > MAX_FILE_SIZE) {
+            errors.push(`文件 ${filePath} 超过了1MB大小限制 (${(fileSize/1048576).toFixed(2)}MB)! 请压缩图片或分割文件。`);
+        }
+    }
 
     for (var filePath of directories) {
         var data = await fs.readFile(filePath, 'utf8');
