@@ -30,6 +30,18 @@ async function main() {
         }
     }
 
+    // Check for files without extensions
+    for (var filePath of allFiles) {
+        const stats = await fs.stat(filePath);
+        // Only check files (not directories)
+        if (stats.isFile()) {
+            const extension = path.extname(filePath);
+            if (extension === '') {
+                errors.push(`文件 ${filePath} 不符合仓库的规范！文件必须有扩展名！`);
+            }
+        }
+    }
+
     for (var filePath of directories) {
         var data = await fs.readFile(filePath, 'utf8');
         var filename = path.parse(filePath).base.replace(".md","");
