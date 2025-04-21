@@ -47,6 +47,7 @@
 * [意式烤鸡](./../dishes/meat_dish/意式烤鸡.md)
 * [水煮牛肉](./../dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 * [洋葱炒猪肉](./../dishes/meat_dish/洋葱炒猪肉.md)
+* [清蒸鳜鱼](./../dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md)
 * [湖南家常红烧肉](./../dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md)
 * [烤鸡翅](./../dishes/meat_dish/烤鸡翅.md)
 * [甜辣烤全翅](./../dishes/meat_dish/甜辣烤全翅.md)

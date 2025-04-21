@@ -11,7 +11,6 @@
 * [柠檬水](./../dishes/drink/柠檬水/柠檬水.md)
 * [砂糖椰子冰沙](./../dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md)
 * [酸梅汤（半成品加工）](./../dishes/drink/酸梅汤（半成品加工）.md)
-* [清蒸鳜鱼](./../dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md)
 * [黔式腊肠娃娃菜](./../dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md)
 * [半成品意面](./../dishes/semi-finished/半成品意面.md)
 * [速冻水饺](./../dishes/semi-finished/速冻水饺.md)
