@@ -5,6 +5,7 @@
 * [芋泥雪媚娘](./../dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
 * [台式卤肉饭](./../dishes/meat_dish/台式卤肉饭/台式卤肉饭.md)
 * [商芝肉](./../dishes/meat_dish/商芝肉.md)
+* [巴基斯坦牛肉咖喱](./../dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md)
 * [带把肘子](./../dishes/meat_dish/带把肘子.md)
 * [无骨鸡爪](./../dishes/meat_dish/无骨鸡爪/无骨鸡爪.md)
 * [枝竹羊腩煲](./../dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md)
