@@ -11,6 +11,8 @@ jobs:
       # Checkout, install tools..
       - uses: actions/checkout@v2
         with:
+          lfs: true
+          fetch-depth: 0
           token: ${{ secrets.PAT }}
       - uses: actions/setup-node@v4
         with:
