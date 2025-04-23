@@ -11,8 +11,6 @@ jobs:
       # Checkout, install tools..
       - uses: actions/checkout@v2
         with:
-          lfs: true
-          fetch-depth: 0
           token: ${{ secrets.PAT }}
       - uses: actions/setup-node@v4
         with:
@@ -37,6 +35,9 @@ jobs:
     steps:
       # Checkout, install tools..
       - uses: actions/checkout@v2
+        with:
+          lfs: true
+          fetch-depth: 0
       # Use docker to build current directory ./Dockfile
       - name: Login to GitHub Container Registry
         uses: docker/login-action@v1
