@@ -45,3 +45,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
 
 {{after}}
+
+## 衍生作品推荐
+
+- [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
