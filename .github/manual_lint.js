@@ -96,6 +96,34 @@ async function main() {
             errors.push(`文件 ${filePath} 不符合仓库的规范！它的大标题应该是: ${"# " + filename + "的做法"}! 而它现在是 ${titles[0].trim()}!`);
             continue;
         }
+
+        // 检查烹饪难度
+        const mainTitleIndex = dataLines.indexOf(titles[0].trim());
+        const firstSecondTitleIndex = dataLines.indexOf(secondTitles[0].trim());
+        
+        if (mainTitleIndex >= 0 && firstSecondTitleIndex >= 0) {
+            // 检查大标题和第一个二级标题之间是否有预估烹饪难度
+            let hasDifficulty = false;
+            const difficultyPattern = /^预估烹饪难度：★{1,5}$/;
+            
+            for (let i = mainTitleIndex + 1; i < firstSecondTitleIndex; i++) {
+                if (difficultyPattern.test(dataLines[i])) {
+                    hasDifficulty = true;
+                    // 检查星星数量是否在1-5之间
+                    const starCount = (dataLines[i].match(/★/g) || []).length;
+                    if (starCount < 1 || starCount > 5) {
+                        errors.push(`文件 ${filePath} 不符合仓库的规范！烹饪难度的星星数量必须在1-5颗之间！`);
+                    }
+                    break;
+                }
+            }
+            
+            if (!hasDifficulty) {
+                errors.push(`文件 ${filePath} 不符合仓库的规范！在大标题和第一个二级标题之间必须包含"预估烹饪难度：★★"格式的难度评级，星星数量必须在1-5颗之间！`);
+            }
+        }
+        
+                
         if (secondTitles.length != 4) {
             errors.push(`文件 ${filePath} 不符合仓库的规范！它并不是四个标题的格式。请从示例菜模板中创建菜谱！请不要破坏模板的格式！`);
             continue;
