@@ -19,6 +19,7 @@
 * [煮泡面加蛋](./../dishes/staple/煮泡面加蛋.md)
 * [电饭煲蒸米饭](./../dishes/staple/米饭/电饭煲蒸米饭.md)
 * [老干妈拌面](./../dishes/staple/老干妈拌面.md)
+* [螺蛳粉](./../dishes/staple/螺蛳粉.md)
 * [麻油拌面](./../dishes/staple/麻油拌面.md)
 * [凉拌油麦菜](./../dishes/vegetable_dish/凉拌油麦菜.md)
 * [凉拌黄瓜](./../dishes/vegetable_dish/凉拌黄瓜.md)

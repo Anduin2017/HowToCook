@@ -281,6 +281,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [老友猪肉粉](dishes/staple/老友猪肉粉/老友猪肉粉.md)
 - [烙饼](dishes/staple/烙饼/烙饼.md)
 - [凉粉](dishes/staple/凉粉/凉粉.md)
+- [螺蛳粉](dishes/staple/螺蛳粉.md)
 - [麻辣减脂荞麦面](dishes/staple/麻辣减脂荞麦面.md)
 - [麻油拌面](dishes/staple/麻油拌面.md)
 - [电饭煲蒸米饭](dishes/staple/米饭/电饭煲蒸米饭.md)
