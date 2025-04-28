@@ -49,3 +49,4 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 ## 衍生作品推荐
 
 - [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
+- [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
