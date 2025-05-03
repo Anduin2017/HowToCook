@@ -17,6 +17,7 @@
 * [速冻汤圆](./../dishes/semi-finished/速冻汤圆/速冻汤圆.md)
 * [奶油蘑菇汤](./../dishes/soup/奶油蘑菇汤.md)
 * [朱雀汤](./../dishes/soup/朱雀汤/朱雀汤.md)
+* [意式肉酱面](./../dishes/staple/意式肉酱面/意式肉酱面.md)
 * [煮泡面加蛋](./../dishes/staple/煮泡面加蛋.md)
 * [电饭煲蒸米饭](./../dishes/staple/米饭/电饭煲蒸米饭.md)
 * [老干妈拌面](./../dishes/staple/老干妈拌面.md)
