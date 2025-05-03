@@ -63,6 +63,7 @@
 * [芹菜拌茶树菇](./../dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md)
 * [莴笋叶煎饼](./../dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md)
 * [菠菜炒鸡蛋](./../dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
+* [蒜蓉空心菜](./../dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md)
 * [蚝油生菜](./../dishes/vegetable_dish/蚝油生菜.md)
 * [西红柿炒鸡蛋](./../dishes/vegetable_dish/西红柿炒鸡蛋.md)
 * [西红柿豆腐汤羹](./../dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md)
