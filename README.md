@@ -204,6 +204,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [柱候牛腩](dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](dishes/meat_dish/醉排骨/醉排骨.md)
+- [虎皮肘子](dishes/meat_dish/虎皮肘子.md)
 
 ### 水产
 
