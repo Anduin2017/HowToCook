@@ -371,9 +371,9 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 
 - [草莓酱](dishes/condiment/草莓酱/草莓酱.md)
 - [葱油](dishes/condiment/葱油.md)
+- [简易版炒糖色](dishes/condiment/简易版炒糖色.md)
 - [蒜香酱油](dishes/condiment/蒜香酱油.md)
 - [糖醋汁](dishes/condiment/糖醋汁.md)
-- [糖色](dishes/condiment/糖色.md)
 - [油泼辣子](dishes/condiment/油泼辣子/油泼辣子.md)
 - [油酥](dishes/condiment/油酥.md)
 - [炸串酱料](dishes/condiment/炸串酱料.md)

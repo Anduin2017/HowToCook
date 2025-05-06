@@ -11,7 +11,7 @@
 * [红烧鲤鱼](./../dishes/aquatic/红烧鲤鱼.md)
 * [葱油桂鱼](./../dishes/aquatic/葱油桂鱼/葱油桂鱼.md)
 * [香煎翘嘴鱼](./../dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md)
-* [糖色](./../dishes/condiment/糖色.md)
+* [简易版炒糖色](./../dishes/condiment/简易版炒糖色.md)
 * [咖啡椰奶冻](./../dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 * [提拉米苏](./../dishes/dessert/提拉米苏/提拉米苏.md)
 * [烤蛋挞](./../dishes/dessert/烤蛋挞/烤蛋挞.md)
