@@ -12,6 +12,7 @@
 * [水煮肉片](./../dishes/meat_dish/水煮肉片.md)
 * [猪皮冻](./../dishes/meat_dish/猪皮冻/猪皮冻.md)
 * [猪肉烩酸菜](./../dishes/meat_dish/猪肉烩酸菜.md)
+* [虎皮肘子](./../dishes/meat_dish/虎皮肘子.md)
 * [血浆鸭](./../dishes/meat_dish/血浆鸭/血浆鸭.md)
 * [西红柿牛腩](./../dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
 * [酱牛肉](./../dishes/meat_dish/酱牛肉/酱牛肉.md)
