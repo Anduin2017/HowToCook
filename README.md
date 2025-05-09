@@ -101,6 +101,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [素炒豆角](dishes/vegetable_dish/素炒豆角.md)
 - [酸辣土豆丝](dishes/vegetable_dish/酸辣土豆丝.md)
 - [蒜蓉空心菜](dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md)
+- [蒜蓉西兰花](dishes/vegetable_dish/蒜蓉西兰花.md)
 - [糖拌西红柿](dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
 - [莴笋叶煎饼](dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md)
 - [西红柿炒鸡蛋](dishes/vegetable_dish/西红柿炒鸡蛋.md)
