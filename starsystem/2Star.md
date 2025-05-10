@@ -45,6 +45,7 @@
 * [汤面](./../dishes/staple/汤面.md)
 * [炒方便面](./../dishes/staple/炒方便面.md)
 * [煮锅蒸米饭](./../dishes/staple/米饭/煮锅蒸米饭.md)
+* [葱油拌面](./../dishes/staple/葱油拌面.md)
 * [西红柿鸡蛋挂面](./../dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 * [酱拌荞麦面](./../dishes/staple/酱拌荞麦面/酱拌荞麦面.md)
 * [酸辣蕨根粉](./../dishes/staple/酸辣蕨根粉.md)
