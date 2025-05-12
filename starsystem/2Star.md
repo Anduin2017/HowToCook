@@ -54,6 +54,7 @@
 * [麻辣减脂荞麦面](./../dishes/staple/麻辣减脂荞麦面.md)
 * [凉拌木耳](./../dishes/vegetable_dish/凉拌木耳/凉拌木耳.md)
 * [凉拌莴笋](./../dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md)
+* [凉拌豆腐](./../dishes/vegetable_dish/凉拌豆腐.md)
 * [松仁玉米](./../dishes/vegetable_dish/松仁玉米.md)
 * [水油焖蔬菜](./../dishes/vegetable_dish/水油焖蔬菜.md)
 * [洋葱炒鸡蛋](./../dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)

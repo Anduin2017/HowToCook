@@ -87,6 +87,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [烤茄子](dishes/vegetable_dish/烤茄子/烤茄子.md)
 - [榄菜肉末四季豆](dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
 - [雷椒皮蛋](dishes/vegetable_dish/雷椒皮蛋.md)
+- [凉拌豆腐](dishes/vegetable_dish/凉拌豆腐.md)
 - [凉拌黄瓜](dishes/vegetable_dish/凉拌黄瓜.md)
 - [凉拌木耳](dishes/vegetable_dish/凉拌木耳/凉拌木耳.md)
 - [凉拌莴笋](dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md)
