@@ -44,6 +44,7 @@
 * [微波炉腊肠煲仔饭](./../dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 * [汤面](./../dishes/staple/汤面.md)
 * [炒方便面](./../dishes/staple/炒方便面.md)
+* [电饭煲三文鱼炊饭](./../dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md)
 * [煮锅蒸米饭](./../dishes/staple/米饭/煮锅蒸米饭.md)
 * [葱油拌面](./../dishes/staple/葱油拌面.md)
 * [西红柿鸡蛋挂面](./../dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)

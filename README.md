@@ -275,6 +275,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [葱油拌面](dishes/staple/葱油拌面.md)
 - [蛋包饭](dishes/staple/蛋包饭.md)
 - [蛋炒饭](dishes/staple/蛋炒饭.md)
+- [电饭煲三文鱼炊饭](dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md)
 - [豆角焖面](dishes/staple/豆角焖面/豆角焖面.md)
 - [韩式拌饭](dishes/staple/韩式拌饭/韩式拌饭.md)
 - [河南蒸面条](dishes/staple/河南蒸面条/河南蒸面条.md)
