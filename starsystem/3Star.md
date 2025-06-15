@@ -57,6 +57,7 @@
 * [肉饼炖蛋](./../dishes/meat_dish/肉饼炖蛋.md)
 * [芥末罗氏虾](./../dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md)
 * [蚂蚁上树](./../dishes/meat_dish/蚂蚁上树.md)
+* [豉汁蒸白鱔食谱](./../dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔食谱.md)
 * [辣椒炒肉](./../dishes/meat_dish/辣椒炒肉.md)
 * [青椒土豆炒肉](./../dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
 * [香干肉丝](./../dishes/meat_dish/香干肉丝.md)
