@@ -113,6 +113,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [西葫芦炒鸡蛋](dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [小炒藕丁](dishes/vegetable_dish/小炒藕丁/小炒藕丁.md)
 - [洋葱炒鸡蛋](dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
+- [油醋爆蛋](dishes/vegetable_dish/油醋爆蛋.md)
 
 ### 荤菜
 
