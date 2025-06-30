@@ -56,6 +56,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [3 星难度](starsystem/3Star.md)
 - [4 星难度](starsystem/4Star.md)
 - [5 星难度](starsystem/5Star.md)
+- [7 星难度](starsystem/7Star.md)
 
 ### 素菜
 
@@ -403,6 +404,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [戚风蛋糕](dishes/dessert/戚风蛋糕/戚风蛋糕.md)
 - [酸奶意式奶冻](dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md)
 - [提拉米苏](dishes/dessert/提拉米苏/提拉米苏.md)
+- [无厨师机蜂蜜面包](dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md)
 - [雪花酥](dishes/dessert/雪花酥/雪花酥.md)
 - [英式司康](dishes/dessert/英式司康/英式司康.md)
 - [芋泥雪媚娘](dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
