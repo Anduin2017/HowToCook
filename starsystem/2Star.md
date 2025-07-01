@@ -59,6 +59,7 @@
 * [凉拌金针菇](./../dishes/vegetable_dish/凉拌金针菇.md)
 * [松仁玉米](./../dishes/vegetable_dish/松仁玉米.md)
 * [水油焖蔬菜](./../dishes/vegetable_dish/水油焖蔬菜.md)
+* [油醋爆蛋](./../dishes/vegetable_dish/油醋爆蛋.md)
 * [洋葱炒鸡蛋](./../dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
 * [清炒花菜](./../dishes/vegetable_dish/清炒花菜.md)
 * [炒青菜](./../dishes/vegetable_dish/炒青菜.md)

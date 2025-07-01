@@ -20,7 +20,7 @@
 
 ```bash
 docker pull ghcr.io/anduin2017/how-to-cook:latest
-docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
+docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 ```
 
 如需下载 PDF 版本，可以在浏览器中访问 [/document.pdf](https://cook.aiursoft.cn/document.pdf)
@@ -56,6 +56,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [3 星难度](starsystem/3Star.md)
 - [4 星难度](starsystem/4Star.md)
 - [5 星难度](starsystem/5Star.md)
+- [7 星难度](starsystem/7Star.md)
 
 ### 素菜
 
@@ -81,7 +82,6 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [蒸箱鸡蛋羹](dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md)
 - [鸡蛋火腿炒黄瓜](dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 - [茄子炖土豆](dishes/vegetable_dish/茄子炖土豆.md)
-- [茭白炒肉](dishes/vegetable_dish/茭白炒肉/茭白炒肉.md)
 - [椒盐玉米](dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
 - [金针菇日本豆腐煲](dishes/vegetable_dish/金针菇日本豆腐煲.md)
 - [烤茄子](dishes/vegetable_dish/烤茄子/烤茄子.md)
@@ -113,11 +113,13 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [西葫芦炒鸡蛋](dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [小炒藕丁](dishes/vegetable_dish/小炒藕丁/小炒藕丁.md)
 - [洋葱炒鸡蛋](dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
+- [油醋爆蛋](dishes/vegetable_dish/油醋爆蛋.md)
 
 ### 荤菜
 
 - [巴基斯坦牛肉咖喱](dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md)
 - [白菜猪肉炖粉条](dishes/meat_dish/白菜猪肉炖粉条.md)
+- [豉汁蒸白鱔食谱](dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔食谱.md)
 - [带把肘子](dishes/meat_dish/带把肘子.md)
 - [冬瓜酿肉](dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
 - [豆豉鲮鱼油麦菜](dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md)
@@ -145,6 +147,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [姜葱捞鸡](dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md)
 - [酱牛肉](dishes/meat_dish/酱牛肉/酱牛肉.md)
 - [酱排骨](dishes/meat_dish/酱排骨/酱排骨.md)
+- [茭白炒肉](dishes/meat_dish/茭白炒肉/茭白炒肉.md)
 - [椒盐排条](dishes/meat_dish/椒盐排条.md)
 - [芥末罗氏虾](dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md)
 - [咖喱肥牛](dishes/meat_dish/咖喱肥牛/咖喱肥牛.md)
@@ -361,6 +364,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [海边落日](dishes/drink/海边落日/海边落日.md)
 - [金菲士](dishes/drink/金菲士/金菲士.md)
 - [金汤力](dishes/drink/金汤力/金汤力.md)
+- [酒酿醪糟](dishes/drink/酒酿醪糟/酒酿醪糟.md)
 - [可乐桶](dishes/drink/可乐桶.md)
 - [奶茶](dishes/drink/奶茶.md)
 - [柠檬水](dishes/drink/柠檬水/柠檬水.md)
@@ -400,6 +404,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [戚风蛋糕](dishes/dessert/戚风蛋糕/戚风蛋糕.md)
 - [酸奶意式奶冻](dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md)
 - [提拉米苏](dishes/dessert/提拉米苏/提拉米苏.md)
+- [无厨师机蜂蜜面包](dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md)
 - [雪花酥](dishes/dessert/雪花酥/雪花酥.md)
 - [英式司康](dishes/dessert/英式司康/英式司康.md)
 - [芋泥雪媚娘](dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
