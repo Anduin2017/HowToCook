@@ -20,7 +20,7 @@
 
 ```bash
 docker pull ghcr.io/anduin2017/how-to-cook:latest
-docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
+docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 ```
 
 如需下载 PDF 版本，可以在浏览器中访问 [/document.pdf](https://cook.aiursoft.cn/document.pdf)

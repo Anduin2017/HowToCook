@@ -1,7 +1,7 @@
 {
   "name": "how-to-cook",
   "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Anduin2017/HowToCook.git"

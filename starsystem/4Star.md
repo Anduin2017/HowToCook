@@ -17,6 +17,7 @@
 * [烤蛋挞](./../dishes/dessert/烤蛋挞/烤蛋挞.md)
 * [酸奶意式奶冻](./../dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md)
 * [魔芋蛋糕](./../dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
+* [酒酿醪糟](./../dishes/drink/酒酿醪糟/酒酿醪糟.md)
 * [酸梅汤](./../dishes/drink/酸梅汤/酸梅汤.md)
 * [乡村啤酒鸭](./../dishes/meat_dish/乡村啤酒鸭.md)
 * [冬瓜酿肉](./../dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
