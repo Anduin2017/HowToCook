@@ -35,6 +35,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 - [厨房准备](tips/厨房准备.md)
 - [如何选择现在吃什么](tips/如何选择现在吃什么.md)
+- [食材相克与禁忌](tips/食材相克与禁忌.md)
 - [高压力锅](tips/learn/高压力锅.md)
 - [空气炸锅](tips/learn/空气炸锅.md)
 - [去腥](tips/learn/去腥.md)
