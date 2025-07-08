@@ -51,6 +51,7 @@
 * [酱拌荞麦面](./../dishes/staple/酱拌荞麦面/酱拌荞麦面.md)
 * [酸辣蕨根粉](./../dishes/staple/酸辣蕨根粉.md)
 * [醪糟小汤圆](./../dishes/staple/醪糟小汤圆.md)
+* [陕西油泼面](./../dishes/staple/陕西油泼面/陕西油泼面.md)
 * [鲣鱼海苔玉米饭](./../dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md)
 * [麻辣减脂荞麦面](./../dishes/staple/麻辣减脂荞麦面.md)
 * [凉拌木耳](./../dishes/vegetable_dish/凉拌木耳/凉拌木耳.md)
