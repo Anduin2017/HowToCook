@@ -19,6 +19,7 @@
 * [糖醋汁](./../dishes/condiment/糖醋汁.md)
 * [草莓酱](./../dishes/condiment/草莓酱/草莓酱.md)
 * [蒜香酱油](./../dishes/condiment/蒜香酱油.md)
+* [烤箱版巴斯克芝士蛋糕](./../dishes/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md)
 * [草莓冰淇淋](./../dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
 * [龟苓膏](./../dishes/dessert/龟苓膏/龟苓膏.md)
 * [冬瓜茶](./../dishes/drink/冬瓜茶.md)

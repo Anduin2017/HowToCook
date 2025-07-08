@@ -400,6 +400,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [红柚蛋糕](dishes/dessert/红柚蛋糕/红柚蛋糕.md)
 - [咖啡椰奶冻](dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 - [烤蛋挞](dishes/dessert/烤蛋挞/烤蛋挞.md)
+- [烤箱版巴斯克芝士蛋糕](dishes/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md)
 - [玛格丽特饼干](dishes/dessert/玛格丽特饼干/玛格丽特饼干.md)
 - [魔芋蛋糕](dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](dishes/dessert/戚风蛋糕/戚风蛋糕.md)
