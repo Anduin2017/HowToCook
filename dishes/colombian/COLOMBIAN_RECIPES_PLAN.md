@@ -27,7 +27,10 @@ El proyecto se encuentra en la fase inicial de enriquecimiento de contenido. Se 
 | F1-01 | Completar análisis nutricional de ingredientes de Bandeja Paisa    | ALTA      | ✅ Completado | Cascade     |
 | F1-02 | Síntesis de comentarios y consejos de usuarios para Bandeja Paisa | MEDIA     | ✅ Completado | Cascade     |
 | F1-03 | Integrar análisis en `bandeja_paisa.md`                           | ALTA      | ✅ Completado | Cascade     |
-| F1-04 | Crear archivo base y enriquecer receta de **Ajiaco Santafereño**     | MEDIA     | ⬜ Pendiente | Cascade     |
+| F1-04 | Crear archivo base y enriquecer receta de **Ajiaco Santafereño**     | MEDIA     | ⚙️ En Progreso | Cascade     |
+|       | _Sub-Task: Completar investigación nutricional de ingredientes_      | MEDIA     | ⬜ Pendiente | Jules       |
+|       | _Sub-Task: Investigar y sintetizar sabiduría colectiva (consejos)_ | MEDIA     | ⬜ Pendiente | Jules       |
+|       | _Sub-Task: Integrar análisis en `ajiaco_santafereño.md`_         | MEDIA     | ⬜ Pendiente | Jules       |
 | F1-05 | Crear archivo base y enriquecer receta de **Mute Santandereano**   | MEDIA     | ⬜ Pendiente | Cascade     |
 | F1-06 | Crear archivo base y enriquecer receta de **Lechona Tolimense**    | MEDIA     | ⬜ Pendiente | Cascade     |
 
