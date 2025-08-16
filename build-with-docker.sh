@@ -4,24 +4,17 @@
 node_image=node:22-alpine
 python_image=python:3.11
 
-run_in_docker() {
-    image="$1"
-    command="$2"
-
-    docker run --rm -it \
-        -v $(pwd):/app \
-        -w /app \
-        --entrypoint /bin/sh \
-        $image -c "$command"
-}
-
 
 # npm builld
-run_in_docker $node_image "
-npm install --loglevel verbose;
-npm run build;
-npm run lint;
-"
+docker run --rm -it \
+    -v $(pwd):/app \
+    -w /app \
+    --entrypoint /bin/sh \
+    $node_image -c """
+npm install --loglevel verbose
+npm run build
+npm run lint
+"""
 
 # mkdocs build
 echo """
@@ -35,8 +28,23 @@ RUN pip install -r requirements.txt
 """ >/tmp/Dockerfile.mkdocs
 
 docker build . -f /tmp/Dockerfile.mkdocs -t mkdocs-env
-rm -rf site node_modules
-run_in_docker mkdocs-env "mkdocs build"
+docker run --rm -it \
+    -v $(pwd):/src \
+    -w /app \
+    --entrypoint /bin/sh \
+    mkdocs-env -c """
+for file in \$(ls /src); do
+  if [ \$file != "site" -a \$file != "node_modules" ]; then  # folder to ignore for mkdocs build
+    ln -s /src/\$file /app/\$file
+  fi
+done
+
+mkdocs build && rm -rf /src/site && cp -R /app/site /src/site
+"""
+
+
+
+
 
 # Tips: when we clone the remote repo to local, we would found the image files are unabe to open and the contents are like such:
 #   version https://git-lfs.github.com/spec/v1
