@@ -58,4 +58,10 @@ mkdocs build && rm -rf /src/site && cp -R /app/site /src/site
 #   git lfs install
 #   git lfs pull
 #   git lfs ls-files  (check which file is managed by LFS)
-# And now you can open files properly
+# And now you can open files properly.
+
+# For those using repo not supports LFS (error like: LFS only supported repository in paid or trial enterprise), do the following:
+#   git lfs uninstall
+#   git add --renormalize .
+#   git commit -m "Convert LFS files to regular Git files"
+#   git push
