@@ -45,23 +45,3 @@ done
 
 mkdocs build && rm -rf /src/site && cp -R /app/site /src/site
 """
-
-
-
-
-
-# Tips: when we clone the remote repo to local, we would found the image files are unabe to open and the contents are like such:
-#   version https://git-lfs.github.com/spec/v1
-#   oid sha256:4d7a214614ab2935c943f9e0ff69d22eadbb8f32b1258daaa5e2ca24d17e2393
-#   size 123456789
-# Then we have to install git-lfs (using `brew` for example) and do the following:
-#   git lfs install
-#   git lfs pull
-#   git lfs ls-files  (check which file is managed by LFS)
-# And now you can open files properly.
-
-# For those using repo not supports LFS (error like: LFS only supported repository in paid or trial enterprise), do the following:
-#   git lfs uninstall
-#   git add --renormalize .
-#   git commit -m "Convert LFS files to regular Git files"
-#   git push
