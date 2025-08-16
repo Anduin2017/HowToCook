@@ -20,6 +20,8 @@ npm run lint
 echo """
 FROM $python_image
 
+ENV PIP_INDEX_URL=https://repo.huaweicloud.com/repository/pypi/simple
+
 RUN sed -i 's/deb.debian.org/mirrors.huaweicloud.com/g' /etc/apt/sources.list.d/*.sources \
     && sed -i 's/security.debian.org/mirrors.huaweicloud.com/g' /etc/apt/sources.list.d/*.sources
 RUN apt-get update && apt-get install -y weasyprint fonts-noto-cjk wget unzip
