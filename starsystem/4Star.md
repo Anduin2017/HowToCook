@@ -78,3 +78,4 @@
 * [蒸卤面](./../dishes/staple/蒸卤面.md)
 * [示例菜](./../dishes/template/示例菜/示例菜.md)
 * [红烧茄子](./../dishes/vegetable_dish/红烧茄子.md)
+* [煎烤羊排](./../dishes/meat_dish/煎烤羊排/煎烤羊排.md)
