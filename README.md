@@ -52,6 +52,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 ### 按难度索引
 
+- [0 星难度](starsystem/0Star.md)
 - [1 星难度](starsystem/1Star.md)
 - [2 星难度](starsystem/2Star.md)
 - [3 星难度](starsystem/3Star.md)
@@ -143,6 +144,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [回锅肉](dishes/meat_dish/回锅肉/回锅肉.md)
 - [尖椒炒牛肉](dishes/meat_dish/尖椒炒牛肉.md)
 - [尖叫牛蛙](dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md)
+- [煎烤羊排](dishes/meat_dish/煎烤羊排/煎烤羊排.md)
 - [姜炒鸡](dishes/meat_dish/姜炒鸡/姜炒鸡.md)
 - [姜葱捞鸡](dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md)
 - [酱牛肉](dishes/meat_dish/酱牛肉/酱牛肉.md)
