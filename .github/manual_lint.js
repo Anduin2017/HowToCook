@@ -5,8 +5,8 @@ const path = require('path');
 
 const MAX_FILE_SIZE = 1024 * 1024; // 1MB
 // glob 模式，定位菜谱 Markdown 文件和所有文件
-const DISHES_GLOB = path.resolve(__dirname, '../../dishes/**/*.md');
-const ALL_FILES_GLOB = path.resolve(__dirname, '../../dishes/**/*');
+const DISHES_GLOB = path.resolve(__dirname, '../dishes/**/*.md');
+const ALL_FILES_GLOB = path.resolve(__dirname, '../dishes/**/*');
 
 // 工具函数：获取文件状态，包括大小
 async function getFileStats(filePath) {
