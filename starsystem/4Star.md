@@ -29,6 +29,7 @@
 * [宫保鸡丁](./../dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 * [小炒黄牛肉](./../dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md)
 * [尖叫牛蛙](./../dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md)
+* [煎烤羊排](./../dishes/meat_dish/煎烤羊排/煎烤羊排.md)
 * [山西过油肉](./../dishes/meat_dish/山西过油肉.md)
 * [干煸仔鸡](./../dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
 * [广式萝卜牛腩](./../dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md)
