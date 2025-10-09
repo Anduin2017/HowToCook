@@ -1,5 +1,5 @@
 # 1 星难度菜品
-
+* [鸡蛋花](dishes/vegetable_dish/鸡蛋花/鸡蛋花.md)
 * [吐司果酱](./../dishes/breakfast/吐司果酱.md)
 * [微波炉荷包蛋](./../dishes/breakfast/微波炉荷包蛋.md)
 * [微波炉蛋糕](./../dishes/breakfast/微波炉蛋糕.md)
