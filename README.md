@@ -81,6 +81,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [鸡蛋羹](dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md)
 - [微波炉鸡蛋羹](dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md)
 - [蒸箱鸡蛋羹](dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md)
+- [鸡蛋花](dishes/vegetable_dish/鸡蛋花/鸡蛋花.md)
 - [鸡蛋火腿炒黄瓜](dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 - [茄子炖土豆](dishes/vegetable_dish/茄子炖土豆.md)
 - [椒盐玉米](dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
