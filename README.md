@@ -60,6 +60,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 ### 素菜
 
+- [鸡蛋花](dishes/vegetable_dish/鸡蛋花/鸡蛋花.md)
 - [拔丝土豆](dishes/vegetable_dish/拔丝土豆/拔丝土豆.md)
 - [白灼菜心](dishes/vegetable_dish/白灼菜心/白灼菜心.md)
 - [包菜炒鸡蛋粉丝](dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md)
