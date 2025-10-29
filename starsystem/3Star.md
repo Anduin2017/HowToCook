@@ -96,6 +96,7 @@
 * [豆角焖面](./../dishes/staple/豆角焖面/豆角焖面.md)
 * [韩式拌饭](./../dishes/staple/韩式拌饭/韩式拌饭.md)
 * [韭菜盒子](./../dishes/staple/韭菜盒子.md)
+* [可乐炒饭](./../dishes/staple/可乐炒饭.md)
 * [上汤娃娃菜](./../dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
 * [包菜炒鸡蛋粉丝](./../dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md)
 * [地三鲜](./../dishes/vegetable_dish/地三鲜.md)
