@@ -114,5 +114,5 @@
 * [蒲烧茄子](./../dishes/vegetable_dish/蒲烧茄子.md)
 * [虎皮青椒](./../dishes/vegetable_dish/虎皮青椒/虎皮青椒.md)
 * [蚝油三鲜菇](./../dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md)
-* [蒸箱鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md)
 * [金钱蛋](./../dishes/vegetable_dish/金钱蛋.md)
+* [蒸箱鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md)
