@@ -310,6 +310,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [陕西油泼面](dishes/staple/陕西油泼面/陕西油泼面.md)
 - [芝麻烧饼](dishes/staple/烧饼/芝麻烧饼.md)
 - [手工水饺](dishes/staple/手工水饺.md)
+- [鲜肉烧卖](dishes/staple/鲜肉烧卖.md)
 - [酸辣蕨根粉](dishes/staple/酸辣蕨根粉.md)
 - [汤面](dishes/staple/汤面.md)
 - [微波炉腊肠煲仔饭](dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
