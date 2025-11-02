@@ -291,6 +291,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [鲣鱼海苔玉米饭](dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md)
 - [酱拌荞麦面](dishes/staple/酱拌荞麦面/酱拌荞麦面.md)
 - [韭菜盒子](dishes/staple/韭菜盒子.md)
+- [可乐炒饭](dishes/staple/可乐炒饭.md)
 - [空气炸锅照烧鸡饭](dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md)
 - [醪糟小汤圆](dishes/staple/醪糟小汤圆.md)
 - [老干妈拌面](dishes/staple/老干妈拌面.md)
@@ -321,7 +322,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [蒸卤面](dishes/staple/蒸卤面.md)
 - [中式馅饼](dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](dishes/staple/煮泡面加蛋.md)
-- [可乐炒饭](dishes/staple/可乐炒饭.md)
 
 ### 半成品加工
 
