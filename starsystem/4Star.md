@@ -77,5 +77,6 @@
 * [烙饼](./../dishes/staple/烙饼/烙饼.md)
 * [空气炸锅照烧鸡饭](./../dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md)
 * [蒸卤面](./../dishes/staple/蒸卤面.md)
+* [鲜肉烧卖](./../dishes/staple/鲜肉烧卖.md)
 * [示例菜](./../dishes/template/示例菜/示例菜.md)
 * [红烧茄子](./../dishes/vegetable_dish/红烧茄子.md)
