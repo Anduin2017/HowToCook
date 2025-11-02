@@ -321,6 +321,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [蒸卤面](dishes/staple/蒸卤面.md)
 - [中式馅饼](dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](dishes/staple/煮泡面加蛋.md)
+- [可乐炒饭](dishes/staple/可乐炒饭.md)
 
 ### 半成品加工
 
