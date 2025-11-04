@@ -95,6 +95,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [凉拌木耳](dishes/vegetable_dish/凉拌木耳/凉拌木耳.md)
 - [凉拌莴笋](dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md)
 - [凉拌油麦菜](dishes/vegetable_dish/凉拌油麦菜.md)
+- [皮蛋豆腐](dishes/vegetable_dish/皮蛋豆腐.md)
 - [蒲烧茄子](dishes/vegetable_dish/蒲烧茄子.md)
 - [芹菜拌茶树菇](dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md)
 - [清炒花菜](dishes/vegetable_dish/清炒花菜.md)
@@ -116,7 +117,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [小炒藕丁](dishes/vegetable_dish/小炒藕丁/小炒藕丁.md)
 - [洋葱炒鸡蛋](dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
 - [油醋爆蛋](dishes/vegetable_dish/油醋爆蛋.md)
-- [皮蛋豆腐](dishes/vegetable_dish/皮蛋豆腐.md)
 
 ### 荤菜
 
@@ -237,6 +237,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [鲤鱼炖白菜](dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
 - [清蒸鲈鱼](dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
 - [清蒸生蚝](dishes/aquatic/清蒸生蚝.md)
+- [肉蟹煲](dishes/aquatic/肉蟹煲.md)
 - [水煮鱼](dishes/aquatic/水煮鱼.md)
 - [蒜蓉虾](dishes/aquatic/蒜蓉虾/蒜蓉虾.md)
 - [蒜香黄油虾](dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md)
@@ -245,7 +246,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [香煎翘嘴鱼](dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md)
 - [小龙虾](dishes/aquatic/小龙虾/小龙虾.md)
 - [油焖大虾](dishes/aquatic/油焖大虾/油焖大虾.md)
-- [肉蟹煲](dishes/aquatic/肉蟹煲.md)
 
 ### 早餐
 
