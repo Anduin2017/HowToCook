@@ -28,3 +28,4 @@
 * [清蒸南瓜](./../dishes/vegetable_dish/清蒸南瓜.md)
 * [炒滑蛋](./../dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
 * [鸡蛋花](./../dishes/vegetable_dish/鸡蛋花/鸡蛋花.md)
+* [皮蛋豆腐](./../dishes/vegetable_dish/皮蛋豆腐.md)
