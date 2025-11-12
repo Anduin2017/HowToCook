@@ -2,6 +2,7 @@
 
 * [吐司果酱](./../dishes/breakfast/吐司果酱.md)
 * [微波炉荷包蛋](./../dishes/breakfast/微波炉荷包蛋.md)
+* [微波炉蒸蛋](./../dishes/breakfast/微波炉蒸蛋.md)
 * [微波炉蛋糕](./../dishes/breakfast/微波炉蛋糕.md)
 * [牛奶燕麦](./../dishes/breakfast/牛奶燕麦.md)
 * [空气炸锅面包片](./../dishes/breakfast/空气炸锅面包片.md)
