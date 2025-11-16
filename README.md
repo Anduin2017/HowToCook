@@ -7,6 +7,7 @@
 ![Man hours](https://manhours.aiursoft.com/r/github.com/anduin2017/howtocook.svg)
 [![Docker](https://img.shields.io/badge/docker-latest-blue?logo=docker)](https://github.com/Anduin2017/HowToCook/pkgs/container/how-to-cook)
 [![Join the AnduinOS Community on Revolt](https://img.shields.io/badge/Revolt-Join-fd6671?style=flat-square)](https://rvlt.gg/ndApqZEs)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAnduin2017%2FHowToCook.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAnduin2017%2FHowToCook?ref=badge_shield)
 
 最近宅在家做饭，作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
@@ -434,3 +435,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
 - [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
 - [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAnduin2017%2FHowToCook.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAnduin2017%2FHowToCook?ref=badge_large)
