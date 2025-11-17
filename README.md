@@ -57,6 +57,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [3 星难度](starsystem/3Star.md)
 - [4 星难度](starsystem/4Star.md)
 - [5 星难度](starsystem/5Star.md)
+- [8 星难度](starsystem/8Star.md)
 
 ### 素菜
 
@@ -323,10 +324,10 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [扬州炒饭](dishes/staple/扬州炒饭/扬州炒饭.md)
 - [意式肉酱面](dishes/staple/意式肉酱面/意式肉酱面.md)
 - [炸酱面](dishes/staple/炸酱面.md)
+- [照烧鸡腿饭](dishes/staple/照烧鸡腿饭.md)
 - [蒸卤面](dishes/staple/蒸卤面.md)
 - [中式馅饼](dishes/staple/中式馅饼/中式馅饼.md)
 - [煮泡面加蛋](dishes/staple/煮泡面加蛋.md)
-* [照烧鸡腿饭](dishes/staple/照烧鸡腿饭.md)
 
 ### 半成品加工
 
