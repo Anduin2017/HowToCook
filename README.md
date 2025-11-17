@@ -232,6 +232,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [红烧鱼头](dishes/aquatic/红烧鱼头.md)
 - [黄油煎虾](dishes/aquatic/黄油煎虾/黄油煎虾.md)
 - [烤鱼](dishes/aquatic/混合烤鱼/烤鱼.md)
+- [酱炖蟹](dishes/aquatic/酱炖蟹.md)
 - [芥末黄油罗氏虾](dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md)
 - [咖喱炒蟹](dishes/aquatic/咖喱炒蟹.md)
 - [鲤鱼炖白菜](dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
@@ -246,7 +247,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [香煎翘嘴鱼](dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md)
 - [小龙虾](dishes/aquatic/小龙虾/小龙虾.md)
 - [油焖大虾](dishes/aquatic/油焖大虾/油焖大虾.md)
-- [酱炖蟹](dishes/aquatic/酱炖蟹.md)
 
 ### 早餐
 
