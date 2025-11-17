@@ -60,6 +60,7 @@
 * [香辣鸡爪煲](./../dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md)
 * [鱼香肉丝](./../dishes/meat_dish/鱼香肉丝.md)
 * [黑椒牛柳](./../dishes/meat_dish/黑椒牛柳/黑椒牛柳.md)
+* [豉汁排骨](./../dishes/meat_dish/豉汁排骨.md)
 * [排骨苦瓜汤](./../dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md)
 * [生汆丸子汤](./../dishes/soup/生汆丸子汤.md)
 * [罗宋汤](./../dishes/soup/罗宋汤.md)
