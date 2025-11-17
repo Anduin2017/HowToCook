@@ -123,6 +123,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 - [巴基斯坦牛肉咖喱](dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md)
 - [白菜猪肉炖粉条](dishes/meat_dish/白菜猪肉炖粉条.md)
+- [豉汁排骨](dishes/meat_dish/豉汁排骨.md)
 - [豉汁蒸白鱔](dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md)
 - [带把肘子](dishes/meat_dish/带把肘子.md)
 - [冬瓜酿肉](dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
@@ -219,7 +220,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [柱候牛腩](dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](dishes/meat_dish/醉排骨/醉排骨.md)
-- [豉汁排骨](dishes/meat_dish/豉汁排骨.md)
 
 ### 水产
 
