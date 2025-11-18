@@ -101,6 +101,7 @@
 * [上汤娃娃菜](./../dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
 * [包菜炒鸡蛋粉丝](./../dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md)
 * [地三鲜](./../dishes/vegetable_dish/地三鲜.md)
+* [家常日本豆腐](./../dishes/vegetable_dish/家常日本豆腐.md)
 * [小炒藕丁](./../dishes/vegetable_dish/小炒藕丁/小炒藕丁.md)
 * [干锅花菜](./../dishes/vegetable_dish/干锅花菜/干锅花菜.md)
 * [手撕包菜](./../dishes/vegetable_dish/手撕包菜/手撕包菜.md)
@@ -118,4 +119,3 @@
 * [蚝油三鲜菇](./../dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md)
 * [金钱蛋](./../dishes/vegetable_dish/金钱蛋.md)
 * [蒸箱鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md)
-* [家常日本豆腐](./../dishes/vegetable_dish/家常日本豆腐.md)

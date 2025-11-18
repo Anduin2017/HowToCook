@@ -84,6 +84,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [鸡蛋花](dishes/vegetable_dish/鸡蛋花/鸡蛋花.md)
 - [鸡蛋火腿炒黄瓜](dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md)
 - [茄子炖土豆](dishes/vegetable_dish/茄子炖土豆.md)
+- [家常日本豆腐](dishes/vegetable_dish/家常日本豆腐.md)
 - [椒盐玉米](dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
 - [金钱蛋](dishes/vegetable_dish/金钱蛋.md)
 - [金针菇日本豆腐煲](dishes/vegetable_dish/金针菇日本豆腐煲.md)
@@ -118,7 +119,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [小炒藕丁](dishes/vegetable_dish/小炒藕丁/小炒藕丁.md)
 - [洋葱炒鸡蛋](dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
 - [油醋爆蛋](dishes/vegetable_dish/油醋爆蛋.md)
-- [家常日本豆腐](dishes/vegetable_dish/家常日本豆腐.md)
 
 ### 荤菜
 
