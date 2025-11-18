@@ -118,3 +118,4 @@
 * [蚝油三鲜菇](./../dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md)
 * [金钱蛋](./../dishes/vegetable_dish/金钱蛋.md)
 * [蒸箱鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md)
+* [家常日本豆腐](./../dishes/vegetable_dish/家常日本豆腐.md)
