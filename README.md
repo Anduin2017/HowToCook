@@ -367,6 +367,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [玉米排骨汤](dishes/soup/玉米排骨汤/玉米排骨汤.md)
 - [朱雀汤](dishes/soup/朱雀汤/朱雀汤.md)
 - [紫菜蛋花汤](dishes/soup/紫菜蛋花汤.md)
+- [黄瓜皮蛋汤](dishes/soup/黄瓜皮蛋汤.md)
 
 ### 饮料
 

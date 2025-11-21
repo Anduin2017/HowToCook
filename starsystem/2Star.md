@@ -42,6 +42,7 @@
 * [紫菜蛋花汤](./../dishes/soup/紫菜蛋花汤.md)
 * [西红柿鸡蛋汤](./../dishes/soup/西红柿鸡蛋汤.md)
 * [金针菇汤](./../dishes/soup/金针菇汤.md)
+* [黄瓜皮蛋汤](./../dishes/soup/黄瓜皮蛋汤.md)
 * [微波炉腊肠煲仔饭](./../dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 * [汤面](./../dishes/staple/汤面.md)
 * [炒方便面](./../dishes/staple/炒方便面.md)
