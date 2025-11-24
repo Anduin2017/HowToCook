@@ -24,6 +24,7 @@
 * [老干妈拌面](./../dishes/staple/老干妈拌面.md)
 * [螺蛳粉](./../dishes/staple/螺蛳粉.md)
 * [麻油拌面](./../dishes/staple/麻油拌面.md)
+* [猪油拌饭](./../dishes/staple/猪油拌饭.md)
 * [凉拌油麦菜](./../dishes/vegetable_dish/凉拌油麦菜.md)
 * [凉拌黄瓜](./../dishes/vegetable_dish/凉拌黄瓜.md)
 * [清蒸南瓜](./../dishes/vegetable_dish/清蒸南瓜.md)
