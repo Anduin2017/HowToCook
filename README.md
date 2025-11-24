@@ -131,6 +131,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [豆豉鲮鱼油麦菜](dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md)
 - [番茄红酱](dishes/meat_dish/番茄红酱.md)
 - [粉蒸肉](dishes/meat_dish/粉蒸肉.md)
+- [腐乳肉](dishes/meat_dish/腐乳肉.md)
 - [干煸仔鸡](dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
 - [宫保鸡丁](dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
 - [咕噜肉](dishes/meat_dish/咕噜肉.md)
@@ -221,7 +222,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [柱候牛腩](dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](dishes/meat_dish/醉排骨/醉排骨.md)
-- [腐乳肉](dishes/meat_dish/腐乳肉.md)
 
 ### 水产
 
@@ -330,8 +330,8 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [照烧鸡腿饭](dishes/staple/照烧鸡腿饭.md)
 - [蒸卤面](dishes/staple/蒸卤面.md)
 - [中式馅饼](dishes/staple/中式馅饼/中式馅饼.md)
-- [煮泡面加蛋](dishes/staple/煮泡面加蛋.md)
 - [猪油拌饭](dishes/staple/猪油拌饭.md)
+- [煮泡面加蛋](dishes/staple/煮泡面加蛋.md)
 
 ### 半成品加工
 
@@ -353,6 +353,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [陈皮排骨汤](dishes/soup/陈皮排骨汤.md)
 - [番茄牛肉蛋花汤](dishes/soup/番茄牛肉蛋花汤.md)
 - [勾芡香菇汤](dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
+- [黄瓜皮蛋汤](dishes/soup/黄瓜皮蛋汤.md)
 - [金针菇汤](dishes/soup/金针菇汤.md)
 - [菌菇炖乳鸽](dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
 - [腊八粥](dishes/soup/腊八粥.md)
@@ -369,7 +370,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [玉米排骨汤](dishes/soup/玉米排骨汤/玉米排骨汤.md)
 - [朱雀汤](dishes/soup/朱雀汤/朱雀汤.md)
 - [紫菜蛋花汤](dishes/soup/紫菜蛋花汤.md)
-- [黄瓜皮蛋汤](dishes/soup/黄瓜皮蛋汤.md)
 
 ### 饮料
 
