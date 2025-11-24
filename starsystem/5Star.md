@@ -17,6 +17,7 @@
 * [血浆鸭](./../dishes/meat_dish/血浆鸭/血浆鸭.md)
 * [西红柿牛腩](./../dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
 * [酱牛肉](./../dishes/meat_dish/酱牛肉/酱牛肉.md)
+* [腐乳肉](./../dishes/meat_dish/腐乳肉.md)
 * [牛油火锅底料](./../dishes/semi-finished/牛油火锅底料.md)
 * [基础牛奶面包](./../dishes/staple/基础牛奶面包/基础牛奶面包.md)
 * [手工水饺](./../dishes/staple/手工水饺.md)
