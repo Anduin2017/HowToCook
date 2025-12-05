@@ -1,5 +1,6 @@
 # 3 星难度菜品
 
+* [响油鳝丝](./../dishes/aquatic/响油鳝丝.md)
 * [干煎阿根廷红虾](./../dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md)
 * [微波葱姜黑鳕鱼](./../dishes/aquatic/微波葱姜黑鳕鱼.md)
 * [清蒸生蚝](./../dishes/aquatic/清蒸生蚝.md)
@@ -11,7 +12,6 @@
 * [鲤鱼炖白菜](./../dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
 * [鳊鱼炖豆腐](./../dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
 * [黄油煎虾](./../dishes/aquatic/黄油煎虾/黄油煎虾.md)
-* [响油鳝丝](./../dishes/aquatic/响油鳝丝.md)
 * [温泉蛋](./../dishes/breakfast/温泉蛋/温泉蛋.md)
 * [溏心蛋](./../dishes/breakfast/溏心蛋.md)
 * [苏格兰蛋](./../dishes/breakfast/苏格兰蛋/苏格兰蛋.md)

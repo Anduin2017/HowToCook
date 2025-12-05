@@ -249,9 +249,9 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [糖醋鲤鱼](dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md)
 - [微波葱姜黑鳕鱼](dishes/aquatic/微波葱姜黑鳕鱼.md)
 - [香煎翘嘴鱼](dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md)
+- [响油鳝丝](dishes/aquatic/响油鳝丝.md)
 - [小龙虾](dishes/aquatic/小龙虾/小龙虾.md)
 - [油焖大虾](dishes/aquatic/油焖大虾/油焖大虾.md)
-- [响油鳝丝](dishes/aquatic/响油鳝丝.md)
 
 ### 早餐
 
@@ -325,6 +325,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [微波炉腊肠煲仔饭](dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 - [西红柿鸡蛋挂面](dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 - [鲜肉烧卖](dishes/staple/鲜肉烧卖.md)
+- [咸肉菜饭](dishes/staple/咸肉菜饭.md)
 - [扬州炒饭](dishes/staple/扬州炒饭/扬州炒饭.md)
 - [意式肉酱面](dishes/staple/意式肉酱面/意式肉酱面.md)
 - [炸酱面](dishes/staple/炸酱面.md)
@@ -333,7 +334,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [中式馅饼](dishes/staple/中式馅饼/中式馅饼.md)
 - [猪油拌饭](dishes/staple/猪油拌饭.md)
 - [煮泡面加蛋](dishes/staple/煮泡面加蛋.md)
-- [咸肉菜饭](dishes/staple/咸肉菜饭.md)
 
 ### 半成品加工
 
