@@ -78,6 +78,7 @@
 * [火腿饭团](./../dishes/staple/火腿饭团/火腿饭团.md)
 * [炒河粉](./../dishes/staple/炒河粉.md)
 * [烙饼](./../dishes/staple/烙饼/烙饼.md)
+* [照烧鸡腿饭](./../dishes/staple/照烧鸡腿饭.md)
 * [空气炸锅照烧鸡饭](./../dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md)
 * [蒸卤面](./../dishes/staple/蒸卤面.md)
 * [鲜肉烧卖](./../dishes/staple/鲜肉烧卖.md)

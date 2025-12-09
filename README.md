@@ -57,7 +57,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [3 星难度](starsystem/3Star.md)
 - [4 星难度](starsystem/4Star.md)
 - [5 星难度](starsystem/5Star.md)
-- [8 星难度](starsystem/8Star.md)
 
 ### 素菜
 
