@@ -99,7 +99,7 @@ const validators = [
   async (filePath, lines, errors) => {
     const count = keyword => lines.filter(l => l.includes(keyword)).length;
 
-    if (count('勺') > count('勺子') + count('炒勺') + count('漏勺') + count('吧勺')) {
+    if (count('勺') > count('勺子') + count('炒勺') + count('漏勺') + count('吧勺') + count('挂勺')) {
       errors.push(`文件 ${filePath} 不符合仓库的规范！勺 不是一个精准的单位！`);
     }
     if (count(' 杯') > count('杯子')) {
