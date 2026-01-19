@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout, install tools..
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
         with:
           token: ${{ secrets.PAT }}
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: '22'
           cache: 'npm'
@@ -20,7 +20,7 @@ jobs:
       - run: npm run build
       - run: npm run lint
       # Save files.
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: '[ci skip] Automatic file changes/fix'
           branch: 'master'
@@ -34,13 +34,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout, install tools..
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
         with:
           lfs: true
           fetch-depth: 0
       # Use docker to build current directory ./Dockfile
       - name: Login to GitHub Container Registry
-        uses: docker/login-action@v1
+        uses: docker/login-action@v3
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
