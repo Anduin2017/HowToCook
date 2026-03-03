@@ -123,6 +123,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 ### 荤菜
 
+- [澳门湿版免治牛肉饭](dishes/meat_dish/澳门湿版免治牛肉饭.md)
 - [巴基斯坦牛肉咖喱](dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md)
 - [白菜猪肉炖粉条](dishes/meat_dish/白菜猪肉炖粉条.md)
 - [豉汁排骨](dishes/meat_dish/豉汁排骨.md)
@@ -261,6 +262,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [茶叶蛋](dishes/breakfast/茶叶蛋.md)
 - [蛋煎糍粑](dishes/breakfast/蛋煎糍粑.md)
 - [桂圆红枣粥](dishes/breakfast/桂圆红枣粥.md)
+- [韩国麻药鸡蛋](dishes/breakfast/韩国麻药鸡蛋.md)
 - [鸡蛋三明治](dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](dishes/breakfast/煎饺.md)
 - [金枪鱼酱三明治](dishes/breakfast/金枪鱼酱三明治.md)
@@ -279,6 +281,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [微波炉蒸蛋](dishes/breakfast/微波炉蒸蛋.md)
 - [温泉蛋](dishes/breakfast/温泉蛋/温泉蛋.md)
 - [燕麦鸡蛋饼](dishes/breakfast/燕麦鸡蛋饼.md)
+- [意式香肠北非蛋](dishes/breakfast/意式香肠北非蛋.md)
 - [蒸花卷](dishes/breakfast/蒸花卷.md)
 - [蒸水蛋](dishes/breakfast/蒸水蛋.md)
 
@@ -395,6 +398,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [可乐桶](dishes/drink/可乐桶.md)
 - [奶茶](dishes/drink/奶茶.md)
 - [柠檬水](dishes/drink/柠檬水/柠檬水.md)
+- [牛油果拉西](dishes/drink/牛油果拉西.md)
 - [奇异果菠菜特调](dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md)
 - [砂糖椰子冰沙](dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md)
 - [酸梅汤](dishes/drink/酸梅汤/酸梅汤.md)
