@@ -20,7 +20,7 @@ jobs:
       - run: npm run build
       - run: npm run lint
       # Save files.
-      - uses: stefanzweifel/git-auto-commit-action@v7
+      - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7
         with:
           commit_message: '[ci skip] Automatic file changes/fix'
           branch: 'master'
@@ -40,7 +40,7 @@ jobs:
           fetch-depth: 0
       # Use docker to build current directory ./Dockfile
       - name: Login to GitHub Container Registry
-        uses: docker/login-action@v3
+        uses: docker/login-action@c94ce9fb468520275223c153574b00df6fe4bcc9 # v3
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
