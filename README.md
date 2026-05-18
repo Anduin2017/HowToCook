@@ -93,6 +93,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [凉拌油麦菜](dishes/vegetable_dish/凉拌油麦菜.md)
 - [皮蛋豆腐](dishes/vegetable_dish/皮蛋豆腐.md)
 - [蒲烧茄子](dishes/vegetable_dish/蒲烧茄子.md)
+- [乾隆白菜](dishes/vegetable_dish/乾隆白菜/乾隆白菜.md)
 - [芹菜拌茶树菇](dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md)
 - [清炒花菜](dishes/vegetable_dish/清炒花菜.md)
 - [清蒸南瓜](dishes/vegetable_dish/清蒸南瓜.md)

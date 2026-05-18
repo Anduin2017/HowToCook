@@ -75,9 +75,9 @@ const validators = [
       const contentBetweenTitles = lines.slice(mainTitleIndex + 1, firstSecondTitleIndex);
       let hasDifficultyLine = false;
       let hasCalorieLine = false;
-      const difficultyPatternGeneral = /^预估烹饪难度：(★*)$/;
-      const difficultyPatternStrict = /^预估烹饪难度：★{1,5}$/;
-      const caloriePattern = /^预估卡路里：\d+大卡$/;
+      const difficultyPatternGeneral = /^预估烹饪难度：\s*(★*)\s*$/;
+      const difficultyPatternStrict = /^预估烹饪难度：\s*★{1,5}\s*$/;
+      const caloriePattern = /^预估卡路里：\s*\d+\s*大卡$/;
 
       for (const line of contentBetweenTitles) {
         if (difficultyPatternGeneral.test(line)) {
