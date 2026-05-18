@@ -224,6 +224,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [猪肉烩酸菜](dishes/meat_dish/猪肉烩酸菜.md)
 - [柱候牛腩](dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](dishes/meat_dish/孜然牛肉.md)
+- [淄博烧烤](dishes/meat_dish/淄博烧烤/淄博烧烤.md)
 - [醉排骨](dishes/meat_dish/醉排骨/醉排骨.md)
 
 ### 水产
