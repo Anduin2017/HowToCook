@@ -119,7 +119,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 
 ### 荤菜
 
-- [澳门湿版免治牛肉饭](dishes/meat_dish/澳门湿版免治牛肉饭.md)
+- [澳门湿版免治牛肉饭](dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md)
 - [巴基斯坦牛肉咖喱](dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md)
 - [白菜猪肉炖粉条](dishes/meat_dish/白菜猪肉炖粉条.md)
 - [豉汁排骨](dishes/meat_dish/豉汁排骨.md)
