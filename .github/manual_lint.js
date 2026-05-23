@@ -182,6 +182,58 @@ const validators = [
     }
   },
 
+  // 检查菜谱描述：30-300字，需包含特点、营养价值、难度、制作时长
+  async (filePath, lines, errors) => {
+    if (filePath.includes('template/示例菜')) return;
+
+    const titles = lines.filter(l => l.startsWith('#'));
+    const mainTitleIndex = titles.length > 0 ? lines.indexOf(titles[0]) : -1;
+    const sections = lines.filter(l => l.startsWith('## '));
+    const firstSecondTitleIndex = sections.length > 0 ? lines.indexOf(sections[0]) : -1;
+
+    if (mainTitleIndex < 0 || firstSecondTitleIndex < 0) return;
+
+    const contentBetweenTitles = lines.slice(mainTitleIndex + 1, firstSecondTitleIndex);
+    const descriptionLines = contentBetweenTitles.filter(line => {
+      if (line === '') return false;
+      if (/^!\[.*\]\(.*\)$/.test(line)) return false;
+      if (/^预估烹饪难度：/.test(line)) return false;
+      if (/^预估卡路里：/.test(line)) return false;
+      return true;
+    });
+
+    const description = descriptionLines.join('').trim();
+
+    if (description.length === 0) {
+      errors.push(`文件 ${filePath} 不符合仓库的规范！缺少菜谱描述。请在主标题和"预估烹饪难度"之间添加一段30-300字的菜谱介绍，包含菜品特点、营养价值、难度和制作时长。`);
+    } else if (description.length < 30) {
+      errors.push(`文件 ${filePath} 不符合仓库的规范！菜谱描述太短（当前 ${description.length} 字），至少需要 30 字。请补充菜品特点、营养价值、难度和制作时长。`);
+    } else if (description.length > 300) {
+      errors.push(`文件 ${filePath} 不符合仓库的规范！菜谱描述太长（当前 ${description.length} 字），最多 300 字。请精简描述。`);
+    }
+  },
+
+  // 检查图片 alt 文本质量
+  async (filePath, lines, errors) => {
+    if (filePath.includes('template/示例菜')) return;
+
+    const content = lines.join('\n');
+    const altRegex = /!\[([^\]]*)\]\([^)]+\.(?:jpg|jpeg|png|gif|webp|svg)\)/gi;
+    let match;
+    while ((match = altRegex.exec(content)) !== null) {
+      const alt = match[1];
+      const prefix = alt.slice(0, 20);
+
+      if (alt === '示例菜成品') {
+        errors.push(`文件 ${filePath} 不符合仓库的规范！图片 alt 文本不能为"示例菜成品"，请替换为实际菜名！`);
+      } else if (/^[a-zA-Z0-9_-]+$/.test(alt) && alt.length < 20) {
+        errors.push(`文件 ${filePath} 不符合仓库的规范！图片 alt 文本"${alt}"看起来是拼音或英文缩写，应使用中文菜名！`);
+      } else if (alt === '成品' || alt === '效果图' || alt === '摆盘') {
+        errors.push(`文件 ${filePath} 不符合仓库的规范！图片 alt 文本"${alt}"过于泛泛，应包含具体菜名！`);
+      }
+    }
+  },
+
   // 检查图片引用是否存在
   async (filePath, lines, errors) => {
     const fileDir = path.dirname(filePath);
