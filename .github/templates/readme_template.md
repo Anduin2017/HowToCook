@@ -27,7 +27,7 @@ docker pull aiursoft/howtocookviewer
 docker run -d -p 5000:5000 aiursoft/howtocookviewer
 ```
 
-默认用户名密码: `admin`,`Admin@123456!`。启动后30分钟内会自动索引。
+默认用户名密码: `admin`,`Admin@123456!`。启动后 30 分钟内会自动索引。
 
 ## 如何贡献
 

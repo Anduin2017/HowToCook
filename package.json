@@ -27,10 +27,10 @@
   },
   "homepage": "https://cook.aiursoft.com",
   "dependencies": {
-    "textlint": "^12.1.0",
+    "markdownlint-cli": "^0.48.0",
+    "textlint": "^15.7.1",
     "textlint-rule-ja-space-between-half-and-full-width": "^2.2.0",
-    "textlint-rule-zh-half-and-full-width-bracket": "^1.1.0",
-    "markdownlint-cli":"0.41.0"
+    "textlint-rule-zh-half-and-full-width-bracket": "^1.1.0"
   },
   "devDependencies": {
     "glob": "^7.2.0"
