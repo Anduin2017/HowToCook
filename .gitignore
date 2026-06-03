@@ -3,7 +3,8 @@ node_modules/
 .history
 .DS_Store
 site/
+starsystem/
+properdocs.yml
 
 .idea
 *.iml
-mkdocs.yml
