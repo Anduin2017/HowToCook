@@ -1,12 +1,10 @@
 # 程序员做饭指南
 
-[![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
-[![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
 [![Man hours](https://manhours.aiursoft.com/r/github.com/Anduin2017/HowToCook.svg)](https://manhours.aiursoft.com/r/github.com/Anduin2017/HowToCook.html)
-[![Docker](https://img.shields.io/badge/docker-latest-blue?logo=docker)](https://github.com/Anduin2017/HowToCook/pkgs/container/how-to-cook)
-[![Join the AnduinOS Community on Revolt](https://img.shields.io/badge/Revolt-Join-fd6671?style=flat-square)](https://rvlt.gg/ndApqZEs)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhowtocook.aiursoft.com)](https://howtocook.aiursoft.com)
+[![Docker](https://img.shields.io/docker/pulls/aiursoft/howtocookviewer.svg)](https://hub.docker.com/r/aiursoft/howtocookviewer)
 
 最近宅在家做饭，作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
@@ -14,16 +12,22 @@
 
 同样，我希望它是一个由社区驱动和维护的开源项目，使更多人能够一起做一个有趣的仓库。所以非常欢迎大家贡献它~
 
+## 浏览菜谱
+
+请直接访问 HowToCook 网站浏览菜谱可视化：
+
+[https://howtocook.aiursoft.com/](https://howtocook.aiursoft.com/)
+
 ## 本地部署
 
 如果需要在本地部署菜谱 Web 服务，可以在安装 Docker 后运行下面命令：
 
 ```bash
-docker pull ghcr.io/anduin2017/how-to-cook:latest
-docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
+docker pull aiursoft/howtocookviewer
+docker run -d -p 5000:5000 aiursoft/howtocookviewer
 ```
 
-如需下载 PDF 版本，可以在浏览器中访问 [/document.pdf](https://cook.aiursoft.com/document.pdf)
+默认用户名密码: `admin`,`Admin@123456!`。启动后 30 分钟内会自动索引。
 
 ## 如何贡献
 
@@ -37,8 +41,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 ## 菜谱
 
-{{index_stars}}
-
 {{main}}
 
 ## 进阶知识学习
@@ -49,6 +51,8 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 ## 衍生作品推荐
 
+- [图像化菜谱：支持在线预览与 PDF 导出](https://king-jingxiang.github.io/HowToCook/)
 - [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
 - [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
 - [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
+- [厨房计划：开源中文菜谱 API - 由社区贡献，人人可用](https://proj.kitchen)

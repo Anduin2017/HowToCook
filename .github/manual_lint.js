@@ -2,6 +2,7 @@ const util = require("util");
 const glob = util.promisify(require('glob'));
 const fs = require("fs").promises;
 const path = require('path');
+const fsSyncAccess = require("fs");
 
 const MAX_FILE_SIZE = 1024 * 1024; // 1MB
 // glob 模式，定位菜谱 Markdown 文件和所有文件
@@ -66,15 +67,17 @@ const validators = [
       }
     });
 
-    // 检查烹饪难度
+    // 检查烹饪难度和卡路里
     const mainTitleIndex = titles.length > 0 ? lines.indexOf(titles[0]) : -1;
     const firstSecondTitleIndex = sections.length > 0 ? lines.indexOf(sections[0]) : -1;
 
     if (mainTitleIndex >= 0 && firstSecondTitleIndex >= 0 && mainTitleIndex < firstSecondTitleIndex) {
       const contentBetweenTitles = lines.slice(mainTitleIndex + 1, firstSecondTitleIndex);
       let hasDifficultyLine = false;
-      const difficultyPatternGeneral = /^预估烹饪难度：(★*)$/;
-      const difficultyPatternStrict = /^预估烹饪难度：★{1,5}$/;
+      let hasCalorieLine = false;
+      const difficultyPatternGeneral = /^预估烹饪难度：\s*(★*)\s*$/;
+      const difficultyPatternStrict = /^预估烹饪难度：\s*★{1,5}\s*$/;
+      const caloriePattern = /^预估卡路里：\s*\d+\s*大卡$/;
 
       for (const line of contentBetweenTitles) {
         if (difficultyPatternGeneral.test(line)) {
@@ -84,11 +87,16 @@ const validators = [
             const starCount = starMatch ? starMatch.length : 0;
             errors.push(`文件 ${filePath} 不符合仓库的规范！烹饪难度的星星数量必须在1-5颗之间！(当前为 ${starCount} 颗)`);
           }
-          break;
+        }
+        if (caloriePattern.test(line)) {
+          hasCalorieLine = true;
         }
       }
       if (!hasDifficultyLine) {
         errors.push(`文件 ${filePath} 不符合仓库的规范！在大标题和第一个二级标题之间必须包含"预估烹饪难度：★★"格式的难度评级，星星数量必须在1-5颗之间！`);
+      }
+      if (!hasCalorieLine) {
+        errors.push(`文件 ${filePath} 不符合仓库的规范！在大标题和第一个二级标题之间必须包含"预估卡路里：XXX大卡"。`);
       }
     } else if (mainTitleIndex === -1 || firstSecondTitleIndex === -1) {
         errors.push(`文件 ${filePath} 结构错误，无法定位烹饪难度区域。`);
@@ -96,10 +104,39 @@ const validators = [
   },
 
   
+  // 检查 操作 章节必须使用有序列表
+  async (filePath, lines, errors) => {
+    const opTitleIdx = lines.findIndex(l => l.startsWith('## 操作'));
+    if (opTitleIdx === -1) return;
+
+    const rawContent = await fs.readFile(filePath, 'utf8');
+    const rawLines = rawContent.split('\n');
+
+    const nextH2 = rawLines.findIndex((l, i) => i > opTitleIdx && l.startsWith('## '));
+    const endIdx = nextH2 === -1 ? rawLines.length : nextH2;
+
+    for (let i = opTitleIdx + 1; i < endIdx; i++) {
+      const rawLine = rawLines[i];
+      if (/^[-*+] /.test(rawLine)) {
+        errors.push(`文件 ${filePath} 不符合仓库的规范！「操作」章节必须使用有序列表 (1. 2. 3.)，而不是 "${rawLine.slice(0, 2)}"！`);
+      }
+    }
+  },
+
+  // 检查菜谱中不得出现 HTML 注释（示例菜模板除外）
+  async (filePath, lines, errors) => {
+    if (filePath.includes('template/示例菜')) return;
+
+    const rawContent = await fs.readFile(filePath, 'utf8');
+    if (rawContent.includes('<!--')) {
+      errors.push(`文件 ${filePath} 不符合仓库的规范！菜谱中不得出现 HTML 注释（<!-- -->）。请删除所有注释。`);
+    }
+  },
+
   async (filePath, lines, errors) => {
     const count = keyword => lines.filter(l => l.includes(keyword)).length;
 
-    if (count('勺') > count('勺子') + count('炒勺') + count('漏勺') + count('吧勺')) {
+    if (count('勺') > count('勺子') + count('炒勺') + count('漏勺') + count('吧勺') + count('挂勺')) {
       errors.push(`文件 ${filePath} 不符合仓库的规范！勺 不是一个精准的单位！`);
     }
     if (count(' 杯') > count('杯子')) {
@@ -142,6 +179,101 @@ const validators = [
     const footer = '如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。';
     if (!lines.includes(footer)) {
       errors.push(`文件 ${filePath} 不符合仓库的规范！ 它没有包含必需的附加内容！，需要在最后一行添加模板中的【${footer}】`);
+    }
+  },
+
+  // 检查菜谱描述：30-300字，需包含特点、营养价值、难度、制作时长
+  async (filePath, lines, errors) => {
+    if (filePath.includes('template/示例菜')) return;
+
+    const titles = lines.filter(l => l.startsWith('#'));
+    const mainTitleIndex = titles.length > 0 ? lines.indexOf(titles[0]) : -1;
+    const sections = lines.filter(l => l.startsWith('## '));
+    const firstSecondTitleIndex = sections.length > 0 ? lines.indexOf(sections[0]) : -1;
+
+    if (mainTitleIndex < 0 || firstSecondTitleIndex < 0) return;
+
+    const contentBetweenTitles = lines.slice(mainTitleIndex + 1, firstSecondTitleIndex);
+    const descriptionLines = contentBetweenTitles.filter(line => {
+      if (line === '') return false;
+      if (/^!\[.*\]\(.*\)$/.test(line)) return false;
+      if (/^预估烹饪难度：/.test(line)) return false;
+      if (/^预估卡路里：/.test(line)) return false;
+      return true;
+    });
+
+    const description = descriptionLines.join('').trim();
+
+    if (description.length === 0) {
+      errors.push(`文件 ${filePath} 不符合仓库的规范！缺少菜谱描述。请在主标题和"预估烹饪难度"之间添加一段30-300字的菜谱介绍，包含菜品特点、营养价值、难度和制作时长。`);
+    } else if (description.length < 30) {
+      errors.push(`文件 ${filePath} 不符合仓库的规范！菜谱描述太短（当前 ${description.length} 字），至少需要 30 字。请补充菜品特点、营养价值、难度和制作时长。`);
+    } else if (description.length > 300) {
+      errors.push(`文件 ${filePath} 不符合仓库的规范！菜谱描述太长（当前 ${description.length} 字），最多 300 字。请精简描述。`);
+    }
+  },
+
+  // 检查图片 alt 文本质量
+  async (filePath, lines, errors) => {
+    if (filePath.includes('template/示例菜')) return;
+
+    const content = lines.join('\n');
+    const altRegex = /!\[([^\]]*)\]\([^)]+\.(?:jpg|jpeg|png|gif|webp|svg)\)/gi;
+    let match;
+    while ((match = altRegex.exec(content)) !== null) {
+      const alt = match[1];
+      const prefix = alt.slice(0, 20);
+
+      if (alt === '示例菜成品') {
+        errors.push(`文件 ${filePath} 不符合仓库的规范！图片 alt 文本不能为"示例菜成品"，请替换为实际菜名！`);
+      } else if (/^[a-zA-Z0-9_-]+$/.test(alt) && alt.length < 20) {
+        errors.push(`文件 ${filePath} 不符合仓库的规范！图片 alt 文本"${alt}"看起来是拼音或英文缩写，应使用中文菜名！`);
+      } else if (alt === '成品' || alt === '效果图' || alt === '摆盘') {
+        errors.push(`文件 ${filePath} 不符合仓库的规范！图片 alt 文本"${alt}"过于泛泛，应包含具体菜名！`);
+      }
+    }
+  },
+
+  // 检查图片引用是否存在
+  async (filePath, lines, errors) => {
+    const fileDir = path.dirname(filePath);
+    const content = lines.join('\n');
+    
+    // 匹配 ![alt](path) 和 [text](path) 的图片引用
+    // 支持相对路径和 URL
+    const imageRegex = /\[([^\]]*)\]\(([^)]+\.(?:jpg|jpeg|png|gif|webp|svg))\)/gi;
+    let match;
+    const imageRefs = new Set();
+    
+    while ((match = imageRegex.exec(content)) !== null) {
+      imageRefs.add(match[2]);
+    }
+
+    // 检查每个引用的图片是否存在
+    for (const imagePath of imageRefs) {
+      // 跳过 URL（http/https/ftp）
+      if (imagePath.startsWith('http://') || imagePath.startsWith('https://') || imagePath.startsWith('ftp://')) {
+        continue;
+      }
+      
+      // 解析相对路径
+      let fullImagePath;
+      if (imagePath.startsWith('/')) {
+        // 绝对路径（相对于repo根目录）
+        fullImagePath = path.resolve(__dirname, '../../', imagePath);
+      } else if (imagePath.includes('..')) {
+        // 相对路径（包含 ..）
+        fullImagePath = path.resolve(fileDir, imagePath);
+      } else {
+        // 相对路径（同目录或子目录）
+        fullImagePath = path.resolve(fileDir, imagePath);
+      }
+      
+      try {
+        fsSyncAccess.accessSync(fullImagePath);
+      } catch (err) {
+        errors.push(`文件 ${filePath} 引用了不存在的图片: ${imagePath}`);
+      }
     }
   }
 ];
