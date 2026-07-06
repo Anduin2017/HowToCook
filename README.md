@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/anduin2017-howtocook-badge.png)](https://mseep.ai/app/anduin2017-howtocook)
+
 # 程序员做饭指南
 
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
