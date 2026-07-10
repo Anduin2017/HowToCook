@@ -82,6 +82,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [椒盐玉米](dishes/vegetable_dish/椒盐玉米/椒盐玉米.md)
 - [金钱蛋](dishes/vegetable_dish/金钱蛋.md)
 - [金针菇日本豆腐煲](dishes/vegetable_dish/金针菇日本豆腐煲.md)
+- [韭菜炒蛋](dishes/vegetable_dish/韭菜炒蛋/韭菜炒蛋.md)
 - [烤茄子](dishes/vegetable_dish/烤茄子/烤茄子.md)
 - [榄菜肉末四季豆](dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md)
 - [雷椒皮蛋](dishes/vegetable_dish/雷椒皮蛋.md)
