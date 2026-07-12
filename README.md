@@ -38,8 +38,8 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 ## 搭建环境
 
 - [厨房准备](tips/厨房准备.md)
-- [如何选择现在吃什么](tips/如何选择现在吃什么.md)
 - [如何洗碗](tips/如何洗碗.md)
+- [如何选择现在吃什么](tips/如何选择现在吃什么.md)
 - [高压力锅](tips/learn/高压力锅.md)
 - [空气炸锅](tips/learn/空气炸锅.md)
 - [去腥](tips/learn/去腥.md)
