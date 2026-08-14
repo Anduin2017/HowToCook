@@ -56,3 +56,4 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
 - [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
 - [厨房计划：开源中文菜谱 API - 由社区贡献，人人可用](https://proj.kitchen)
+- [孕养一日：基于权威指南的离线孕期膳食与生活记录应用；从 HowToCook 固定版本筛选家常烹饪思路，按孕期食品安全要求改写并保留来源追溯，提供覆盖孕 0 周 0 天至 41 周 6 天的 294 个不同日五餐菜单、完整离线菜谱、安全分流，以及餐食、体重、活动和补充剂的本地记录；无账号、无后端、无遥测，并支持导出 JSON 与就诊沟通摘要 PDF。](https://github.com/lichong-a/pregnancy-nutrition-tracking)
