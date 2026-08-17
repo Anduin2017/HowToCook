@@ -57,3 +57,4 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
 - [厨房计划：开源中文菜谱 API - 由社区贡献，人人可用](https://proj.kitchen)
 - [孕养一日：离线孕期膳食与生活记录APP](https://github.com/lichong-a/pregnancy-nutrition-tracking)
+- [是啊吃什么(YeahWhat2Eat)](https://github.com/chiadan/YearWhat2Eat)
