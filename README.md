@@ -470,3 +470,4 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [厨房计划：开源中文菜谱 API - 由社区贡献，人人可用](https://proj.kitchen)
 - [孕养一日：离线孕期膳食与生活记录APP](https://github.com/lichong-a/pregnancy-nutrition-tracking)
 - [是啊吃什么(YeahWhat2Eat)](https://github.com/chiadan/YearWhat2Eat)
+- [Vibe Cook：一款基于 HowToCook，把「看着馋但迟迟不动手」变成「跟着一步步就做出来了」的沉浸式烹饪 App](https://github.com/zkeq/vibe-cook)　[在线访问](https://cook.corerevive.cn)
