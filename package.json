@@ -14,10 +14,10 @@
     "dishes"
   ],
   "scripts": {
-    "build": "node ./.github/readme-generate.js",
+    "build": "node ./.github/readme-generate.js && node ./.github/readme-generate-en.js",
     "manuallint": "node .github/manual_lint.js",
     "textlint": "textlint . --fix",
-    "markdownlint": "markdownlint ./dishes ./tips",
+    "markdownlint": "markdownlint ./dishes ./tips ./en",
     "lint": "npm run textlint && npm run markdownlint && npm run manuallint && echo 'Lint finished. All passed.'"
   },
   "author": "Anduin2017",
