@@ -120,6 +120,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [印度葫芦丸子](dishes/vegetable_dish/印度葫芦丸子.md)
 - [印度土豆花菜](dishes/vegetable_dish/印度土豆花菜.md)
 - [油醋爆蛋](dishes/vegetable_dish/油醋爆蛋.md)
+- [炸洋葱花](dishes/vegetable_dish/炸洋葱花/炸洋葱花.md)
 
 ### 荤菜
 
