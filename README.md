@@ -49,6 +49,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [学习炒与煎](tips/learn/学习炒与煎.md)
 - [学习凉拌](tips/learn/学习凉拌.md)
 - [学习腌](tips/learn/学习腌.md)
+- [学习用刀](tips/learn/学习用刀.md)
 - [学习蒸](tips/learn/学习蒸.md)
 - [学习煮](tips/learn/学习煮.md)
 
