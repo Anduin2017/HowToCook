@@ -49,6 +49,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [学习炒与煎](tips/learn/学习炒与煎.md)
 - [学习凉拌](tips/learn/学习凉拌.md)
 - [学习腌](tips/learn/学习腌.md)
+- [学习用刀](tips/learn/学习用刀.md)
 - [学习蒸](tips/learn/学习蒸.md)
 - [学习煮](tips/learn/学习煮.md)
 
@@ -475,4 +476,5 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [孕养一日：离线孕期膳食与生活记录APP](https://github.com/lichong-a/pregnancy-nutrition-tracking)
 - [是啊吃什么(YeahWhat2Eat)](https://github.com/chiadan/YearWhat2Eat)
 - [Vibe Cook：一款基于 HowToCook，把「看着馋但迟迟不动手」变成「跟着一步步就做出来了」的沉浸式烹饪 App](https://github.com/zkeq/vibe-cook)　[在线访问](https://cook.corerevive.cn)
+- [COOKer：基于 HowToCook 的个人做饭助手，支持按食材推荐、菜谱检索、人数换算、购物清单和 MCP 接入](https://github.com/Bryce-border/COOKer-agent)
 - [Cannon Tales：基于 HowToCook 的多语言在线菜谱站，支持 16 种语言](https://cannontales.com/)

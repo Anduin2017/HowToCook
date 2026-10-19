@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-label="切菜前：稳定砧板，留出操作空间">
+<rect width="960" height="420" rx="20" fill="#faf7ef"/>
+<style>text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#24392d;font-size:22px}.title{font-size:30px;font-weight:700}.small{font-size:18px}</style>
+<text x="35" y="50" class="title">切菜前：稳定砧板，留出操作空间</text>
+<rect x="260" y="105" width="440" height="220" rx="20" fill="#d3ae7e" stroke="#647b5b" stroke-width="8"/>
+<text x="355" y="210">砧板平放、不伸出台面</text><text x="365" y="250" class="small">下垫防滑垫或拧干湿布</text>
+<circle cx="130" cy="200" r="80" fill="#dce8ce"/><text x="82" y="207">待切食材</text>
+<circle cx="825" cy="160" r="65" fill="#dce8ce"/><text x="790" y="168">成品碗</text>
+<rect x="760" y="260" width="135" height="60" rx="12" fill="#ecd6bd"/><text x="792" y="298">废料碗</text>
+<text x="65" y="380">生肉与即食食物分开刀板；手、刀柄和台面保持清洁。</text></svg>
