@@ -478,4 +478,3 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [Vibe Cook：一款基于 HowToCook，把「看着馋但迟迟不动手」变成「跟着一步步就做出来了」的沉浸式烹饪 App](https://github.com/zkeq/vibe-cook)　[在线访问](https://cook.corerevive.cn)
 - [COOKer：基于 HowToCook 的个人做饭助手，支持按食材推荐、菜谱检索、人数换算、购物清单和 MCP 接入](https://github.com/Bryce-border/COOKer-agent)
 - [Cannon Tales：基于 HowToCook 的多语言在线菜谱站，支持 16 种语言](https://cannontales.com/)
-- [微信小程序-今天做什么菜品：基于 HowToCook 的微信菜谱小程序，菜谱详情提供步骤、份量调整和备料清单。](https://github.com/Distantprogrammer/wx-food)
