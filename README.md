@@ -374,6 +374,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 ### 汤与粥
 
 - [昂刺鱼豆腐汤](dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+- [白萝卜丝清汤](dishes/soup/白萝卜丝清汤.md)
 - [陈皮排骨汤](dishes/soup/陈皮排骨汤/陈皮排骨汤.md)
 - [番茄牛肉蛋花汤](dishes/soup/番茄牛肉蛋花汤.md)
 - [勾芡香菇汤](dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
