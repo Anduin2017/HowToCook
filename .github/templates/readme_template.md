@@ -56,3 +56,8 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
 - [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
 - [厨房计划：开源中文菜谱 API - 由社区贡献，人人可用](https://proj.kitchen)
+- [孕养一日：离线孕期膳食与生活记录APP](https://github.com/lichong-a/pregnancy-nutrition-tracking)
+- [是啊吃什么(YeahWhat2Eat)](https://github.com/chiadan/YearWhat2Eat)
+- [Vibe Cook：一款基于 HowToCook，把「看着馋但迟迟不动手」变成「跟着一步步就做出来了」的沉浸式烹饪 App](https://github.com/zkeq/vibe-cook)　[在线访问](https://cook.corerevive.cn)
+- [COOKer：基于 HowToCook 的个人做饭助手，支持按食材推荐、菜谱检索、人数换算、购物清单和 MCP 接入](https://github.com/Bryce-border/COOKer-agent)
+- [Cannon Tales：基于 HowToCook 的多语言在线菜谱站，支持 16 种语言](https://cannontales.com/)

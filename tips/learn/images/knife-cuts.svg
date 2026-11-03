@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-label="先做平底，再切片 → 切条 → 切丁">
+<rect width="960" height="420" rx="20" fill="#faf7ef"/>
+<style>text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#24392d;font-size:22px}.title{font-size:30px;font-weight:700}.small{font-size:18px}</style>
+<text x="35" y="50" class="title">先做平底，再切片 → 切条 → 切丁</text>
+<circle cx="125" cy="190" r="65" fill="#e6b153"/><path d="M65 220H185" stroke="#a34d34" stroke-width="5"/>
+<text x="65" y="300">切掉薄片</text><text x="62" y="332" class="small">形成稳定底面</text>
+<path d="M255 240V150Q310 85 365 150V240Z" fill="#e6b153"/><path d="M250 245H370" stroke="#647b5b" stroke-width="7"/>
+<text x="260" y="300">平底贴板</text>
+<g fill="#e6b153" stroke="#b9812d" stroke-width="2"><rect x="440" y="145" width="25" height="100"/><rect x="478" y="145" width="25" height="100"/><rect x="516" y="145" width="25" height="100"/>
+<rect x="610" y="145" width="15" height="100"/><rect x="638" y="145" width="15" height="100"/><rect x="666" y="145" width="15" height="100"/>
+<rect x="770" y="160" width="28" height="28"/><rect x="815" y="160" width="28" height="28"/><rect x="770" y="208" width="28" height="28"/><rect x="815" y="208" width="28" height="28"/></g>
+<text x="460" y="300">切片</text><text x="620" y="300">切条</text><text x="780" y="300">切丁</text>
+<text x="235" y="385" class="small">少量叠放；食材打滑或剩余部分太小时先停刀。</text></svg>

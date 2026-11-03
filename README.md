@@ -49,6 +49,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [学习炒与煎](tips/learn/学习炒与煎.md)
 - [学习凉拌](tips/learn/学习凉拌.md)
 - [学习腌](tips/learn/学习腌.md)
+- [学习用刀](tips/learn/学习用刀.md)
 - [学习蒸](tips/learn/学习蒸.md)
 - [学习煮](tips/learn/学习煮.md)
 
@@ -63,6 +64,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [炒滑蛋](dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
 - [炒茄子](dishes/vegetable_dish/炒茄子.md)
 - [炒青菜](dishes/vegetable_dish/炒青菜.md)
+- [炒土豆和胡萝卜蒸菜](dishes/vegetable_dish/炒土豆和胡萝卜蒸菜.md)
 - [葱煎豆腐](dishes/vegetable_dish/葱煎豆腐.md)
 - [脆皮豆腐](dishes/vegetable_dish/脆皮豆腐.md)
 - [地三鲜](dishes/vegetable_dish/地三鲜/地三鲜.md)
@@ -119,6 +121,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [印度葫芦丸子](dishes/vegetable_dish/印度葫芦丸子.md)
 - [印度土豆花菜](dishes/vegetable_dish/印度土豆花菜.md)
 - [油醋爆蛋](dishes/vegetable_dish/油醋爆蛋.md)
+- [炸洋葱花](dishes/vegetable_dish/炸洋葱花/炸洋葱花.md)
 
 ### 荤菜
 
@@ -131,6 +134,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [葱烧鸡腿](dishes/meat_dish/葱烧鸡腿.md)
 - [带把肘子](dishes/meat_dish/带把肘子.md)
 - [冬瓜酿肉](dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
+- [冬瓜桑拿鸡](dishes/meat_dish/冬瓜桑拿鸡.md)
 - [豆豉鲮鱼油麦菜](dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md)
 - [番茄红酱](dishes/meat_dish/番茄红酱.md)
 - [粉蒸肉](dishes/meat_dish/粉蒸肉.md)
@@ -337,6 +341,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [手工水饺](dishes/staple/手工水饺.md)
 - [酸辣蕨根粉](dishes/staple/酸辣蕨根粉.md)
 - [汤面](dishes/staple/汤面.md)
+- [滕州菜煎饼](dishes/staple/滕州菜煎饼.md)
 - [微波炉腊肠煲仔饭](dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 - [西红柿鸡蛋挂面](dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 - [鲜肉烧卖](dishes/staple/鲜肉烧卖.md)
@@ -369,8 +374,8 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 ### 汤与粥
 
 - [昂刺鱼豆腐汤](dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+- [白萝卜丝清汤](dishes/soup/白萝卜丝清汤.md)
 - [陈皮排骨汤](dishes/soup/陈皮排骨汤/陈皮排骨汤.md)
-- [陈皮排骨汤](dishes/soup/陈皮排骨汤.md)
 - [番茄牛肉蛋花汤](dishes/soup/番茄牛肉蛋花汤.md)
 - [勾芡香菇汤](dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
 - [黄瓜皮蛋汤](dishes/soup/黄瓜皮蛋汤.md)
@@ -383,6 +388,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [排骨苦瓜汤](dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md)
 - [排骨山药玉米汤](dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md)
 - [皮蛋瘦肉粥](dishes/soup/皮蛋瘦肉粥.md)
+- [山药南瓜炖鸡汤](dishes/soup/山药南瓜炖鸡汤.md)
 - [生汆丸子汤](dishes/soup/生汆丸子汤.md)
 - [西红柿鸡蛋汤](dishes/soup/西红柿鸡蛋汤.md)
 - [小米粥](dishes/soup/小米粥.md)
@@ -468,3 +474,8 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
 - [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
 - [厨房计划：开源中文菜谱 API - 由社区贡献，人人可用](https://proj.kitchen)
+- [孕养一日：离线孕期膳食与生活记录APP](https://github.com/lichong-a/pregnancy-nutrition-tracking)
+- [是啊吃什么(YeahWhat2Eat)](https://github.com/chiadan/YearWhat2Eat)
+- [Vibe Cook：一款基于 HowToCook，把「看着馋但迟迟不动手」变成「跟着一步步就做出来了」的沉浸式烹饪 App](https://github.com/zkeq/vibe-cook)　[在线访问](https://cook.corerevive.cn)
+- [COOKer：基于 HowToCook 的个人做饭助手，支持按食材推荐、菜谱检索、人数换算、购物清单和 MCP 接入](https://github.com/Bryce-border/COOKer-agent)
+- [Cannon Tales：基于 HowToCook 的多语言在线菜谱站，支持 16 种语言](https://cannontales.com/)

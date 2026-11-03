@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-label="逆纹切肉：切线横跨肌肉纤维">
+<rect width="960" height="420" rx="20" fill="#faf7ef"/>
+<style>text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#24392d;font-size:22px}.title{font-size:30px;font-weight:700}.small{font-size:18px}</style>
+<text x="35" y="50" class="title">逆纹切肉：切线横跨肌肉纤维</text>
+<rect x="75" y="100" width="590" height="230" rx="40" fill="#e8b6a7"/>
+<g stroke="#b96859" stroke-width="6"><path d="M105 140H635M105 180H635M105 220H635M105 260H635M105 300H635"/></g>
+<g stroke="#265d54" stroke-width="5" stroke-dasharray="10 7"><path d="M230 90V340M350 90V340M470 90V340"/></g>
+<text x="710" y="160">横线：纤维方向</text><text x="710" y="215">竖虚线：切线</text><text x="710" y="270" class="small">每段纤维变短</text>
+<text x="95" y="385">先辨认纹理，再调整肉块位置；并非固定朝身体某个方向切。</text></svg>
