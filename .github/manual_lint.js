@@ -6,8 +6,8 @@ const fsSyncAccess = require("fs");
 
 const MAX_FILE_SIZE = 1024 * 1024; // 1MB
 // glob 模式，定位菜谱 Markdown 文件和所有文件
-const DISHES_GLOB = path.resolve(__dirname, '../dishes/**/*.md');
-const ALL_FILES_GLOB = path.resolve(__dirname, '../dishes/**/*');
+const DISHES_GLOB = path.resolve(__dirname, '../dishes/**/*.md').replace(/\\/g, '/');
+const ALL_FILES_GLOB = path.resolve(__dirname, '../dishes/**/*').replace(/\\/g, '/');
 
 // 工具函数：获取文件状态，包括大小
 async function getFileStats(filePath) {
@@ -47,7 +47,7 @@ const validators = [
     }
 
     const sections = lines.filter(l => l.startsWith('## '));
-    const requiredSections = ['## 必备原料和工具', '## 计算', '## 操作', '## 附加内容'];
+    const requiredSections = ['## 工具', '## 原料', '## 操作', '## 附加内容'];
 
     
     if (sections.length !== requiredSections.length) {
@@ -125,7 +125,7 @@ const validators = [
 
   // 检查菜谱中不得出现 HTML 注释（示例菜模板除外）
   async (filePath, lines, errors) => {
-    if (filePath.includes('template/示例菜')) return;
+    if (filePath.replace(/\\/g, '/').includes('template/示例菜')) return;
 
     const rawContent = await fs.readFile(filePath, 'utf8');
     if (rawContent.includes('<!--')) {
@@ -164,10 +164,10 @@ const validators = [
   async (filePath, lines, errors) => {
     const hasPortion = lines.some(l => l.includes('份数'));
     const hasTotal = lines.some(l => l.includes('总量'));
-    const hasTemplateLine = lines.some(l => l.includes('每次制作前需要确定计划做几份。一份正好够'));
+    const hasTemplateLine = lines.some(l => l.includes('制作前需要确定计划做几份'));
 
     if (hasPortion && (!hasTotal || !hasTemplateLine)) {
-      errors.push(`文件 ${filePath} 不符合仓库的规范！它使用份数作为基础，这种情况下一般是一次制作，制作多份的情况。请标明：总量 并写明 '每次制作前需要确定计划做几份。一份正好够 几 个人食用。'。`);
+      errors.push(`文件 ${filePath} 不符合仓库的规范！它使用份数作为基础，这种情况下一般是一次制作，制作多份的情况。请标明：总量 并写明 '当前 N 份量约 X 人，制作前需要确定计划做几份。'。`);
     }
     if (lines.some(l => l.includes('每人') || l.includes('人数'))) {
       errors.push(`文件 ${filePath} 不符合仓库的规范！请基于每道菜\\每份为基准。不要基于人数。人数是一个可能会导致在应用中发生问题的单位。如果需要面向大量的人食用，请标明一个人需要几份。`);
@@ -184,7 +184,7 @@ const validators = [
 
   // 检查菜谱描述：30-300字，需包含特点、营养价值、难度、制作时长
   async (filePath, lines, errors) => {
-    if (filePath.includes('template/示例菜')) return;
+    if (filePath.replace(/\\/g, '/').includes('template/示例菜')) return;
 
     const titles = lines.filter(l => l.startsWith('#'));
     const mainTitleIndex = titles.length > 0 ? lines.indexOf(titles[0]) : -1;
@@ -215,7 +215,7 @@ const validators = [
 
   // 检查图片 alt 文本质量
   async (filePath, lines, errors) => {
-    if (filePath.includes('template/示例菜')) return;
+    if (filePath.replace(/\\/g, '/').includes('template/示例菜')) return;
 
     const content = lines.join('\n');
     const altRegex = /!\[([^\]]*)\]\([^)]+\.(?:jpg|jpeg|png|gif|webp|svg)\)/gi;
