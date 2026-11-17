@@ -429,6 +429,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [草莓酱](dishes/condiment/草莓酱/草莓酱.md)
 - [葱油](dishes/condiment/葱油.md)
 - [简易版炒糖色](dishes/condiment/简易版炒糖色.md)
+- [山西炒西红柿酱](dishes/condiment/山西炒西红柿酱.md)
 - [蒜香酱油](dishes/condiment/蒜香酱油.md)
 - [糖醋汁](dishes/condiment/糖醋汁.md)
 - [油泼辣子](dishes/condiment/油泼辣子/油泼辣子.md)
